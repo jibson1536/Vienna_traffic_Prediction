@@ -1,0 +1,577 @@
+line_id,description,start_time,end_time,occurrence_count,duration_minutes
+Linie 1,Fremdunfall Züge halten bei Linie 1,2026-03-25 13:00:25,2026-03-25 13:45:10,4,44.75
+Linie 1,RadParade Züge halten bei Linie 1,2026-03-29 10:00:25,2026-03-29 11:45:09,8,104.73333333333333
+Linie 1,Rettungseinsatz Einstieg bei Linie 1 Richtung Prater,2026-03-27 09:45:10,2026-03-27 10:30:17,4,45.11666666666667
+Linie 11,Fremdunfall Züge halten bei Linie 11 Richtung Otto-Probst-Platz,2026-03-25 09:45:09,2026-03-25 11:15:15,6,90.1
+Linie 12,RadParade Züge halten bei Linie 12,2026-03-29 09:15:15,2026-03-29 12:15:09,12,179.9
+Linie 18,RadParade Züge halten bei Linie 18,2026-03-29 09:15:15,2026-03-29 12:15:09,12,179.9
+Linie 2,Gleisschaden Umleitung bis Resselgasse (Karlsplatz) über Linie 2,2026-03-27 11:00:29,2026-03-27 11:30:18,3,29.816666666666666
+Linie 25,Weichenschaden Einstieg Tokiostraße bei Linie 25,2026-03-27 07:30:18,2026-03-27 10:45:10,28,194.86666666666667
+Linie 31,Betriebsstörung  Züge halten bei Linie 31 Richtung Stammersdorf,2026-03-26 18:30:19,2026-03-26 19:15:10,4,44.85
+Linie 40,Rettungseinsatz Züge halten bei Linie 40,2026-03-25 13:00:25,2026-03-25 13:45:10,4,44.75
+Linie 42,Falschparker Umleitung bis Gersthof < über Linien 42/9 Einstieg bei Linie 42,2026-03-27 12:15:10,2026-03-27 13:00:28,4,45.3
+Linie 42,Rettungseinsatz Züge halten bei Linie 42 Umleitung über  die Linie 42,2026-03-25 13:00:25,2026-03-25 13:45:10,4,44.75
+Linie 44,Schadhafter Zug Einstieg bei Linie 44,2026-03-28 06:15:08,2026-03-28 07:00:25,4,45.28333333333333
+Linie 46,RadParade Züge halten bei Linie 46,2026-03-29 09:15:15,2026-03-29 11:45:09,22,149.9
+Linie 48,Gleisbauarbeiten Busse halten bei Linie 48A in Burggasse,2026-03-22 23:45:10,2026-03-29 02:45:08,250,8819.966666666667
+Linie 48,Gleisbauarbeiten Busse halten bei Linie 48A in Neustiftgasse,2026-03-22 23:30:16,2026-03-29 02:45:08,378,8834.866666666667
+Linie 49,Polizeieinsatz Einstieg bei Linie 49,2026-03-23 10:30:18,2026-03-23 11:15:10,4,44.86666666666667
+Linie 5,Bauarbeiten Busse halten Pasettistraße vor Hellwagstraße (bei Linie 5A),2026-03-22 19:58:54,2026-03-29 13:15:09,653,9676.25
+Linie 5,RadParade Züge halten bei Linie 5 Richtung Westbahnhof,2026-03-29 10:00:25,2026-03-29 11:45:09,8,104.73333333333333
+Linie 6,Fremdunfall Züge halten bei Linie 6 Richtung Geiereckstraße,2026-03-25 09:45:09,2026-03-25 11:15:15,6,90.1
+Linie 60,Schadhafter Zug Züge halten bei Linie 60,2026-03-29 08:45:09,2026-03-29 09:30:16,4,45.11666666666667
+Other,"1 Bahnsteig Richtung Prater Hauptallee, 18 Bahnsteig Richtung Schlachthausgasse, 62 und Badner Bahn Bahnsteig Richtung Oper, Karlsplatz - Ausgang Landgutgasse",2026-03-22 19:58:54,2026-03-24 23:30:17,76,3091.383333333333
+Other,"1 Bahnsteig Richtung Prater Hauptallee, 62 und Badner Bahn Bahnsteig Richtung Oper, Karlsplatz - Ausgang Laurenzgasse",2026-03-26 19:45:10,2026-03-26 23:30:16,16,225.1
+Other,"1 Bahnsteig Richtung Stefan Fadinger Platz, 62 Bahnsteig Richtung Lainz, Badner Bahn Bahnsteig Richtung Baden - Ausgang Wiedner Hauptstraße",2026-03-22 19:58:54,2026-03-27 04:00:25,69,6241.516666666666
+Other,18 Bahnsteig Richtung Burggasse - Ausgang Innerer Wiedner Gürtel,2026-03-24 09:00:27,2026-03-24 09:30:23,3,29.933333333333334
+Other,18 Bahnsteig Richtung Burggasse - Ausgang Kliebergasse,2026-03-24 00:15:15,2026-03-24 04:00:23,16,225.13333333333333
+Other,18 Bahnsteig Richtung Burggasse - Passage,2026-03-23 06:45:10,2026-03-24 00:45:09,5,1079.9833333333333
+Other,18 Bahnsteig Richtung Schlachthausgasse - Ausgang Laxenburger Straße,2026-03-24 07:00:27,2026-03-24 07:30:18,3,29.85
+Other,18 Bahnsteig Richtung Schlachthausgasse - Ausgang Äußerer Wiedner Gürtel,2026-03-24 08:00:27,2026-03-24 08:45:10,4,44.71666666666667
+Other,18 Bahnsteig Richtung Schlachthausgasse - Passage - Ausgang Favoritenstraße,2026-03-23 08:00:24,2026-03-23 08:45:11,4,44.78333333333333
+Other,"6 Bahnsteig Richtung Geiereckstraße, 18 Bahnsteig Richtung Schlachthausgasse, 62 und Badner Bahn Bahnsteig Richtung Kärnter Ring / Oper - Ausgang Eichenstraße",2026-03-25 06:30:18,2026-03-25 23:30:17,18,1019.9833333333333
+Other,"6,18 Bahnsteig Richtung Burggasse, 62 Bahnsteig Richtung Lainz, Badner Bahn Bahnsteig Richtung Baden - Ausgang Eichenstraße",2026-03-26 00:15:10,2026-03-26 04:00:26,16,225.26666666666668
+Other,Ausgang Neustiftgasse - U2 Bahnsteig Fahrtrichtung Karlsplatz,2026-03-23 19:45:09,2026-03-27 09:45:10,37,5160.016666666666
+Other,Ausgang Volksgartenstraße - U2 Bahnsteig Fahrtrichtung Seestadt,2026-03-24 00:15:15,2026-03-24 04:00:23,16,225.13333333333333
+Other,"Bahnsteig Linie 1 Richtung Stefan-Fadinger-Platz, Linie 62 Richtung Lainz, Badner Bahn Richtung Baden - Ausgang Kliebergasse / Gassergasse",2026-03-23 19:45:09,2026-03-23 23:30:21,16,225.2
+Other,"Bahnsteig Linie 1, 18, 62, Badner Bahn - Ausgang Matzleinsdorfer Platz",2026-03-26 23:00:30,2026-03-27 01:45:09,12,164.65
+Other,Bauarbeiten Busse halten Anschützgasse 40,2026-03-22 19:58:54,2026-03-29 13:15:09,654,9676.25
+Other,Bauarbeiten Busse halten Breitenfurter Straße 236-238,2026-03-22 19:58:54,2026-03-29 13:15:09,534,9676.25
+Other,Bauarbeiten Busse halten Landstraßer Hauptstraße 117-123,2026-03-22 19:58:54,2026-03-29 13:15:09,653,9676.25
+Other,Betriebbstörung Betrieb ab Floridsdorf,2026-03-26 18:30:19,2026-03-26 20:45:09,90,134.83333333333334
+Other,Betriebsstörung  Betrieb ab Kagran,2026-03-26 20:00:25,2026-03-26 20:45:09,28,44.733333333333334
+Other,Betriebsstörung  Betrieb nur bis Floridsdorf,2026-03-26 18:30:19,2026-03-26 20:30:16,54,119.95
+Other,Betriebsstörung Betrieb ab Brünnlbadgasse,2026-03-26 11:30:17,2026-03-26 12:45:11,18,74.9
+Other,Betriebsstörung Betrieb ab Floridsdorf,2026-03-26 18:30:19,2026-03-26 20:30:16,27,119.95
+Other,Betriebsstörung Betrieb ab Kagran,2026-03-26 18:45:09,2026-03-26 19:45:10,30,60.016666666666666
+Other,Betriebsstörung Betrieb ab Rosensteingasse,2026-03-26 11:30:17,2026-03-26 12:15:10,12,44.88333333333333
+Other,Betriebsstörung Betrieb nur bis Josef-Baumann-Gasse,2026-03-26 18:30:19,2026-03-26 20:30:16,99,119.95
+Other,Betriebsstörung Betrieb nur bis Kagran,2026-03-26 18:30:19,2026-03-26 20:15:10,88,104.85
+Other,Betriebsstörung Betrieb über Li. 9+44,2026-03-26 11:30:17,2026-03-26 12:45:11,6,74.9
+Other,Betriebsstörung Züge halten Rosensteingasse 61,2026-03-26 11:30:17,2026-03-26 12:15:10,4,44.88333333333333
+Other,Betriebsstörung derzeit längere Wartezeiten,2026-03-29 00:30:18,2026-03-29 01:00:25,123,30.116666666666667
+Other,Busse halten  in der Anfangshaltestelle,2026-03-26 19:00:29,2026-03-26 20:00:25,8,59.93333333333333
+Other,Busse halten auf der Hauptfahrbahn,2026-03-22 22:00:24,2026-03-29 03:15:14,362,8954.833333333334
+Other,Demonstration Betrieb ab Landstraße S U,2026-03-22 19:58:54,2026-03-22 22:30:21,12,151.45
+Other,Demonstration Betrieb ab Liszstraße,2026-03-22 19:58:54,2026-03-22 22:30:21,12,151.45
+Other,Demonstration Betrieb ab St. Marx,2026-03-22 19:58:54,2026-03-22 22:30:21,120,151.45
+Other,Demonstration Derzeit kein Betrieb!,2026-03-28 13:15:10,2026-03-28 17:30:16,293,255.1
+Other,Derzeit kommt es bei der Linie 64A in beiden Richtungen zu unterschiedlichen Intervallen. Grund: Rettungseinsatz.,2026-03-27 16:15:10,2026-03-27 16:45:09,3,29.983333333333334
+Other,Die Linie 10 fährt derzeit nur zwischen Dornbach und Hütteldorfer Straße U. Die Linie 52 fährt derzeit nur zwischen Westbahnhof S U und Penzinger Straße. Die Züge der Linie 10 werden nach Breitensee umgeleitet und die Züge der Linie 52 werden nach Hietzing und weiter nach Unter Sankt Veit umgeleitet. Ein Schienenersatzverkehr zwischen Baumgarten und Anschützgasse wurde für Sie eingerichtet. Weichen Sie ersatzweise auf die Linien U3 und U4 aus. Voraussichtliche Dauer: Bis Betriebsschluss. Grund: Wasserrohrgebrechen im Bereich Linzer Straße.,2026-03-22 19:58:54,2026-03-23 00:00:27,18,241.55
+Other,"Die Linie 13A wird in Richtung Alser Straße, Skodagasse zwischen Hauptbahnhof S U und Kolschitzkygasse über Favoritenstraße umgeleitet. Voraussichtliche Dauer: 11:30 Uhr. Grund: Rettungseinsatz im Bereich Karl-Popper-Straße.",2026-03-27 10:00:27,2026-03-27 10:00:27,1,15.0
+Other,Die Linie 29A wird in Richtung Floridsdorf S U zwischen Dopschstraße und Eipeldauer Straße über die Siemensstraße umgeleitet. Voraussichtliche Dauer: 09:40 Uhr. Grund: Rettungseinsatz im Bereich Leopoldauer Platz.,2026-03-24 08:15:15,2026-03-24 08:15:15,1,15.0
+Other,"Die Linie 40A wird in Richtung Felix-Dahn-Straße zwischen Alserbachstraße und Gymnasiumstraße über Gürtel und Sternwartestraße umgeleitet. Voraussichtliche Dauer: 23:00 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Währinger Straße, Volksoper U.",2026-03-27 21:15:15,2026-03-27 21:15:15,1,15.0
+Other,"Die Linie 80A wird in Richtung Neu Marx zwischen Friedensgasse und Stadionbrücke über die Wittelsbachstraße, Erdberger Lände und Schlachthausgasse umgeleitet. Die Haltestellen Friedensgasse, Lukschgasse, Rustenschacherallee, Klaschkaweg und Stadionbrücke können dadurch nicht eingehalten werden. Voraussichtliche Dauer: Ende Mai 2026. Grund: Bauarbeiten im Bereich Stadionallee.",2026-03-22 19:58:54,2026-03-29 13:15:09,647,9676.25
+Other,"Die Linie 9A wird in Richtung Meidling Hauptstraße zwischen Tanbruckgasse und Ratschkygasse, Aichholzgasse örtlich umgeleitet. Die Störung dauert voraussichtlich bis 23:00 Uhr. Grund dafür ist ein Gasrohrgebrechen im Bereich Ratschkygasse 34.",2026-03-23 12:15:11,2026-03-23 18:30:18,26,375.1166666666667
+Other,Die Linie N35 ist derzeit in Richtung Salmannsdorf an der Weiterfahrt gehindert. Voraussichtliche Dauer: 01:40 Uhr. Grund: Verkehrsunfall im Haltestellenbereich Spittelau S U.,2026-03-28 00:15:09,2026-03-28 00:30:16,2,15.116666666666667
+Other,Fahrtbehinderung Betriebsstörung,2026-03-26 11:30:17,2026-03-29 08:45:09,303,4154.866666666667
+Other,Fahrtbehinderung Falschparker,2026-03-22 19:58:54,2026-03-28 22:00:23,462,8761.483333333334
+Other,Fahrtbehinderung Fremder Verkehrsunfall,2026-03-23 15:30:18,2026-03-28 18:45:09,193,7394.85
+Other,Fahrtbehinderung Gleisschaden,2026-03-27 10:45:10,2026-03-27 11:30:18,5,45.13333333333333
+Other,Fahrtbehinderung PKW im Gleis,2026-03-24 20:45:08,2026-03-24 21:30:15,28,45.11666666666667
+Other,Fahrtbehinderung RadParade,2026-03-29 09:15:15,2026-03-29 12:15:09,150,179.9
+Other,Fahrtbehinderung Schadhafter PKW,2026-03-23 18:15:09,2026-03-23 19:00:27,20,45.3
+Other,Fahrtbehinderung Schadhafter Zug,2026-03-25 08:45:09,2026-03-29 11:30:16,508,5925.116666666667
+Other,Fahrtbehinderung Signalstörung,2026-03-27 18:30:18,2026-03-27 19:30:17,26,59.983333333333334
+Other,Fahrtbehinderung Verkehrsunfall,2026-03-23 08:15:10,2026-03-28 01:00:30,296,6765.333333333333
+Other,Fahrtbehinderung Weichenschaden,2026-03-27 07:30:18,2026-03-27 10:45:10,112,194.86666666666667
+Other,Fahrtbehinderung wegen Betriebsstörung,2026-03-26 20:00:25,2026-03-26 20:45:09,8,44.733333333333334
+Other,Fahrtbehinderung wegen Demonstration,2026-03-22 19:58:54,2026-03-22 22:30:21,156,151.45
+Other,Fahrtbehinderung wegen Falschparker,2026-03-27 12:00:27,2026-03-27 12:45:10,5,44.71666666666667
+Other,Fahrtbehinderung wegen Feuerwehreinsatz,2026-03-26 15:00:29,2026-03-26 17:45:10,104,164.68333333333334
+Other,Fahrtbehinderung wegen Polizeieinsatz,2026-03-23 07:15:11,2026-03-29 13:15:09,230,8999.966666666667
+Other,Fahrtbehinderung wegen Rettungseinsatz,2026-03-22 21:15:10,2026-03-28 22:30:17,627,8715.116666666667
+Other,Fahrtbehinderung wegen Stromstörung,2026-03-27 20:00:26,2026-03-27 20:45:09,24,44.71666666666667
+Other,Fahrtrichtung 18 Schlachthausgasse - Zugang ÖBB Bahnsteig - Ausgang Favoritenstraße,2026-03-23 10:15:10,2026-03-23 11:45:10,7,90.0
+Other,Fahrtrichtung 60  Rodaun - Ausgang Breitenfurter Straße,2026-03-25 00:15:11,2026-03-25 04:00:24,16,225.21666666666667
+Other,Fahrtrichtung U4 Heiligenstadt. - Ausgang Ramperstorffergasse,2026-03-22 19:58:54,2026-03-29 13:15:09,647,9676.25
+Other,Falschparker Betrieb ab Dornbach,2026-03-26 11:30:17,2026-03-26 12:15:10,20,44.88333333333333
+Other,Falschparker Betrieb ab Gaußplatz,2026-03-23 09:45:11,2026-03-23 10:30:18,8,45.11666666666667
+Other,Falschparker Betrieb ab Gersthof <,2026-03-27 12:15:10,2026-03-27 13:00:28,16,45.3
+Other,Falschparker Betrieb ab Maroltingergasse,2026-03-26 11:30:17,2026-03-26 12:15:10,12,44.88333333333333
+Other,Falschparker Betrieb ab Urban-Loritz-Platz,2026-03-26 13:00:28,2026-03-26 13:45:10,24,44.7
+Other,Falschparker Betrieb über Li. 9+43,2026-03-26 11:30:17,2026-03-26 12:15:10,4,44.88333333333333
+Other,Falschparker Umleitung über die Linien 42+9,2026-03-25 15:45:11,2026-03-25 16:30:17,20,45.1
+Other,Falschparker Züge halten bei Li. 44,2026-03-26 11:30:17,2026-03-26 12:15:10,4,44.88333333333333
+Other,Feuerwehreinsatz Betrieb ab Blindengasse,2026-03-26 15:45:10,2026-03-26 16:15:10,9,30.0
+Other,Feuerwehreinsatz Betrieb ab Brünnlbadgasse,2026-03-26 14:45:10,2026-03-26 16:45:10,27,120.0
+Other,Feuerwehreinsatz Betrieb ab Franz-Josefs-Bahnhof S,2026-03-26 15:30:18,2026-03-26 16:15:10,28,44.86666666666667
+Other,Feuerwehreinsatz Betrieb ab Lange Gasse,2026-03-26 15:45:10,2026-03-26 16:15:10,9,30.0
+Other,Feuerwehreinsatz Betrieb ab Rosensteingasse,2026-03-26 14:45:10,2026-03-26 15:30:18,12,45.13333333333333
+Other,Feuerwehreinsatz Betrieb ab Urban-Loritz-Platz,2026-03-26 15:00:29,2026-03-26 17:45:10,72,164.68333333333334
+Other,Feuerwehreinsatz Betrieb über Li. 44+9,2026-03-26 14:45:10,2026-03-26 15:30:18,4,45.13333333333333
+Other,Feuerwehreinsatz Betrieb über Li. 9+44,2026-03-26 14:45:10,2026-03-26 16:45:10,9,120.0
+Other,Feuerwehreinsatz Umleitung bis Absberggasse,2026-03-24 21:00:25,2026-03-24 22:30:15,28,89.83333333333333
+Other,Feuerwehreinsatz Umleitung bis Quellenplatz,2026-03-24 21:00:25,2026-03-24 22:30:15,28,89.83333333333333
+Other,Feuerwehreinsatz Züge halten am Uhlplatz,2026-03-26 15:45:10,2026-03-26 16:30:18,4,45.13333333333333
+Other,Feuerwehreinsatz Züge halten bei Li. 43 Richtung Schottentor,2026-03-26 15:45:10,2026-03-26 16:15:10,3,30.0
+Other,Feuerwehreinsatz Züge halten bei Linie O,2026-03-24 21:00:25,2026-03-24 22:30:15,7,89.83333333333333
+Other,Fremdunfall Betrieb ab Albertgasse,2026-03-23 15:30:18,2026-03-23 16:45:10,42,74.86666666666666
+Other,Fremdunfall Betrieb ab Hintere Zollamtsstraße,2026-03-25 13:00:25,2026-03-25 13:45:10,28,44.75
+Other,Fremdunfall Betrieb ab Koloniestraße,2026-03-23 18:45:10,2026-03-23 19:15:10,3,30.0
+Other,Fremdunfall Betrieb ab Quartier Belvedere,2026-03-25 13:00:25,2026-03-25 13:45:10,20,44.75
+Other,Fremdunfall Betrieb ab Quellenplatz,2026-03-25 09:45:09,2026-03-28 18:00:22,130,4815.216666666666
+Other,Fremdunfall Betrieb ab Radetzkyplatz,2026-03-25 16:30:17,2026-03-25 17:15:10,10,44.88333333333333
+Other,Fremdunfall Betrieb bis Flugfeldstraße,2026-03-28 18:00:22,2026-03-28 18:45:09,12,44.78333333333333
+Other,Fremdunfall Betrieb bis Siegesplatz,2026-03-28 18:00:22,2026-03-28 18:45:09,12,44.78333333333333
+Other,Fremdunfall Umleitung über Linien 1-2-D,2026-03-25 13:00:25,2026-03-25 13:45:10,4,44.75
+Other,Gasrohrgebrechen Betrieb ab Hütteldorfer Straße U,2026-03-22 19:58:54,2026-03-22 22:30:21,48,151.45
+Other,Gasrohrgebrechen Betrieb ab Urban-Loritz-Platz,2026-03-22 19:58:54,2026-03-22 22:30:21,48,151.45
+Other,Gleisbauarbeiten Betrieb ab Krieau (Haltestelle 82A),2026-03-22 19:58:54,2026-03-22 23:30:16,16,211.36666666666667
+Other,"Gleisbauarbeiten Betrieb ab Neubaugasse, Burggasse",2026-03-27 19:00:28,2026-03-29 13:15:09,680,2534.6833333333334
+Other,Gleisbauarbeiten Betrieb ab Thaliastraße >,2026-03-22 19:58:54,2026-03-29 13:15:09,2616,9676.25
+Other,Gleisbauarbeiten Busse halten Gudrunstraße 180-182,2026-03-22 23:45:10,2026-03-29 02:45:08,117,8819.966666666667
+Other,Gleisbauarbeiten Busse halten Gudrunstraße 189,2026-03-22 23:45:10,2026-03-29 02:45:08,117,8819.966666666667
+Other,Gleisbauarbeiten Busse halten Gudrunstraße 196A,2026-03-22 23:45:10,2026-03-29 02:45:08,117,8819.966666666667
+Other,Gleisbauarbeiten Busse halten Neilreichgasse 20-22,2026-03-22 23:45:10,2026-03-29 02:45:08,117,8819.966666666667
+Other,Gleisbauarbeiten Busse halten bei Thaliastraße 3,2026-03-22 23:45:10,2026-03-29 02:45:08,125,8819.966666666667
+Other,Gleisbauarbeiten Kein Betrieb,2026-03-22 19:58:54,2026-03-29 13:15:09,16629,9676.25
+Other,Gleisschaden Betrieb ab Resselgasse,2026-03-27 10:45:10,2026-03-27 11:30:18,32,45.13333333333333
+Other,Karlsplatzpassage - U2 Bahnsteig Fahrtrichtung Seestadt,2026-03-24 19:45:10,2026-03-24 23:30:17,16,225.11666666666667
+Other,Linie 10: Fahrtbehinderung in Richtung Dornbach. Voraussichtliche Dauer: 14:40 Uhr. Grund: Fremder Verkehrsunfall im Bereich Breitenseer Straße .,2026-03-28 13:15:10,2026-03-28 13:15:10,1,15.0
+Other,Linie 10: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-26 12:00:27,2026-03-28 14:45:09,17,3044.7
+Other,Linie 10A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-27 11:30:18,2026-03-27 13:15:10,8,104.86666666666666
+Other,Linie 10A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsüberlastung.,2026-03-24 07:45:09,2026-03-24 08:00:27,2,15.3
+Other,"Linie 11: Betrieb nur zwischen Kaiserebersdorf, Zinnergasse und Quellenplatz. Linie O: Betrieb nur zwischen Bruno-Marek-Allee und Quellenplatz. Weiterfahrt bis Reumannplatz U. Voraussichtliche Dauer: 12:00 Uhr. Grund: Schadhaftes Fahrzeug im Bereich Neilreichgasse # Raxstraße.",2026-03-26 10:30:16,2026-03-26 10:30:16,1,15.0
+Other,"Linie 11: Betrieb nur zwischen Kaiserebersdorf, Zinnergasse und Quellenplatz. Linie O: Betrieb nur zwischen Bruno-Marek-Allee und Quellenplatz. Weiterfahrt bis Reumannplatz U. Weichen Sie ersatzweise auf die Linien 7A, 15A, 65A und 66A aus. Voraussichtliche Dauer: 11:10Uhr. Grund: Fremder Verkehrsunfall im Bereich Neilreichgasse 95.",2026-03-25 09:45:09,2026-03-25 10:00:25,2,15.266666666666667
+Other,"Linie 11: Betrieb nur zwischen Kaiserebersdorf, Zinnergasse und Quellenplatz. Linie O: Betrieb nur zwischen Bruno-Marek-Allee und Quellenplatz. Weiterfahrt bis Reumannplatz U. Weichen Sie ersatzweise auf die Linien 7A, 15A, 65A und 66A aus. Voraussichtliche Dauer: 11:45 Uhr. Grund: Fremder Verkehrsunfall im Bereich Neilreichgasse 95.",2026-03-25 10:15:09,2026-03-25 10:45:09,3,30.0
+Other,"Linie 11: Betrieb nur zwischen Kaiserebersdorf, Zinnergasse und Quellenplatz. Linie O: Betrieb nur zwischen Bruno-Marek-Allee und Quellenplatz. Weiterfahrt bis Reumannplatz U. Weichen Sie ersatzweise auf die Linien 7A, 15A, 65A und 66A aus. Voraussichtliche Dauer: 12:15 Uhr. Grund: Fremder Verkehrsunfall im Bereich Neilreichgasse 95.",2026-03-25 11:00:27,2026-03-25 11:15:15,2,14.8
+Other,"Linie 11: Betrieb nur zwischen Kaiserebersdorf, Zinnergasse und Quellenplatz. Linie O: Betrieb nur zwischen Bruno-Marek-Allee und Quellenplatz. Weiterfahrt bis Reumannplatz U. Weichen Sie ersatzweise auf die Linien U1, 7A,15A, 16A, 65A 66A aus. Voraussichtliche Dauer: 18:40 Uhr. Grund: Fremder Verkehrsunfall im Bereich Laxenburger Straße.",2026-03-28 17:15:09,2026-03-28 17:15:09,1,15.0
+Other,Linie 11: Betrieb nur zwischen Otto-Probst-Platz und Fickeysstraße. Linie 71: Betrieb nur zwischen Schottenring U und Fickeysstraße. Weichen Sie ersatzweise auf die Linie 73A aus. Voraussichtliche Dauer: 19:30 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Zentralfriedhof 1.Tor.,2026-03-27 18:00:26,2026-03-27 18:00:26,1,15.0
+Other,"Linie 11: Betrieb nur zwischen Otto-Probst-Platz und Zentralfriedhof, 3. Tor. Linie 71: Betrieb nur zwischen Schottenring U und Zentralfriedhof, 3. Tor. Weichen Sie ersatzweise auf die Linie 73A aus. Voraussichtliche Dauer: Nicht absehbar. Grund: Stromstörung im Bereich Simmeringer Hauptstraße .",2026-03-27 20:00:26,2026-03-27 20:15:10,2,14.733333333333333
+Other,Linie 11: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 08:45:11,2026-03-28 18:30:17,35,7785.1
+Other,"Linie 11: Umleitung in Richtung Kaiserebersdorf, Zinnergasse zwischen Absberggasse und Enkplatz U, Grillgasse über Quartier Belvedere S und St. Marx S. Jene Züge, die als Ersatz für die Linie 6 nur zwischen Frödenplatz und Geiereckstraße fahren, sind von der Umleitung ausgenommen. Voraussichtliche Dauer: 08:50 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Geiselbergstraße S.",2026-03-23 07:45:10,2026-03-23 07:45:10,1,15.0
+Other,"Linie 11: Umleitung in Richtung Kaiserebersdorf, Zinnergasse zwischen Absberggasse und Enkplatz U, Grillgasse über Quartier Belvedere S und St. Marx S. Jene Züge, die als Ersatz für die Linie 6 nur zwischen Frödenplatz und Geiereckstraße fahren, sind von der Umleitung ausgenommen. Voraussichtliche Dauer: Nicht absehbar. Grund: Rettungseinsatz im Haltestellenbereich Geiselbergstraße S.",2026-03-23 08:00:24,2026-03-23 08:30:18,3,29.9
+Other,Linie 11: Umleitung in beiden Richtungen zwischen Quellenplatz und Absberggasse über Hauptbahnhof S U. Voraussichtliche Dauer: 00:00 Uhr. Grund: Feuerwehreinsatz im Bereich Quellenstraße # Columbusplatz.,2026-03-24 21:00:25,2026-03-24 21:15:09,2,14.733333333333333
+Other,Linie 11: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-26 07:15:10,2026-03-26 08:15:10,5,60.0
+Other,Linie 11: Unregelmäßige Intervalle in beiden Richtungen. Grund: Stromstörung im Bereich Quellenstraße . ,2026-03-24 06:15:10,2026-03-24 06:15:10,1,15.0
+Other,Linie 11A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-27 15:30:17,2026-03-27 17:00:28,7,90.18333333333334
+Other,Linie 12: Betrieb nur zwischen Josefstädter Straße und Bruno-Marek-Allee. Voraussichtliche Dauer: 16:45 Uhr. Grund: Verkehrsunfall im Haltestellenbereich Vorgartenstraße.,2026-03-27 15:30:17,2026-03-27 15:30:17,1,15.0
+Other,Linie 12: Betrieb nur zwischen Josefstädter Straße und Bruno-Marek-Allee. Voraussichtliche Dauer: 17:00 Uhr. Grund: Verkehrsunfall im Haltestellenbereich Vorgartenstraße.,2026-03-27 15:45:10,2026-03-27 15:45:10,1,15.0
+Other,Linie 12: Fahrtbehinderung in Richtung Hillerstraße. Voraussichtliche Dauer: 13:50 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Haussteinstraße.,2026-03-28 12:30:16,2026-03-28 12:30:16,1,15.0
+Other,Linie 12: Fahrtbehinderung in Richtung Josefstädter Straße U. Voraussichtliche Dauer: 15:30 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Vorgartenstraße.,2026-03-29 13:11:41,2026-03-29 13:15:09,2,3.466666666666667
+Other,Linie 12: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 10:45:10,2026-03-28 18:45:09,32,6239.983333333334
+Other,Linie 12A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall.,2026-03-25 14:00:26,2026-03-25 15:30:17,7,89.85
+Other,Linie 12A: Unregelmäßige Intervalle in beiden Richtungen. Linie 14A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Polizeieinsatz.,2026-03-28 12:45:09,2026-03-28 13:15:10,3,30.016666666666666
+Other,Linie 13A: Fahrtbehinderung in Richtung Hauptbahnhof S U. Voraussichtliche Dauer: 07:15 Uhr. Grund: Falschparker im Haltestellenbereich Lederergasse.,2026-03-25 05:45:09,2026-03-25 05:45:09,1,15.0
+Other,Linie 13A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 14:00:26,2026-03-27 11:15:09,13,4154.716666666666
+Other,Linie 13A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Polizeieinsatz.,2026-03-28 17:30:16,2026-03-28 18:30:17,5,60.016666666666666
+Other,Linie 13A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-27 17:00:28,2026-03-27 17:15:10,2,14.7
+Other,Linie 14A: Fahrtbehinderung in Richtung Neubaugasse U. Grund: Verkehrsunfall.,2026-03-27 08:15:09,2026-03-27 08:30:16,2,15.116666666666667
+Other,Linie 14A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Polizeieinsatz im Bereich . ,2026-03-28 13:30:16,2026-03-28 14:00:25,3,30.15
+Other,Linie 14A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Polizeieinsatz.,2026-03-28 12:30:16,2026-03-28 12:30:16,1,15.0
+Other,Linie 14A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-24 16:30:18,2026-03-24 18:15:09,8,104.85
+Other,Linie 14A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-28 16:15:09,2026-03-28 17:15:09,5,60.0
+Other,Linie 14A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsüberlastung.,2026-03-26 07:45:09,2026-03-26 18:45:09,20,660.0
+Other,Linie 15A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall.,2026-03-26 20:30:16,2026-03-26 21:30:17,5,60.016666666666666
+Other,"Linie 16A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall im Haltestellenbereich Am Schöpfwerk, Eibesbrunnergasse.",2026-03-23 07:15:11,2026-03-23 08:45:11,7,90.0
+Other,Linie 16A: Unregelmäßige Intervalle in beiden Richtungen. Linie 17A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Störung an einem Bahnübergang im Bereich .,2026-03-28 11:45:09,2026-03-28 12:00:25,2,15.266666666666667
+Other,Linie 16A: Unregelmäßige Intervalle in beiden Richtungen. Linie 17A: Unregelmäßige Intervalle in beiden Richtungen. Linie 67A: Unregelmäßige in beiden Richtungen. Grund: Störung an einem Bahnübergang.,2026-03-25 12:30:16,2026-03-25 12:45:10,2,14.9
+Other,"Linie 18: Fahrtbehinderung in Richtung Schlachthausgasse U. Linie O: Fahrtbehinderung in Richtung Bruno-Marek-Allee. Linie 13A: Fahrtbehinderung in Richtung Alser Straße, Skodagasse. Voraussichtliche Dauer: 15:15 Uhr. Grund: Fremder Verkehrsunfall im Bereich Wiedner Gürtel # Karl-Popper-Straße.",2026-03-24 13:45:10,2026-03-24 13:45:10,1,15.0
+Other,"Linie 18: Kein Betrieb zwischen Quartier Belvedere S und Matzleinsdorfer Platz S. Weiterfahrt ab Matzleinsdorfer Platz S bis Reumannplatz U. Linie O: Umleitung in Richtung Bruno-Marek-Allee zwischen Quellenplatz und Quartier Belvedere S über Reumannplatz U und Hauptbahnhof Ost S. Linie 13A: Fahrtbehinderung in Richtung Alser Straße, Skodagasse. Voraussichtliche Dauer: 11:15 Uhr. Grund: Rettungseinsatz im Bereich Wiedner Gürtel # Karl-Popper-Straße.",2026-03-27 09:45:10,2026-03-27 09:45:10,1,15.0
+Other,Linie 18: Kein Betrieb zwischen Quartier Belvedere S und Matzleinsdorfer Platz S. Weiterfahrt ab Matzleinsdorfer Platz S bis Stefan-Fadinger-Platz. Linie O: Umleitung in Richtung Bruno-Marek-Allee zwischen Quellenplatz und Quartier Belvedere S über Reumannplatz U und Hauptbahnhof Ost S. Voraussichtliche Dauer: 11:15 Uhr. Grund: Rettungseinsatz im Bereich Wiedner Gürtel # Karl-Popper-Straße.,2026-03-27 10:00:27,2026-03-27 10:00:27,1,15.0
+Other,Linie 18: Kein Betrieb zwischen Quartier Belvedere S und Matzleinsdorfer Platz S. Weiterfahrt ab Matzleinsdorfer Platz S bis Stefan-Fadinger-Platz. Linie O: Umleitung in Richtung Bruno-Marek-Allee zwischen Quellenplatz und Quartier Belvedere S über Reumannplatz U und Hauptbahnhof Ost S. Voraussichtliche Dauer: 11:30 Uhr. Grund: Rettungseinsatz im Bereich Wiedner Gürtel # Karl-Popper-Straße.,2026-03-27 10:15:11,2026-03-27 10:15:11,1,15.0
+Other,Linie 18: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 10:45:10,2026-03-27 12:15:10,20,5850.0
+Other,Linie 18: Unregelmäßige Intervalle in beiden Richtungen. Grund: Polizeieinsatz.,2026-03-23 10:30:18,2026-03-23 10:30:18,1,15.0
+Other,Linie 18: Unregelmäßige Intervalle in beiden Richtungen. Voraussichtliche Dauer: 01:40 Uhr. Grund: Stromstörung im Haltestellenbereich Quartier Belvedere S.,2026-03-26 00:30:17,2026-03-26 00:30:17,1,15.0
+Other,"Linie 1: Betrieb nur zwischen Prater Hauptallee und Matzleinsdorfer Platz. Weiterfahrt bis Bhf. Meidling S U, Dörfelstraße. Grund: Rettungseinsatz im Haltestellenbereich Knöllgasse, Troststraße.",2026-03-24 06:30:17,2026-03-24 06:30:17,1,15.0
+Other,Linie 1: Betrieb nur zwischen Stefan-Fadinger-Platz und Radetzkyplatz. Weiterfahrt zum Praterstern S U. Weichen Sie ersatzweise auf die Linien 4A und 80A aus. Voraussichtliche Dauer: 18:15 Uhr. Grund: Fremder Verkehrsunfall im Bereich Löwengasse.,2026-03-25 16:30:17,2026-03-25 16:45:09,2,14.866666666666667
+Other,"Linie 1: Fahrtbehinderung in Richtung Stefan-Fadinger-Platz. Voraussichtliche Dauer: 23:30 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Rathausplatz, Burgtheater.",2026-03-28 22:00:23,2026-03-28 22:00:23,1,15.0
+Other,Linie 1: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 06:15:10,2026-03-29 13:11:41,37,7616.516666666666
+Other,Linie 1: Umleitung in Richtung Stefan-Fadinger-Platz Wende über Schwedenplatz und Umleitung bis Resselgasse über Schwedenplatz U und Schwarzenbergplatz. Einstieg am Karlsplatz U (bei Linie 4A) möglich. Voraussichtliche Dauer: 13:00 Uhr. Grund: Gleisschaden im Bereich Franz-Josef-Kai # Schwedenplatz.,2026-03-27 10:45:10,2026-03-27 10:45:10,1,15.0
+Other,"Linie 1: Umleitung in beiden Richtungen zwischen Kliebergasse und Hintere Zollamtsstraße über Landstraße S U und Hauptbahnhof S U (Strecke Linien O und 18). Linie 2: Die Linie 2 fährt derzeit nicht zwischen Ring, Volkstheater und Schwedenplatz. Linie D: Kein Betrieb zwischen Börse und Schwarzenbergplatz. Linie 71: Betrieb nur zwischen Kaiserebersdorf und Schwarzenbergplatz. Weichen Sie ersatzweise auf die U-Bahnlinien aus. Voraussichtliche Dauer: 14:30 Uhr. Grund: Demonstration im Bereich Ringstraße.",2026-03-29 10:30:16,2026-03-29 11:00:26,3,30.166666666666668
+Other,"Linie 1: Umleitung in beiden Richtungen zwischen Kliebergasse und Hintere Zollamtsstraße über Landstraße S U und Hauptbahnhof S U (Strecke Linien O und 18). Linie 2: Kein Betrieb zwischen Ring, Volkstheater U und Rebhanngasse. Weiterfahrt ab Rebhanngasse zur Bruno-Marek-Allee. Linie D: Kein Betrieb zwischen Börse und Schwarzenbergplatz. Linie 71: Betrieb nur zwischen Kaiserebersdorf und Schwarzenbergplatz. Weichen Sie ersatzweise auf die U-Bahnlinien aus. Voraussichtliche Dauer: 14:30 Uhr. Grund: Demonstration im Bereich Ringstraße.",2026-03-29 09:45:12,2026-03-29 10:15:17,3,30.083333333333332
+Other,Linie 1: Umleitung in beiden Richtungen zwischen Kliebergasse und Hintere Zollamtsstraße über Landstraße S U und Hauptbahnhof S U (Strecke Linien O und 18). Linie D: Kein Betrieb zwischen Börse und Schwarzenbergplatz. Linie 71: Betrieb nur zwischen Kaiserebersdorf und Schwarzenbergplatz. Weichen Sie ersatzweise auf die U-Bahnlinien aus. Voraussichtliche Dauer: 14:30 Uhr. Grund: Demonstration im Bereich Ringstraße.,2026-03-29 09:15:15,2026-03-29 09:30:16,2,15.016666666666667
+Other,Linie 1: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verunreinigung im Haltestellenbereich Windtenstraße.,2026-03-25 21:00:26,2026-03-25 21:30:16,3,29.833333333333332
+Other,Linie 1: Unregelmäßige Intervalle in beiden Richtungen. Linie 11: Unregelmäßige Intervalle in beiden Richtungen. Linie 18: Unregelmäßige Intervalle in beiden Richtungen. Linie O: Unregelmäßige Intervalle in beiden Richtungen. Grund: Stromstörung.,2026-03-24 04:00:23,2026-03-24 06:00:24,9,120.01666666666667
+Other,Linie 1A: Fahrtbehinderung in Richtung Schottentor U. Linie 2A: Fahrtbehinderung in Richtung Schwarzenbergplatz. Voraussichtliche Dauer: 17:40Uhr. Grund: Verkehrsunfall im Bereich Helferstorferstraße .,2026-03-24 16:15:10,2026-03-24 16:15:10,1,15.0
+Other,Linie 1A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 16:30:18,2026-03-24 17:15:10,4,44.86666666666667
+Other,Linie 24A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-27 17:00:28,2026-03-27 17:30:18,3,29.833333333333332
+Other,"Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Kagran U. Linie 26: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf S U. Weiterfahrt ab Josef-Baumann-Gasse bis Kagran U. Linie 27: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf. Die Züge fahren nur zwischen Aspern Nord und Kagran, bzw. Strebersdorf und Floridsdorf. Die Linie 29B wird in beiden Richtungen zwischen Floridsdorf S U und Patrizigasse über Brünner Straße umgeleitet. Die Linie 29A wird in beiden Richtungen zwischen Floridsdorf S U und Patrizigasse über Brünner Straße umgeleitet. Voraussichtliche Dauer: 20:00 Uhr. Grund: Betriebsstörung im Haltestellenbereich Floridsdorf S U.",2026-03-26 18:30:19,2026-03-26 19:00:29,3,30.166666666666668
+Other,"Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Kagran U. Linie 26: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf S U. Weiterfahrt ab Josef-Baumann-Gasse bis Kagran U. Linie 27: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf. Die Züge fahren nur zwischen Aspern Nord und Kagran, bzw. Strebersdorf und Floridsdorf. Die Linie 29B wird in beiden Richtungen zwischen Floridsdorf S U und Patrizigasse über Brünner Straße umgeleitet. Die Linie 29A wird in beiden Richtungen zwischen Floridsdorf S U und Patrizigasse über Brünner Straße umgeleitet. Voraussichtliche Dauer: 20:30 Uhr. Grund: Betriebsstörung im Haltestellenbereich Floridsdorf S U.",2026-03-26 19:15:10,2026-03-26 19:30:18,2,15.133333333333333
+Other,"Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Kagran U. Linie 26: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf S U. Weiterfahrt ab Josef-Baumann-Gasse bis Kagran U. Linie 27: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf. Die Züge fahren nur zwischen Aspern Nord und Kagran, bzw. Strebersdorf und Floridsdorf. Voraussichtliche Dauer: 20:30 Uhr. Grund: Betriebsstörung im Haltestellenbereich Floridsdorf S U. ",2026-03-26 19:45:10,2026-03-26 19:45:10,1,15.0
+Other,"Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Kagran U. Linie 26: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf S U. Weiterfahrt ab Josef-Baumann-Gasse bis Kagran U. Linie 27: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf. Die Züge fahren nur zwischen Aspern Nord und Kagran, bzw. Strebersdorf und Floridsdorf. Voraussichtliche Dauer: 21:00 Uhr. Grund: Betriebsstörung im Haltestellenbereich Floridsdorf S U.",2026-03-26 20:00:25,2026-03-26 20:00:25,1,15.0
+Other,"Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Kagran U. Linie 26: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf S U. Weiterfahrt ab Josef-Baumann-Gasse bis Kagran U. Linie 27: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf. Die Züge fahren nur zwischen Aspern Nord und Kagran, bzw. Strebersdorf und Floridsdorf. Voraussichtliche Dauer: 21:30 Uhr. Grund: Betriebsstörung im Haltestellenbereich Floridsdorf S U.",2026-03-26 20:15:10,2026-03-26 20:30:16,2,15.1
+Other,"Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Kagran U. Linie 26: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf S U. Weiterfahrt ab Josef-Baumann-Gasse bis Kagran U. Linie 27: Kein Betrieb zwischen Josef-Baumann-Gasse und Floridsdorf. Die Züge fahren nur zwischen Aspern Nord und Kagran, bzw. Strebersdorf und Floridsdorf. Weichen Sie ersatzweise auf die Linien U1, U2, 27A, 27B, 28A, 29A, 29B, 31A aus. Voraussichtliche Dauer: 10:30 Uhr. Grund: Weichenschaden im Bereich Tokiostraße # Donaufelder Straße.",2026-03-27 07:30:18,2026-03-27 08:30:16,5,59.96666666666667
+Other,"Linie 25: Fahrtbehinderung in Richtung Aspern, Oberdorfstraße. Voraussichtliche Dauer: 16:20 Uhr. Grund: Verkehrsunfall im Bereich Langobardenstraße # Hartlebengasse.",2026-03-24 15:00:30,2026-03-24 15:00:30,1,15.0
+Other,"Linie 25: Fahrtbehinderung in Richtung Aspern, Oberdorfstraße. Voraussichtliche Dauer: 19:00 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Kagran U.",2026-03-26 18:00:27,2026-03-26 18:00:27,1,15.0
+Other,Linie 25: Fahrtbehinderung in beiden Richtungen. Linie 26: Fahrtbehinderung in beiden Richtungen. Linie 27: Fahrtbehinderung in beiden Richtungen. Linie 30: Fahrtbehinderung in beiden Richtungen. Linie 31: Fahrtbehinderung in beiden Richtungen. Die Linie 29B wird in Richtung Großfeldsiedlung U zwischen Floridsdorf S U und Patrizigasse über Brünner Straße umgeleitet. Die Linie 29A wird in Richtung Großfeldsiedlung U zwischen Floridsdorf S U und Patrizigasse über Brünner Straße umgeleitet. Voraussichtliche Dauer: 19:20 Uhr. Grund: Betriebsstörung im Haltestellenbereich Floridsdorf S U.,2026-03-26 18:15:10,2026-03-26 18:15:10,1,15.0
+Other,Linie 25: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 15:00:30,2026-03-27 08:45:09,17,3944.65
+Other,Linie 26: Fahrtbehinderung in Richtung Hausfeldstraße U. Linie 27: Fahrtbehinderung in Richtung Aspern Nord S U. Voraussichtliche Dauer: 10:05 Uhr. Grund: Betriebsstörung im Haltestellenbereich Kagraner Platz U.,2026-03-29 08:00:29,2026-03-29 08:00:29,1,15.0
+Other,"Linie 26: Kein Betrieb zwischen Zanggasse und Josef-Baumann-Gasse. Linie 27: Kein Betrieb zwischen Berresgasse und Josef-Baumann-Gasse. Die Züge fahren ab Josef-Baumann-Gasse nach Kagran U. Weichen Sie ersatzweise auf die Linien U1, U2, 22A, 24A aus. Voraussichtliche Dauer: 14:30 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Kagraner Platz U.",2026-03-26 13:15:10,2026-03-26 13:15:10,1,15.0
+Other,Linie 26: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-26 13:30:18,2026-03-29 08:30:17,21,4019.983333333333
+Other,Linie 26A: Kein Betrieb zwischen Siegesplatz und Lanesstraße. Die Busse aus Richtung Groß Enzersdorf werden zur Seestadt umgeleitet. Voraussichtliche Dauer: 19:30 Uhr. Grund: Fremder Verkehrsunfall im Bereich Groß-Enzersdorfer Straße # Lohwaggasse .,2026-03-28 18:00:22,2026-03-28 18:15:10,2,14.8
+Other,Linie 26A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-28 18:30:17,2026-03-28 19:15:09,4,44.86666666666667
+Other,Linie 27: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-26 13:30:18,2026-03-29 08:30:17,22,4019.983333333333
+Other,Linie 28A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Falschparker.,2026-03-22 23:00:26,2026-03-22 23:15:10,2,14.733333333333333
+Other,Linie 29A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 08:30:23,2026-03-26 19:45:10,2,3554.7833333333333
+Other,Linie 29A: Umleitung in beiden Richtungen zwischen Floridsdorf und Sebastian-Kohl-Gasse über Schloßhofer Straße - Brünner Straße - Angerer Straße. Grund: Polizeieinsatz im Bereich Rechte Nordbahngasse.,2026-03-28 22:45:09,2026-03-28 22:45:09,1,15.0
+Other,Linie 29A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-24 16:45:10,2026-03-24 18:30:18,8,105.13333333333334
+Other,Linie 29B: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-26 19:45:10,2026-03-26 19:45:10,1,15.0
+Other,Linie 29B: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz im Haltestellenbereich Floridsdorf S U.,2026-03-27 21:15:15,2026-03-27 21:30:16,2,15.016666666666667
+Other,Linie 2: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-26 12:00:27,2026-03-29 13:11:41,20,4391.233333333334
+Other,"Linie 2: Umleitung in Richtung Dornbach zwischen Johann-Nepomuk-Berger-Platz und Dornbach über die Strecke der Linien 9 und 43. Linie 10: Betrieb nur zwischen Unter St. Veit und Ottakring, Maroltingergasse. Voraussichtliche Dauer: 12:40 Uhr. Grund: Falschparker im Bereich Lascygasse 29.",2026-03-26 11:30:17,2026-03-26 11:30:17,1,15.0
+Other,"Linie 2: Umleitung in Richtung Dornbach zwischen Johann-Nepomuk-Berger-Platz und Dornbach über die Strecke der Linien 9 und 43. Linie 10: Betrieb nur zwischen Unter St. Veit und Ottakring, Maroltingergasse. Voraussichtliche Dauer: 13:00 Uhr. Grund: Falschparker im Bereich Lascygasse 29.",2026-03-26 11:45:10,2026-03-26 11:45:10,1,15.0
+Other,Linie 2: Umleitung in Richtung Dornbach zwischen Johann-Nepomuk-Berger-Platz und Dornbach über die Strecke der Linien 9 und 43. Voraussichtliche Dauer: 11:50 Uhr. Grund: Falschparker im Bereich Wilhelminenstraße.,2026-03-27 10:30:17,2026-03-27 10:30:17,1,15.0
+Other,Linie 2A: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 16:00 Uhr. Grund: Polizeieinsatz im Bereich Rotenturmstraße .,2026-03-23 14:30:18,2026-03-23 14:30:18,1,15.0
+Other,Linie 2A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 14:45:10,2026-03-24 17:15:10,9,1590.0
+Other,Linie 30: Fahrtbehinderung in Richtung Floridsdorf S U. Linie 31: Fahrtbehinderung in Richtung Schottenring U. Voraussichtliche Dauer: 16:00 Uhr. Grund: Schadhaftes Fahrzeug im Bereich Brünner Straße 83.,2026-03-26 14:45:10,2026-03-26 14:45:10,1,15.0
+Other,Linie 30: Fahrtbehinderung in beiden Richtungen. Linie 31: Betrieb nur zwischen Schottenring U und Floridsdorfer Markt. Weichen Sie ersatzweise auf die Linien 32A sowie die S-Bahn aus. Voraussichtliche Dauer: 16:20 Uhr. Grund: Schadhaftes Fahrzeug im Bereich Brünner Straße 83.,2026-03-26 15:00:29,2026-03-26 15:00:29,1,15.0
+Other,Linie 30: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-26 15:15:10,2026-03-26 19:00:29,10,225.31666666666666
+Other,"Linie 31: Betrieb nur zwischen Stammersdorf und Klosterneuburger Straße, Wallensteinstraße. Weiterfahrt bis Wallensteinplatz. Voraussichtliche Dauer: 14:30 Uhr. Grund: Demonstration im Bereich Ringstraße.",2026-03-29 10:00:25,2026-03-29 10:15:17,2,14.866666666666667
+Other,Linie 31: Fahrtbehinderung in Richtung Schottenring U. Voraussichtliche Dauer: 14:40 Uhr. Grund: Schadhafter PKW im Bereich Klosterneuburger Straße.,2026-03-28 13:15:10,2026-03-28 13:15:10,1,15.0
+Other,Linie 31: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 10:00:26,2026-03-29 11:15:09,25,8714.716666666667
+Other,Linie 31: Umleitung in Richtung Schottenring U zwischen Jägerstraße U und Gaußplatz über Jägerstraße. Voraussichtliche Dauer: 11:05 Uhr. Grund: Falschparker im Bereich Klosterneuburger Straße 1.,2026-03-23 09:45:11,2026-03-23 09:45:11,1,15.0
+Other,Linie 31A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Signalstörung.,2026-03-24 08:15:15,2026-03-24 08:30:23,2,15.133333333333333
+Other,Linie 36B: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 18:45:10,2026-03-23 19:00:27,2,15.283333333333333
+Other,Linie 36B: Unregelmäßige Intervalle in beiden Richtungen U. Grund: Verkehrsunfall.,2026-03-27 08:30:16,2026-03-27 09:15:09,4,44.88333333333333
+Other,Linie 37: Fahrtbehinderung in Richtung Schottentor U. Voraussichtliche Dauer: 17:15 Uhr. Grund: Falschparker im Bereich Döblinger Hauptstraße 79.,2026-03-25 15:45:11,2026-03-25 15:45:11,1,15.0
+Other,Linie 37: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-25 16:00:25,2026-03-25 16:30:17,3,29.866666666666667
+Other,Linie 38A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 11:15:10,2026-03-23 12:45:15,7,90.08333333333333
+Other,Linie 38A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Polizeieinsatz.,2026-03-27 16:00:26,2026-03-27 16:45:09,4,44.71666666666667
+Other,Linie 39A: Fahrtbehinderung in Richtung Bahnhof Heiligenstadt S U. Voraussichtliche Dauer: 22:40 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Bellevuestraße.,2026-03-27 21:30:16,2026-03-27 21:45:09,2,14.883333333333333
+Other,Linie 39A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-27 22:00:23,2026-03-27 22:45:09,4,44.766666666666666
+Other,Linie 3A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-27 07:45:09,2026-03-27 08:30:16,4,45.11666666666667
+Other,"Linie 40: Fahrtbehinderung in Richtung Gersthof, Herbeckstraße. Linie 41: Fahrtbehinderung in Richtung Pötzleinsdorf. Voraussichtliche Dauer: 13:20 Uhr. Grund: Falschparker im Bereich Gentzgasse 114.",2026-03-27 12:00:27,2026-03-27 12:00:27,1,15.0
+Other,"Linie 40: Fahrtbehinderung in Richtung Gersthof, Herbeckstraße. Linie 41: Fahrtbehinderung in Richtung Pötzleinsdorf. Voraussichtliche Dauer: 15:00 Uhr. Grund: Falschparker im Bereich Währinger Straße 98.",2026-03-26 13:30:18,2026-03-26 13:30:18,1,15.0
+Other,"Linie 40: Fahrtbehinderung in Richtung Gersthof, Herbeckstraße. Linie 41: Fahrtbehinderung in Richtung Pötzleinsdorf. Voraussichtliche Dauer: 17:00 Uhr. Grund: Falschparker im Bereich Währinger Straße 79.",2026-03-25 15:30:17,2026-03-25 15:30:17,1,15.0
+Other,Linie 40: Fahrtbehinderung in Richtung Schottentor U. Linie 41: Fahrtbehinderung in Richtung Schottentor U. Voraussichtliche Dauer: 15:00 Uhr. Grund: Falschparker im Bereich Währinger Straße 108.,2026-03-24 13:30:18,2026-03-24 13:30:18,1,15.0
+Other,Linie 40: Fahrtbehinderung in Richtung Schottentor U. Linie 41: Fahrtbehinderung in Richtung Schottentor U. Voraussichtliche Dauer: 18:00 Uhr. Grund: Verkehrsunfall im Bereich Währinger Straße 99.,2026-03-24 16:45:10,2026-03-24 16:45:10,1,15.0
+Other,Linie 40: Fahrtbehinderung in Richtung Schottentor U. Voraussichtliche Dauer: 15:00 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Herbeckstraße.,2026-03-25 13:45:10,2026-03-25 13:45:10,1,15.0
+Other,Linie 40: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 13:45:10,2026-03-27 13:15:10,32,4290.0
+Other,"Linie 40: Umleitung in Richtung Gersthof, Herbeckstraße zwischen Währinger Straße, Volksoper U und Gersthof S über Michelbeuern-AKH U (Strecke Linien 42 und 9). Linie 41: Umleitung in Richtung Pötzleinsdorf zwischen Währinger Straße, Volksoper U und Gersthof S über Michelbeuern-AKH U (Strecke der Linien 42 und 9). Voraussichtliche Dauer: 14:15 Uhr. Grund: Rettungseinsatz im Bereich Währinger Straße 156.",2026-03-25 13:00:25,2026-03-25 13:00:25,1,15.0
+Other,Linie 40A: Fahrtbehinderung in Richtung Schottentor U. Voraussichtliche Dauer: 20:40 Uhr. Grund: Falschparker im Bereich Schottenring.,2026-03-25 19:15:11,2026-03-25 19:15:11,1,15.0
+Other,Linie 40A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-27 21:30:16,2026-03-27 21:45:09,2,14.883333333333333
+Other,Linie 41: Fahrtbehinderung in Richtung Schottentor U. Voraussichtliche Dauer: 11:55 Uhr. Grund: Falschparker im Bereich Gersthofer Straße.,2026-03-23 10:30:18,2026-03-23 10:30:18,1,15.0
+Other,Linie 41: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 10:45:10,2026-03-27 13:15:10,27,5910.0
+Other,Linie 42: Fahrtbehinderung in Richtung Antonigasse. Voraussichtliche Dauer: 09:30 Uhr. Grund: Verkehrsunfall im Bereich Kreuzgasse 56.,2026-03-23 08:15:10,2026-03-23 08:15:10,1,15.0
+Other,Linie 42: Fahrtbehinderung in Richtung Antonigasse. Voraussichtliche Dauer: 11:00 Uhr. Grund: Falschparker im Bereich Kreuzgasse 54.,2026-03-26 09:45:10,2026-03-26 10:00:26,2,15.266666666666667
+Other,Linie 42: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 08:30:18,2026-03-27 18:00:26,11,6330.133333333333
+Other,Linie 42: Unregelmäßige Intervalle in beiden Richtungen. Grund: Falschparker.,2026-03-26 10:15:10,2026-03-26 11:15:10,6,60.0
+Other,Linie 43: Betrieb nur zwischen Schottentor U und Dornbach. Weichen Sie ersatzweise auf die Linie 44A aus. Voraussichtliche Dauer: 19:10 Uhr. Grund: Polizeieinsatz im Bereich Alszeile.,2026-03-23 17:45:10,2026-03-23 18:00:24,2,15.233333333333333
+Other,Linie 43: Fahrtbehinderung in Richtung Neuwaldegg. Voraussichtliche Dauer: 22:30 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Elterleinplatz.,2026-03-22 21:15:10,2026-03-22 21:15:10,1,15.0
+Other,Linie 43: Fahrtbehinderung in Richtung Schottentor U. Voraussichtliche Dauer: 11:40 Uhr. Grund: Verkehrsunfall im Bereich Kinderspitalgasse.,2026-03-25 10:15:09,2026-03-25 10:15:09,1,15.0
+Other,Linie 43: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-22 21:30:16,2026-03-26 15:30:18,22,5400.033333333334
+Other,Linie 43: Umleitung in beiden Richtungen zwischen Brünnlbadgasse und Rosensteingasse über die Strecke der Linien 44 und 9. Voraussichtliche Dauer: 16:00 Uhr. Grund: Feuerwehreinsatz im Bereich Jörgerstraße 27.,2026-03-26 14:45:10,2026-03-26 14:45:10,1,15.0
+Other,Linie 43: Unregelmäßige Intervalle in beiden Richtungen. Linie 44: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-28 16:45:09,2026-03-28 17:45:09,5,60.0
+Other,Linie 44: Betrieb nur zwischen Schottentor U und Johann-Nepomuk-Berger-Platz. Linie 46: Fahrtbehinderung in Richtung Josefstädter Straße. Linie 46B: Fahrtbehinderung in beiden Richtungen. Linie 45A: Fahrtbehinderung in beiden Richtungen. Linie 46A: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 12:40 Uhr. Grund: Verkehrsunfall im Haltestellenbereich Ottakring S U.,2026-03-24 11:00:27,2026-03-24 11:00:27,1,15.0
+Other,Linie 44: Betrieb nur zwischen Schottentor U und Johann-Nepomuk-Berger-Platz. Linie 46: Fahrtbehinderung in Richtung Josefstädter Straße. Linie 46B: Fahrtbehinderung in beiden Richtungen. Linie 45A: Fahrtbehinderung in beiden Richtungen. Linie 46A: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 12:50 Uhr. Grund: Verkehrsunfall im Haltestellenbereich Ottakring S U.,2026-03-24 11:15:10,2026-03-24 11:15:10,1,15.0
+Other,Linie 44: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 11:30:22,2026-03-24 12:15:09,4,44.78333333333333
+Other,Linie 44: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-27 15:30:17,2026-03-27 16:15:10,4,44.88333333333333
+Other,Linie 45A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 11:30:22,2026-03-24 11:45:10,2,14.8
+Other,Linie 46: Betrieb nur zwischen Joachimsthalerplatz und Thaliastraße U. Weiterfahrt bis Josefstädter Straße U. Weichen Sie ersatzweise auf die Linien 2 und 48A aus. Voraussichtliche Dauer: Mitte Juli. Grund: Gleisbauarbeiten im Bereich Lerchenfelder Straße 2.,2026-03-22 19:58:54,2026-03-29 13:15:09,647,9676.25
+Other,"Linie 46: Derzeit ist ein Betrieb nicht möglich. Weichen Sie ersatzweise auf die Linien U3, U6, 9, 10, 44, 48A aus. Voraussichtliche Dauer: 16:00 Uhr. Grund: Demonstration im Bereich Thaliastraße.",2026-03-28 13:15:10,2026-03-28 14:30:17,6,75.11666666666666
+Other,Linie 46: Fahrtbehinderung in Richtung Joachimsthalerplatz. Voraussichtliche Dauer: 07:15 Uhr. Grund: Schadhaftes Fahrzeug im Bereich Thaliastraße 76.,2026-03-28 06:00:24,2026-03-28 06:00:24,1,15.0
+Other,Linie 46: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 11:30:22,2026-03-28 15:45:09,17,6014.783333333334
+Other,Linie 46: Umleitung in Richtung Joachimsthalerplatz zwischen Josefstädter Straße und Maroltingergasse über die Strecke der Linien 2 und 44. Voraussichtliche Dauer: 07:15 Uhr. Grund: Schadhaftes Fahrzeug im Bereich Thaliastraße 76.,2026-03-28 06:15:08,2026-03-28 06:15:08,1,15.0
+Other,Linie 46: Unregelmäßige Intervalle in beiden Richtungen. Grund: Polizeieinsatz.,2026-03-27 18:00:26,2026-03-27 18:15:10,2,14.733333333333333
+Other,Linie 46A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 11:30:22,2026-03-24 13:00:32,7,90.16666666666667
+Other,Linie 46B: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 11:30:22,2026-03-24 13:00:32,7,90.16666666666667
+Other,Linie 48A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-28 21:15:09,2026-03-28 22:30:17,7,75.13333333333334
+Other,Linie 48A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-25 11:30:16,2026-03-25 12:15:10,4,44.9
+Other,Linie 48A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Panikengasse.,2026-03-25 20:00:26,2026-03-25 21:00:26,4,60.0
+Other,Linie 48A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsüberlastung.,2026-03-26 17:45:10,2026-03-26 18:45:09,5,59.983333333333334
+Other,"Linie 49: Betrieb nur zwischen Hütteldorf, Bujattigasse und Urban-Loritz-Platz. Weichen Sie ersatzweise auf die Linie 48A aus. Voraussichtliche Dauer: 14:15 Uhr. Grund: Falschparker im Bereich Westbahnstraße.",2026-03-26 13:00:28,2026-03-26 13:00:28,1,15.0
+Other,"Linie 49: Betrieb nur zwischen Hütteldorf, Bujattigasse und Urban-Loritz-Platz. Weichen Sie ersatzweise auf die Linien U6, 48A aus. Voraussichtliche Dauer: 16:20 Uhr. Grund: Feuerwehreinsatz im Bereich Siebensterngasse.",2026-03-26 15:00:29,2026-03-26 15:00:29,1,15.0
+Other,"Linie 49: Betrieb nur zwischen Hütteldorf, Bujattigasse und Urban-Loritz-Platz. Weichen Sie ersatzweise auf die Linien U6, 48A aus. Voraussichtliche Dauer: 17:00 Uhr. Grund: Feuerwehreinsatz im Bereich Siebensterngasse 11.",2026-03-26 15:15:10,2026-03-26 15:30:18,2,15.133333333333333
+Other,"Linie 49: Betrieb nur zwischen Hütteldorf, Bujattigasse und Urban-Loritz-Platz. Weichen Sie ersatzweise auf die Linien U6, 48A aus. Voraussichtliche Dauer: 19:00 Uhr. Grund: Feuerwehreinsatz im Bereich Siebensterngasse 11.",2026-03-26 15:45:10,2026-03-26 16:15:10,3,30.0
+Other,"Linie 49: Betrieb nur zwischen Ring, Volkstheater U und Breitensee S. Die Züge der Linie 52 werden des Weiteren nach Hütteldorf geführt. Voraussichtliche Dauer: 13:15 Uhr. Grund: Schadhaftes Fahrzeug im Bereich Hütteldorfer Straße 210.",2026-03-29 10:45:14,2026-03-29 11:00:26,2,15.2
+Other,"Linie 49: Fahrtbehinderung in Richtung Hütteldorf, Bujattigasse. Voraussichtliche Dauer: 11:30 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Schweglerstraße U.",2026-03-23 10:00:26,2026-03-23 10:00:26,1,15.0
+Other,"Linie 49: Fahrtbehinderung in Richtung Hütteldorf, Bujattigasse. Voraussichtliche Dauer: 15:10 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Hütteldorfer Straße U.",2026-03-27 14:00:27,2026-03-27 14:00:27,1,15.0
+Other,"Linie 49: Fahrtbehinderung in Richtung Hütteldorf, Bujattigasse. Voraussichtliche Dauer: 15:25 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Hütteldorfer Straße U.",2026-03-27 14:15:15,2026-03-27 14:15:15,1,15.0
+Other,Linie 49: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-22 19:58:54,2026-03-29 13:00:25,40,9661.516666666666
+Other,Linie 4A: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 14:15 Uhr. Grund: Fremder Verkehrsunfall im Bereich Neulinggasse # Ungargasse.,2026-03-25 13:00:25,2026-03-25 13:00:25,1,15.0
+Other,Linie 4A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-25 13:15:10,2026-03-25 14:30:18,6,75.13333333333334
+Other,Linie 4A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsüberlastung.,2026-03-24 07:45:09,2026-03-24 08:00:27,2,15.3
+Other,Linie 51A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall.,2026-03-25 09:15:09,2026-03-25 09:45:09,3,30.0
+Other,Linie 52: Fahrtbehinderung in Richtung Baumgarten. Linie 60: Fahrtbehinderung in Richtung Rodaun. Voraussichtliche Dauer: 08:30 Uhr. Grund: Verkehrsunfall im Haltestellenbereich Rustengasse.,2026-03-25 07:15:09,2026-03-25 07:15:09,1,15.0
+Other,Linie 52: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-25 07:30:17,2026-03-25 09:00:25,7,90.13333333333334
+Other,Linie 52A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall.,2026-03-23 09:30:19,2026-03-23 10:15:10,4,44.85
+Other,Linie 57A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsüberlastung.,2026-03-24 07:00:27,2026-03-24 07:45:09,4,44.7
+Other,Linie 59A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-26 15:45:10,2026-03-26 16:45:10,5,60.0
+Other,Linie 59A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall.,2026-03-29 11:15:09,2026-03-29 13:11:41,8,116.53333333333333
+Other,Linie 5: Betrieb nur zwischen Praterstern S U und Blindengasse. Weiterfahrt bis Josefstädter Straße U. Weichen Sie ersatzweise auf die Linie U6 aus. Voraussichtliche Dauer: 17:00 Uhr. Grund: Fremder Verkehrsunfall im Bereich Kaiserstraße 26.,2026-03-23 15:30:18,2026-03-23 15:45:09,2,14.85
+Other,Linie 5: Betrieb nur zwischen Praterstern S U und Blindengasse. Weiterfahrt bis Josefstädter Straße U. Weichen Sie ersatzweise auf die Linie U6 aus. Voraussichtliche Dauer: 17:15 Uhr. Grund: Fremder Verkehrsunfall im Bereich Kaiserstraße 26.,2026-03-23 16:00:27,2026-03-23 16:00:27,1,15.0
+Other,Linie 5: Betrieb nur zwischen Praterstern S U und Blindengasse. Weiterfahrt bis Josefstädter Straße U. Weichen Sie ersatzweise auf die Linie U6 aus. Voraussichtliche Dauer: 17:40 Uhr. Grund: Fremder Verkehrsunfall im Bereich Kaiserstraße 26.,2026-03-23 16:15:09,2026-03-23 16:15:09,1,15.0
+Other,Linie 5: Betrieb nur zwischen Praterstern S U und Blindengasse. Weiterfahrt bis Josefstädter Straße U. Weichen Sie ersatzweise auf die Linie U6 aus. Voraussichtliche Dauer: 19:30 Uhr. Grund: Fremder Verkehrsunfall im Bereich Kaiserstraße # Stollgasse.,2026-03-26 18:15:10,2026-03-26 18:15:10,1,15.0
+Other,Linie 5: Betrieb nur zwischen Westbahnhof S U und Nordbahnstraße. Weiterfahrt bis Bruno-Marek-Allee. Die Linie O fährt derzeit nur zwischen Raxstraße und Radetzkyplatz. Die Linie 5B fährt derzeit nur zwischen Bhf. Heiligenstadt S U und Kleine Stadtgutgasse . Die Linie 80A fährt derzeit nur zwischen Schlachthausgasse U und Vivariumstraße. Voraussichtliche Dauer: 14:30 Uhr. Grund: Demonstration im Bereich Praterstern.,2026-03-29 10:15:17,2026-03-29 10:30:16,2,14.983333333333333
+Other,Linie 5: Betrieb nur zwischen Westbahnhof S U und Nordbahnstraße. Weiterfahrt bis Bruno-Marek-Allee. Die Linie O fährt derzeit nur zwischen Raxstraße und Radetzkyplatz. Voraussichtliche Dauer: 14:30 Uhr. Grund: Demonstration im Bereich Praterstern.,2026-03-29 10:00:25,2026-03-29 10:00:25,1,15.0
+Other,Linie 5: Fahrtbehinderung in Richtung Westbahnhof S U. Linie 12: Fahrtbehinderung in Richtung Josefstädter Straße U. Voraussichtliche Dauer: 10:30. Grund: Rettungseinsatz im Bereich Alserbachstraße.,2026-03-25 09:15:09,2026-03-25 09:15:09,1,15.0
+Other,Linie 5: Fahrtbehinderung in Richtung Westbahnhof S U. Voraussichtliche Dauer: 22:45 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Praterstern S U.,2026-03-28 21:43:13,2026-03-28 21:45:09,2,1.9333333333333333
+Other,Linie 5: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 19:20 Uhr. Grund: Fremder Verkehrsunfall im Bereich Kaiserstraße # Stollgasse.,2026-03-26 18:00:27,2026-03-26 18:00:27,1,15.0
+Other,"Linie 5: Kein Betrieb zwischen Lange Gasse und Lerchenfelder Straße. Weiterfahrt ab Lange Gasse bis Alser Straße U, Zimmermannplatz. Weiterfahrt ab Lerchenfelderstraße bis Josefstädter Straße U. Linie 12: Betrieb nur zwischen Hillerstraße und Franz-Josefs-Bahnhof S. Weiterfahrt bis Augasse. Weichen Sie ersatzweise auf die Linien U6 und 13A aus. Voraussichtliche Dauer: 16:45 Uhr. Grund: Feuerwehreinsatz im Bereich Laudongasse.",2026-03-26 15:30:18,2026-03-26 15:45:10,2,14.866666666666667
+Other,Linie 5: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 16:30:17,2026-03-29 11:00:26,46,8310.15
+Other,Linie 5B: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-29 10:45:14,2026-03-29 11:15:09,3,29.916666666666668
+Other,Linie 5B: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-25 13:15:10,2026-03-25 14:30:18,6,75.13333333333334
+Other,"Linie 60: Betrieb nur zwischen Westbahnhof S U und Hofwiesengasse. Weichen Sie ersatzweise auf die Linien 56A, 56B und 60A aus. Voraussichtliche Dauer: 11:00 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Sillerplatz.",2026-03-29 08:30:17,2026-03-29 09:00:24,3,30.116666666666667
+Other,Linie 60: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-25 07:30:17,2026-03-29 10:45:14,17,5954.95
+Other,Linie 60A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-26 18:15:10,2026-03-26 18:45:09,3,29.983333333333334
+Other,"Linie 62: Unregelmäßige Intervalle in Richtung Lainz, Wolkersbergenstraße. Grund: Verkehrsunfall.",2026-03-23 08:15:10,2026-03-23 09:00:27,4,45.28333333333333
+Other,Linie 63A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-23 17:45:10,2026-03-23 19:00:27,6,75.28333333333333
+Other,"Linie 66A: Betrieb nur zwischen Reumannplatz U und Bahnhof Atzgersdorf S. Weichen Sie ersatzweise auf die Linien 60A, 62A und die S-Bahn aus. Voraussichtliche Dauer: 11:30 Uhr. Grund: Schadhafter PKW im Bereich Schartlgasse .",2026-03-28 10:15:09,2026-03-28 10:15:09,1,15.0
+Other,Linie 66A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-25 11:00:27,2026-03-28 11:30:17,9,4349.833333333333
+Other,Linie 67B: Unregelmäßige Intervalle in beiden Richtungen. Linie 16A: Unregelmäßige Intervalle in beiden Richtungen. Linie 17A: Unregelmäßige Intervalle in beiden Richtungen. Linie 67A: Unregelmäßige in beiden Richtungen. Grund: Störung an einem Bahnübergang im Bereich Himberger Straße.,2026-03-25 07:15:09,2026-03-25 09:00:25,8,105.26666666666667
+Other,Linie 69A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-03-24 21:15:09,2026-03-24 21:45:08,3,29.983333333333334
+Other,"Linie 6: Derzeit ist ein Betrieb nicht möglich. Weichen Sie ersatzweise auf die Linien U1, 1, 11, 18, 7A und 14A aus. Voraussichtliche Dauer: Mitte April. Grund: Gleisbauarbeiten im Bereich Quellenstraße 197.",2026-03-22 19:58:54,2026-03-29 13:15:09,647,9676.25
+Other,Linie 71: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 20:00 Uhr. Grund: Rettungseinsatz im Bereich Simmerigner Hauptstraße 87.,2026-03-24 18:45:09,2026-03-24 18:45:09,1,15.0
+Other,"Linie 71: Kein Betrieb zwischen Enkplatz U, Grillgasse und St. Marx S. Weichen Sie ersatzweise auf die Linien U3 und 18 aus. Voraussichtliche Dauer: 11:30 Uhr. Grund: Schadhaftes Fahrzeug im Bereich Simmeringer Hauptstraße 9.",2026-03-24 10:00:30,2026-03-24 10:15:10,2,14.666666666666666
+Other,Linie 71: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 10:30:17,2026-03-29 13:11:41,29,7361.4
+Other,Linie 71: Unregelmäßige Intervalle in beiden Richtungen. Grund: Polizeieinsatz.,2026-03-25 04:15:10,2026-03-25 05:30:16,6,75.1
+Other,Linie 71: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verunreinigung.,2026-03-24 15:30:17,2026-03-24 16:15:10,4,44.88333333333333
+Other,Linie 73A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-24 17:00:28,2026-03-24 17:15:10,2,14.7
+Other,Linie 74A: Betrieb nur zwischen St. Marx S und Landstraße S U. Weichen Sie ersatzweise auf die Linie U3 aus. Voraussichtliche Dauer: 14:30 Uhr. Grund: Demonstration im Bereich Ringstraße.,2026-03-29 10:30:16,2026-03-29 11:00:26,3,30.166666666666668
+Other,Linie 74A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-29 11:00:26,2026-03-29 11:00:26,1,15.0
+Other,Linie 74A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall.,2026-03-28 12:15:10,2026-03-28 12:30:16,2,15.1
+Other,Linie 77A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall.,2026-03-29 11:00:26,2026-03-29 13:00:25,8,119.98333333333333
+Other,Linie 7A: Fahrtbehinderung in Richtung Meidling Hauptstraße U. Voraussichtliche Dauer: 19:40 Uhr. Grund: Schadhafter PKW im Bereich Davidgasse.,2026-03-23 18:15:09,2026-03-23 18:15:09,1,15.0
+Other,Linie 7A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 18:15:09,2026-03-23 18:45:10,3,30.016666666666666
+Other,Linie 7A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-24 06:30:17,2026-03-24 09:15:11,12,164.9
+Other,Linie 7A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsüberlastung.,2026-03-26 07:45:09,2026-03-27 16:15:10,38,1950.0166666666667
+Other,Linie 80A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-29 10:45:14,2026-03-29 13:00:25,9,135.18333333333334
+Other,Linie 82A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsüberlastung.,2026-03-26 08:15:10,2026-03-26 09:15:09,5,59.983333333333334
+Other,Linie 92A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Falschparker im Haltestellenbereich Donaustadtbrücke U.,2026-03-27 19:15:10,2026-03-27 20:00:26,4,45.266666666666666
+Other,Linie 94A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-03-27 18:30:18,2026-03-27 18:45:14,2,14.933333333333334
+Other,Linie 94A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall.,2026-03-28 12:15:10,2026-03-28 14:00:25,8,105.25
+Other,Linie 95A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-23 11:45:10,2026-03-23 12:45:15,5,60.083333333333336
+Other,Linie 98A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-28 12:30:16,2026-03-28 13:00:27,3,30.183333333333334
+Other,Linie 99A: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 15:15 Uhr. Grund: Verkehrsunfall im Bereich Eßlinger Hauptstraße 126.,2026-03-23 14:15:09,2026-03-23 14:30:18,2,15.15
+Other,Linie 99A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 14:45:10,2026-03-23 14:45:10,1,15.0
+Other,"Linie 9: Betrieb nur zwischen Gersthof S und Johann-Nepomuk-Berger-Platz. Linie 49: Kein Betrieb zwischen Hütteldorfer Straße U und Urban-Loritz-Platz. Weichen Sie ersatzweise auf die Linien U3, 43, 48A aus. Voraussichtliche Dauer: 11:30 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Schweglerstraße U.",2026-03-23 10:15:10,2026-03-23 10:15:10,1,15.0
+Other,"Linie 9: Betrieb nur zwischen Westbahnhof S U und Rosensteingasse. Weiterfahrt bis Hernals, Wattgasse. Linie 43: Umleitung in Richtung Schottentor U zwischen Rosensteingasse und Brünnlbadgasse über die Strecke der Linien 9 und 44. Weichen Sie ersatzweise auf die Linie 10A aus. Voraussichtliche Dauer: 13:00 Uhr. Grund: Betriebsstörung im Bereich Hernalser Hauptstraße # Taubergasse.",2026-03-26 11:30:17,2026-03-26 11:30:17,1,15.0
+Other,Linie 9: Betrieb nur zwischen Westbahnhof S U und Sommarugagasse. Weiterfahrt bis Antonigasse. Linie 40: Betrieb nur zwischen Schottentor U und Gersthof S. Weiterfahrt über Linie 41 bis Pötzleinsdorf. Voraussichtliche Dauer: 07:30 Uhr. Grund: Verkehrsunfall im Bereich Herbeckstraße.,2026-03-27 06:30:19,2026-03-27 06:30:19,1,15.0
+Other,Linie 9: Fahrtbehinderung in Richtung Gersthof S. Voraussichtliche Dauer: 11:30 Uhr. Grund: Verkehrsunfall im Bereich Simonygasse 2.,2026-03-25 10:15:09,2026-03-25 10:15:09,1,15.0
+Other,Linie 9: Fahrtbehinderung in Richtung Gersthof S. Voraussichtliche Dauer: 22:00 Uhr. Grund: Fahrzeug im Gleis im Haltestellenbereich Rosensteingasse.,2026-03-24 20:45:08,2026-03-24 20:45:08,1,15.0
+Other,Linie 9: Fahrtbehinderung in Richtung Westbahnhof S U. Linie 42: Fahrtbehinderung in Richtung Schottentor U. Voraussichtliche Dauer: 21:20 Uhr. Grund: Falschparker im Bereich Kreuzgasse.,2026-03-25 20:00:26,2026-03-25 20:00:26,1,15.0
+Other,Linie 9: Fahrtbehinderung in Richtung Westbahnhof S U. Voraussichtliche Dauer: 07:30 Uhr. Grund: Verkehrsunfall im Bereich Herbeckstraße.,2026-03-27 06:15:09,2026-03-27 06:15:09,1,15.0
+Other,Linie 9: Fahrtbehinderung in Richtung Westbahnhof S U. Voraussichtliche Dauer: 17:40 Uhr. Grund: Falschparker im Bereich Hormayrgasse 39.,2026-03-24 16:15:10,2026-03-24 16:15:10,1,15.0
+Other,Linie 9: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 10:30:18,2026-03-27 08:30:16,33,5639.966666666666
+Other,Linie 9A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 18:45:10,2026-03-23 19:45:09,5,59.983333333333334
+Other,Linie D: Betrieb nur zwischen Absberggasse und Liechtenwerder Platz. Weiterfahrt über Nußdorfer Straße U bis Marsanogasse. Weichen Sie ersatzweise auf die Linien U4 sowie die Linie 400 und die S-Bahn aus. Voraussichtliche Dauer: 16:25 Uhr. Grund: Verkehrsunfall im Bereich Heiligenstädter Straße.,2026-03-23 15:00:29,2026-03-23 15:15:10,2,14.683333333333334
+Other,Linie D: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 15:30:18,2026-03-29 13:11:41,12,8501.383333333333
+Other,Linie D: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-24 08:45:10,2026-03-24 10:15:10,7,90.0
+Other,Linie N20: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-03-29 00:30:18,2026-03-29 01:45:09,5,74.85
+Other,Linie N35: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-28 00:30:16,2026-03-28 01:45:08,6,74.86666666666666
+Other,Linie N67: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-25 00:00:26,2026-03-25 00:00:26,1,15.0
+Other,Linie O: Fahrtbehinderung in Richtung Bruno-Marek-Allee. Voraussichtliche Dauer: 15:45 Uhr. Grund: Fremder Verkehrsunfall im Bereich Laxenburger Straße 37.,2026-03-27 14:30:17,2026-03-27 14:30:17,1,15.0
+Other,"Linie O: Fahrtbehinderung in Richtung Bruno-Marek-Allee. Voraussichtliche Dauer: 16:30 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Landstraße, Wien Mitte S U.",2026-03-28 15:30:16,2026-03-28 15:30:16,1,15.0
+Other,"Linie O: Fahrtbehinderung in Richtung Bruno-Marek-Allee. Voraussichtliche Dauer: 16:50 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Landstraße, Wien Mitte S U.",2026-03-28 15:45:09,2026-03-28 15:45:09,1,15.0
+Other,Linie O: Fahrtbehinderung in Richtung Bruno-Marek-Allee. Voraussichtliche Dauer: 17:15 Uhr. Grund: Verkehrsunfall im Bereich Ungargasse 77.,2026-03-24 16:00:26,2026-03-24 16:00:26,1,15.0
+Other,Linie O: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 14:15 Uhr. Grund: Fremder Verkehrsunfall im Bereich Neulinggasse # Ungargasse.,2026-03-25 12:45:10,2026-03-25 12:45:10,1,15.0
+Other,Linie O: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 06:15:10,2026-03-29 11:00:26,82,7485.266666666666
+Other,Linie O: Umleitung in Richtung Bruno-Marek-Allee zwischen Quartier Belvedere S und Hintere Zollamtsstraße über Schwarzenbergplatz und Stubentor U. Voraussichtliche Dauer: 14:15 Uhr. Grund: Fremder Verkehrsunfall im Bereich Neulinggasse # Ungargasse.,2026-03-25 13:00:25,2026-03-25 13:00:25,1,15.0
+Other,Linie O: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-29 09:00:24,2026-03-29 11:00:26,9,120.03333333333333
+Other,Passage - Ausgang Künstlerhaus,2026-03-25 00:15:11,2026-03-25 04:00:24,16,225.21666666666667
+Other,Passage - Ausgang Secession,2026-03-26 19:45:10,2026-03-26 22:30:17,12,165.11666666666667
+Other,Passage - Ausgang Universitätsring,2026-03-24 12:30:18,2026-03-24 12:30:18,1,15.0
+Other,Passage - Ausgang Äußere Mariahilferstraße,2026-03-24 15:30:17,2026-03-26 06:30:22,17,2340.0833333333335
+Other,"Passage - Bahnsteig Linie 1, 18, 62, Badner Bahn",2026-03-24 19:45:10,2026-03-28 22:00:23,53,5895.216666666666
+Other,"Passage - Durchgang zu 6 Bahnsteig Richtung Kaiserebersdorf, 18 Bahnsteig Richtung Schlachthausgasse, 62 und Badner Bahn Bahnsteig Richtung Oper, Karlsplatz - Ausgang Matzleinsdorfer Platz",2026-03-26 14:15:09,2026-03-26 15:45:10,7,90.01666666666667
+Other,Passage - Zugang ÖBB Bahnsteig - Ausgang Favoritenstraße,2026-03-23 09:15:16,2026-03-23 11:30:23,7,135.11666666666667
+Other,Passage - Zwischengeschoss - Ausgang Innere Mariahilferstraße (Aufzugsgruppe),2026-03-25 18:45:09,2026-03-25 18:45:09,1,15.0
+Other,Passage - Zwischengeschoss Zugang Meiselmarkt - Ausgang Hütteldorfer Straße,2026-03-23 02:00:23,2026-03-27 02:30:16,15,5789.883333333333
+Other,Polizeieinsatz Betrieb ab Dornbach,2026-03-23 17:45:10,2026-03-23 18:30:18,12,45.13333333333333
+Other,Polizeieinsatz Betrieb ab Urban Loritz Platz,2026-03-23 10:30:18,2026-03-23 11:15:10,4,44.86666666666667
+Other,Polizeieinsatz Züge halten in der Paschinggasse,2026-03-23 17:45:10,2026-03-23 18:30:18,4,45.13333333333333
+Other,RadParade Betrieb ab Am Tabor,2026-03-29 10:00:25,2026-03-29 11:45:09,16,104.73333333333333
+Other,RadParade Betrieb ab Börse,2026-03-29 09:15:15,2026-03-29 12:15:09,84,179.9
+Other,RadParade Betrieb ab Hintere Zollamtsstraße,2026-03-29 09:15:15,2026-03-29 12:15:09,216,179.9
+Other,RadParade Betrieb ab Kliebergasse,2026-03-29 09:15:15,2026-03-29 12:15:09,204,179.9
+Other,RadParade Betrieb ab Landstraße U,2026-03-29 10:30:16,2026-03-29 11:45:09,6,74.88333333333334
+Other,RadParade Betrieb ab Radetzkyplatz,2026-03-29 10:00:25,2026-03-29 11:45:09,48,104.73333333333333
+Other,RadParade Betrieb ab Rebhanngasse,2026-03-29 09:15:15,2026-03-29 12:15:09,107,179.9
+Other,"RadParade Betrieb ab Ring, Volkstheater U",2026-03-29 09:15:15,2026-03-29 12:15:09,149,179.9
+Other,RadParade Betrieb ab Rueppgasse,2026-03-29 10:15:17,2026-03-29 11:45:09,7,89.86666666666666
+Other,RadParade Betrieb ab Schwarzenbergplatz,2026-03-29 09:15:15,2026-03-29 12:15:09,180,179.9
+Other,RadParade Betrieb ab Schwedenplatz,2026-03-29 10:30:16,2026-03-29 11:45:09,42,74.88333333333334
+Other,RadParade Betrieb ab Vivariumstraße,2026-03-29 10:15:17,2026-03-29 11:45:09,7,89.86666666666666
+Other,RadParade Betrieb ab Wallensteinstraße,2026-03-29 10:00:25,2026-03-29 11:45:09,32,104.73333333333333
+Other,RadParade Züge halten Schottenring 17,2026-03-29 09:15:15,2026-03-29 12:15:09,12,179.9
+Other,RadParade Züge halten bei Linie O,2026-03-29 09:15:15,2026-03-29 12:15:09,20,179.9
+Other,Rettungseinsatz Betrieb ab Gersthof,2026-03-25 13:00:25,2026-03-25 13:45:10,16,44.75
+Other,Rettungseinsatz Betrieb ab Grillgasse,2026-03-23 07:45:10,2026-03-23 08:45:11,10,60.016666666666666
+Other,Rettungseinsatz Betrieb ab Gymnasiumstraße,2026-03-27 21:15:15,2026-03-27 22:15:14,5,59.983333333333334
+Other,Rettungseinsatz Betrieb ab Hütteldorfer Straße U,2026-03-23 10:15:10,2026-03-23 10:45:10,15,30.0
+Other,Rettungseinsatz Betrieb ab Johann Nepomuk Berger Platz,2026-03-23 10:15:10,2026-03-23 11:00:29,28,45.31666666666667
+Other,Rettungseinsatz Betrieb ab Kolschitzkygasse,2026-03-27 10:00:27,2026-03-27 10:45:10,8,44.71666666666667
+Other,Rettungseinsatz Betrieb ab Matzleinsdorfer Platz,2026-03-24 06:30:17,2026-03-24 07:15:10,16,44.88333333333333
+Other,Rettungseinsatz Betrieb ab Matzleinsdorfer Platz <,2026-03-27 09:45:10,2026-03-27 10:30:17,16,45.11666666666667
+Other,Rettungseinsatz Betrieb ab Quartier Belvedere >,2026-03-27 09:45:10,2026-03-27 10:30:17,19,45.11666666666667
+Other,Rettungseinsatz Betrieb ab Urban Loritz Platz,2026-03-23 10:15:10,2026-03-23 11:00:29,16,45.31666666666667
+Other,Rettungseinsatz Einstieg bei Linie D Richtung Nußdorf,2026-03-27 09:45:10,2026-03-27 10:45:10,8,60.0
+Other,Rettungseinsatz Umleitung bis Kolschitzkygasse,2026-03-27 10:00:27,2026-03-27 10:45:10,4,44.71666666666667
+Other,Rettungseinsatz Umleitung bis Qaurtier Belvedere über Linien 6 und D,2026-03-27 10:00:27,2026-03-27 10:30:17,3,29.833333333333332
+Other,Rettungseinsatz Züge halten bei Linie D,2026-03-25 09:30:16,2026-03-25 10:15:09,4,44.88333333333333
+Other,Rettungseinsatz Züge halten bei Linien 37 und 38,2026-03-25 09:30:16,2026-03-25 10:15:09,4,44.88333333333333
+Other,Schadhafter Pkw Betrieb ab Atzgersdorf <,2026-03-28 10:15:09,2026-03-28 11:00:26,4,45.28333333333333
+Other,Schadhafter Zug  Züge halten bei Li. 25 Ri. Floridsdorf S U,2026-03-26 13:15:10,2026-03-26 14:00:28,4,45.3
+Other,Schadhafter Zug Betrieb ab Berresgasse,2026-03-26 13:15:10,2026-03-26 14:00:28,40,45.3
+Other,Schadhafter Zug Betrieb ab Breitensee S,2026-03-29 10:45:14,2026-03-29 12:45:09,80,119.91666666666667
+Other,"Schadhafter Zug Betrieb ab Enkplatz, Grillgasse",2026-03-24 10:00:30,2026-03-24 10:45:10,8,44.666666666666664
+Other,Schadhafter Zug Betrieb ab Floridsdorfer Markt,2026-03-26 15:00:29,2026-03-26 15:45:10,36,44.68333333333333
+Other,Schadhafter Zug Betrieb ab Hofwiesengasse,2026-03-29 08:45:09,2026-03-29 09:30:16,40,45.11666666666667
+Other,Schadhafter Zug Betrieb ab Josef-Baumann-Gasse,2026-03-26 13:15:10,2026-03-26 14:00:28,80,45.3
+Other,Schadhafter Zug Betrieb ab Maroltingergasse,2026-03-28 06:15:08,2026-03-28 07:00:25,24,45.28333333333333
+Other,Schadhafter Zug Betrieb ab Quellenplatz,2026-03-26 10:30:16,2026-03-26 11:30:17,50,60.016666666666666
+Other,Schadhafter Zug Betrieb ab St. Marx,2026-03-24 10:00:30,2026-03-24 10:45:10,8,44.666666666666664
+Other,Schadhafter Zug Betrieb ab Zanggasse,2026-03-26 13:15:10,2026-03-26 14:00:28,40,45.3
+Other,Schadhafter Zug Betrieb nur bis Bhf. Simmering,2026-03-27 18:00:26,2026-03-27 18:45:14,45,44.8
+Other,Schadhafter Zug Züge halten Peitlgasse 8,2026-03-26 15:00:29,2026-03-26 15:45:10,4,44.68333333333333
+Other,Schadhafter Zug Züge halten bei Li. 11 Richtung Otto-Probst-Platz,2026-03-26 10:45:09,2026-03-26 11:30:17,5,45.13333333333333
+Other,Stromstörung Betrieb nur bis Zentralfriedhof 3. Tor,2026-03-27 20:00:26,2026-03-27 20:45:09,64,44.71666666666667
+Other,U1 Bahnsteig Richtung Oberlaa - Ausgang Radingerstraße,2026-03-26 21:00:25,2026-03-26 21:00:25,1,15.0
+Other,U1 Mittelbahnsteig - Ausgang Baldassgasse,2026-03-24 21:15:09,2026-03-24 21:30:15,2,15.1
+Other,U1 Mittelbahnsteig - Ausgang Favoritenstraße,2026-03-25 00:15:11,2026-03-25 04:00:24,16,225.21666666666667
+Other,U1 Mittelbahnsteig - Ausgang Keplerplatz,2026-03-27 21:00:25,2026-03-27 21:00:25,1,15.0
+Other,U1 Mittelbahnsteig - Ausgang Praterstraße,2026-03-23 21:00:26,2026-03-27 04:00:25,17,4739.983333333334
+Other,U1 Mittelbahnsteig - Ausgang Wagramerstraße,2026-03-23 18:00:24,2026-03-23 18:00:24,1,15.0
+Other,U1 Mittelbahnsteig - Zwischengeschoss Zugang Aufzug U4 - Ausgang Schwedenplatz,2026-03-23 21:30:16,2026-03-23 21:30:16,1,15.0
+Other,U2 Bahnsteig Richtung Karlsplatz - Ausgang Florianigasse,2026-03-24 00:15:15,2026-03-24 04:00:23,16,225.13333333333333
+Other,U2 Bahnsteig Richtung Karlsplatz - Ausgang Stadion,2026-03-23 08:15:10,2026-03-26 10:15:10,15,4440.0
+Other,U2 Bahnsteig Richtung Karlsplatz - Ausgang Stella Klein Löw Weg,2026-03-24 14:15:10,2026-03-24 15:45:10,7,90.0
+Other,U2 Bahnsteig Richtung Schottentor - Ausgang Burggasse,2026-03-25 17:45:09,2026-03-27 14:15:15,26,2670.1
+Other,U2 Bahnsteig Richtung Seestadt - Ausgang Donaumarina,2026-03-22 19:58:54,2026-03-23 07:00:26,46,661.5333333333333
+Other,U2 Bahnsteig Richtung Seestadt - Ausgang Rathaus,2026-03-22 19:58:54,2026-03-29 13:15:09,647,9676.25
+Other,U2 Mittelbahnsteig - Ausgang Aspernstraße,2026-03-23 21:15:10,2026-03-23 21:30:16,2,15.1
+Other,U2 Mittelbahnsteig - Ausgang Franz-Wels-Gasse,2026-03-24 03:00:27,2026-03-24 07:45:09,20,284.7
+Other,"U2 Mittelbahnsteig - Ausgang Hausfeldstraße, zur Straßenbahnlinie 26 und zu allen Buslinien",2026-03-22 19:58:54,2026-03-29 13:15:09,647,9676.25
+Other,U2 Mittelbahnsteig - Ausgang Krieau,2026-03-23 19:45:09,2026-03-23 23:30:21,16,225.2
+Other,U2 Mittelbahnsteig - Ausgang Messe,2026-03-25 19:45:10,2026-03-27 19:45:10,2,2880.0
+Other,U2 Mittelbahnsteig - Ausgang Sturgasse,2026-03-24 00:15:15,2026-03-24 04:00:23,16,225.13333333333333
+Other,U2 Mittelbahnsteig - Passage,2026-03-27 00:15:09,2026-03-27 04:15:09,17,240.0
+Other,U3 Bahnsteig Ri. Ottakring - U3 Bahnsteig Ri. Simmering - Ausgang Parkring (Aufzugsgruppe),2026-03-23 00:15:09,2026-03-25 01:15:09,15,2940.0
+Other,U3 Bahnsteig Richtung Ottakring - Ausgang Koppstraße,2026-03-24 20:00:25,2026-03-24 23:45:09,16,224.73333333333332
+Other,U3 Bahnsteig Richtung Ottakring - Ausgang Thaliastraße,2026-03-25 00:30:16,2026-03-25 04:15:10,16,224.9
+Other,U3 Bahnsteig Richtung Ottakring - U3 Bahnsteig Richtung Simmering - Zwischengeschoss Aufgang Stiftgasse/Kirchengasse,2026-03-23 20:15:09,2026-03-24 18:45:09,17,1350.0
+Other,U3 Mittelbahnsteig - Ausgang Benedikt Schellingergasse (Aufzugsgruppe),2026-03-27 07:00:27,2026-03-27 11:30:18,15,269.85
+Other,U3 Mittelbahnsteig - Ausgang Franzosengraben,2026-03-22 19:58:54,2026-03-29 05:30:15,74,9211.35
+Other,U3 Mittelbahnsteig - Ausgang Keinergasse,2026-03-28 09:15:09,2026-03-28 09:45:09,3,30.0
+Other,U3 Mittelbahnsteig - Ausgang Kendlerstraße,2026-03-24 00:30:17,2026-03-24 01:15:09,2,44.86666666666667
+Other,U3 Mittelbahnsteig - Ausgang Nottendorfer Straße (Town Town),2026-03-27 07:30:18,2026-03-27 15:00:27,31,450.15
+Other,U3 Mittelbahnsteig - Ausgang Steinbruchstraße (Aufzugsgruppe),2026-03-24 00:30:17,2026-03-24 01:15:09,2,44.86666666666667
+Other,U3 Mittelbahnsteig - U2 Bahnsteig Richtung Seestadt - Ausgang Bellariastraße,2026-03-25 00:15:11,2026-03-25 06:30:18,6,375.1166666666667
+Other,U3 Mittelbahnsteig - U2 Bahnsteig Richtung Seestadt - Ausgang Burggasse,2026-03-26 19:45:10,2026-03-26 23:30:16,16,225.1
+Other,U3 Mittelbahnsteig - Zwischengeschoss Zugang zur U4 und ÖBB,2026-03-25 21:15:10,2026-03-25 22:00:24,4,45.233333333333334
+Other,U4 Bahnsteig Richtung Heiligenstadt - Ausgang Morizgasse,2026-03-22 19:58:54,2026-03-24 09:00:27,150,2221.55
+Other,U4 Bahnsteig Richtung Heiligenstadt - Ausgang Preindlsteig,2026-03-23 20:00:24,2026-03-23 23:45:09,16,224.75
+Other,U4 Bahnsteig Richtung Heiligenstadt - Ausgang Schloß Schönbrunn,2026-03-25 16:00:25,2026-03-25 18:15:15,11,134.83333333333334
+Other,U4 Bahnsteig Richtung Heiligenstadt - Ausgang Seegasse,2026-03-22 19:58:54,2026-03-27 06:30:19,90,6391.416666666667
+Other,U4 Bahnsteig Richtung Heiligenstadt - Ausgang Wehrgasse,2026-03-22 19:58:54,2026-03-29 13:15:09,623,9676.25
+Other,"U4 Bahnsteig Richtung Hütteldorf - Ausgang Hietzinger Kai, Hadikgasse",2026-03-26 21:00:25,2026-03-26 22:15:09,6,74.73333333333333
+Other,U4 Bahnsteig Richtung Hütteldorf - Ausgang Jenullgasse,2026-03-24 09:45:10,2026-03-29 13:15:09,495,7409.983333333334
+Other,U4 Bahnsteig Richtung Hütteldorf - Ausgang Morizgasse,2026-03-23 13:30:19,2026-03-27 15:00:27,73,5850.133333333333
+Other,U4 Bahnsteig Richtung Hütteldorf - Ausgang Preindlsteig,2026-03-24 00:30:17,2026-03-24 04:15:10,16,224.88333333333333
+Other,U4 Bahnsteig Richtung Hütteldorf - Ausgang Seegasse,2026-03-27 06:15:09,2026-03-27 06:15:09,1,15.0
+Other,U4 Bahnsteig Richtung Richtung Hütteldorf - Ausgang Schloß Schönbrunn,2026-03-24 08:45:10,2026-03-24 10:00:30,6,75.33333333333333
+Other,U4 Mittelbahnsteig - Ausgang Gussenbauergasse,2026-03-26 20:00:25,2026-03-26 23:45:08,16,224.71666666666667
+Other,U4 Mittelbahnsteig - Ausgang Ruckergasse,2026-03-26 20:00:25,2026-03-26 23:30:16,15,209.85
+Other,U4 Mittelbahnsteig - Zwischengeschoss - U6 Bahnsteig Richtung Siebenhirten,2026-03-22 20:45:09,2026-03-23 08:00:24,46,675.25
+Other,U4 beide Fahrtrichtungen - Passage,2026-03-23 23:45:09,2026-03-25 02:15:08,37,1589.9833333333333
+Other,U6 Bahnsteig Richtung Floridsdorf - Ausgang Am Schöpfwerk,2026-03-25 17:15:10,2026-03-25 18:00:30,4,45.333333333333336
+Other,U6 Bahnsteig Richtung Floridsdorf - Ausgang Baslergasse,2026-03-26 00:15:10,2026-03-26 04:00:26,16,225.26666666666668
+Other,U6 Bahnsteig Richtung Floridsdorf - Ausgang Engerthstraße,2026-03-24 00:15:15,2026-03-24 00:15:15,1,15.0
+Other,U6 Bahnsteig Richtung Floridsdorf - Ausgang Gumpendorfer Straße,2026-03-25 00:15:11,2026-03-25 13:00:25,20,765.2333333333333
+Other,U6 Bahnsteig Richtung Floridsdorf - Ausgang In der Wiesen,2026-03-22 19:58:54,2026-03-25 02:15:08,36,3256.233333333333
+Other,"U6 Bahnsteig Richtung Floridsdorf - Ausgang Lazarettgasse, Kinderspitalgasse",2026-03-24 20:00:25,2026-03-24 23:30:17,15,209.86666666666667
+Other,U6 Bahnsteig Richtung Floridsdorf - Ausgang Neue Donau,2026-03-22 19:58:54,2026-03-26 04:15:10,259,4816.266666666666
+Other,U6 Bahnsteig Richtung Floridsdorf - Ausgang Perfektastraße,2026-03-26 19:45:10,2026-03-26 23:30:16,16,225.1
+Other,U6 Bahnsteig Richtung Floridsdorf - Ausgang Tscherttegasse,2026-03-24 00:45:09,2026-03-27 04:00:25,26,4515.266666666666
+Other,U6 Bahnsteig Richtung Floridsdorf - Ausgang Urban Loritz Platz,2026-03-23 19:45:09,2026-03-23 23:45:09,17,240.0
+Other,"U6 Bahnsteig Richtung Floridsdorf - Ausgang Währingerstraße, Volksoper",2026-03-27 21:45:09,2026-03-29 13:15:09,159,2370.0
+Other,U6 Bahnsteig Richtung Floridsdorf - Zwischengeschoss - U4 Mittelbahnsteig,2026-03-22 19:58:54,2026-03-26 11:45:10,182,5266.266666666666
+Other,U6 Bahnsteig Richtung Siebenhirten - Ausgang Am Schöpfwerk,2026-03-27 00:15:09,2026-03-27 04:15:09,17,240.0
+Other,U6 Bahnsteig Richtung Siebenhirten - Ausgang Baslergasse,2026-03-25 19:45:10,2026-03-25 23:30:17,15,225.11666666666667
+Other,U6 Bahnsteig Richtung Siebenhirten - Ausgang Engerthstraße,2026-03-24 00:15:15,2026-03-26 14:45:10,74,3749.9166666666665
+Other,U6 Bahnsteig Richtung Siebenhirten - Ausgang In der Wiesen,2026-03-23 00:30:15,2026-03-25 04:00:24,42,3090.15
+Other,"U6 Bahnsteig Richtung Siebenhirten - Ausgang Jörgerstraße, Hernalser Hauptstraße",2026-03-25 19:45:10,2026-03-25 23:30:17,15,225.11666666666667
+Other,U6 Bahnsteig Richtung Siebenhirten - Ausgang Neue Donau,2026-03-25 20:00:26,2026-03-25 23:45:09,15,224.71666666666667
+Other,U6 Bahnsteig Richtung Siebenhirten - Ausgang Perfektastraße,2026-03-22 19:58:54,2026-03-29 13:15:09,647,9676.25
+Other,U6 Bahnsteig Richtung Siebenhirten - Ausgang Sechshauserstraße,2026-03-26 00:15:10,2026-03-26 04:00:26,16,225.26666666666668
+Other,U6 Bahnsteig Richtung Siebenhirten - Ausgang Tscherttegasse,2026-03-22 19:58:54,2026-03-29 13:15:09,647,9676.25
+Other,U6 Bahnsteig Richtung Siebenhirten - Ausgang Urban Loritz Platz,2026-03-24 00:15:15,2026-03-24 04:15:10,17,239.91666666666666
+Other,U6 Mittelbahnsteig - Ausgang Dresdner Straße,2026-03-22 19:58:54,2026-03-29 13:15:09,647,9676.25
+Other,Verkehrsunfall Betrieb ab Albertgasse,2026-03-26 18:15:10,2026-03-26 19:00:29,16,45.31666666666667
+Other,Verkehrsunfall Betrieb ab Brino-Marek-Allee,2026-03-27 15:30:17,2026-03-27 16:15:10,16,44.88333333333333
+Other,Verkehrsunfall Betrieb ab Johann-Nepomuk-Berger-Platz,2026-03-24 11:00:27,2026-03-24 11:45:10,16,44.71666666666667
+Other,Verkehrsunfall Betrieb ab Liechtenwerder Platz,2026-03-23 15:15:10,2026-03-23 15:45:09,18,29.983333333333334
+Other,Verkehrsunfall Betrieb ab Sommarugagasse,2026-03-27 06:30:19,2026-03-27 07:15:14,4,44.916666666666664
+Other,Verkehrsunfall Betrieb nur bis Blindengasse - Josefstädter Straße,2026-03-26 18:15:10,2026-03-26 19:00:29,32,45.31666666666667
+Other,Verkehrsunfall Derzeit kein Betrieb möglich,2026-03-24 11:15:10,2026-03-24 12:00:27,68,45.28333333333333
+Other,Verkehrsunfall Einstieg bei Linie O,2026-03-25 16:30:17,2026-03-27 16:15:10,9,2864.883333333333
+Other,Verkehrsunfall Umleitung nach Pötzleinsdorf,2026-03-27 06:30:19,2026-03-27 07:15:14,4,44.916666666666664
+Other,Wasserrohrbruch Betrieb ab Anschützgasse,2026-03-22 19:58:54,2026-03-23 00:15:09,57,256.25
+Other,"Wasserrohrbruch Betrieb ab Anschützgasse, benutzen Sie den Schienenersatzverkehr",2026-03-22 19:58:54,2026-03-23 00:15:09,19,256.25
+Other,Wasserrohrbruch Betrieb ab Hietzing,2026-03-22 19:58:54,2026-03-22 22:30:21,36,151.45
+Other,Wasserrohrbruch Betrieb ab Hütteldorfer Straße,2026-03-22 19:58:54,2026-03-22 22:30:21,12,151.45
+Other,"Wasserrohrbruch Betrieb ab Hütteldorfer Straße U, Ersatzweise SEV",2026-03-22 19:58:54,2026-03-23 00:15:09,57,256.25
+Other,Wasserrohrbruch Ersatzweise Schienenersatzverkehr,2026-03-22 19:58:54,2026-03-23 00:15:09,76,256.25
+Other,Wasserrohrbruch Umleitung nach Breitensee,2026-03-22 19:58:54,2026-03-23 00:15:09,19,256.25
+Other,"Wasserrohrbruch Umleitung nach Unter St. Veit, Hummelgasse",2026-03-22 19:58:54,2026-03-23 00:15:09,19,256.25
+Other,Wasserrohrbruch Umleitung zur Anschützgasse,2026-03-22 19:58:54,2026-03-22 22:30:21,12,151.45
+Other,Weichenschaden  Betrieb ab Floridsdorf < >,2026-03-27 07:30:18,2026-03-27 10:45:10,42,194.86666666666667
+Other,Weichenschaden  Einstieg Franz-Jonas-Platz,2026-03-27 07:30:18,2026-03-27 10:45:10,14,194.86666666666667
+Other,Weichenschaden Betrieb ab Floridsdorf < >,2026-03-27 07:30:18,2026-03-27 10:45:10,56,194.86666666666667
+Other,Weichenschaden Betrieb ab Josef-Baumann-Gasse,2026-03-27 07:30:18,2026-03-27 10:45:10,112,194.86666666666667
+Other,Weichenschaden Betrieb ab Kagran >,2026-03-27 07:45:09,2026-03-27 10:45:10,91,180.01666666666668
+Other,Weichenschaden Einstieg Franz-Jonas-Platz,2026-03-27 07:30:18,2026-03-27 10:45:10,14,194.86666666666667
+Other,Weichenschaden Umleitung nach Kagran >,2026-03-27 07:30:18,2026-03-27 10:45:10,14,194.86666666666667
+Other,Zwischengeschoss - Ausgang Erdbergstraße,2026-03-27 08:30:16,2026-03-27 10:30:17,9,120.01666666666667
+Other,Zwischengeschoss - Ausgang Heiligenstädter Straße,2026-03-25 13:15:10,2026-03-26 09:45:10,83,1230.0
+Other,Zwischengeschoss - Ausgang Minoritenplatz,2026-03-23 00:00:27,2026-03-25 02:15:08,27,3014.6833333333334
+Other,Zwischengeschoss - Ausgang Neubaugasse,2026-03-27 00:15:09,2026-03-27 02:30:16,10,135.11666666666667
+Other,Zwischengeschoss - Ausgang Volksgarten,2026-03-25 19:45:10,2026-03-25 23:45:09,16,239.98333333333332
+Other,Zwischengeschoss - Ausgang Wilhelmstraße,2026-03-26 07:45:09,2026-03-26 08:45:15,5,60.1
+Other,Zwischengeschoß - Ausgang Nottendorfergasse,2026-03-27 07:30:18,2026-03-27 07:30:18,1,15.0
+Other,beide Fahrtrichtungen - Ausgang Alaudagasse,2026-03-27 06:45:09,2026-03-27 08:30:16,8,105.11666666666666
+Other,beide Fahrtrichtungen - Ausgang Per Albin Hansson Siedlung,2026-03-27 08:45:09,2026-03-27 09:00:26,2,15.283333333333333
+Other,ÖBB Bahnsteig Richtung Floridsdorf - Ausgang Engerthstraße,2026-03-23 06:15:09,2026-03-24 14:45:09,73,1950.0
+U1,Derzeit können die Züge der Linie U1 die Station Stephansplatz in beiden Richtungen nicht einhalten. Voraussichtliche Dauer: 21:10 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Stephansplatz.,2026-03-25 19:45:10,2026-03-25 19:45:10,1,15.0
+U1,Die Linie U1 fährt derzeit in der Station Alte Donau in beiden Richtungen über Gleis 2. Voraussichtliche Dauer: 09:40 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Alte Donau.,2026-03-26 08:30:19,2026-03-26 08:30:19,1,15.0
+U1,"Die Linie U1 fährt derzeit nur zwischen Leopoldau und Reumannplatz. Weichen Sie ersatzweise auf die Linien 15A, 16A, 17A, 66A und 68B aus. Voraussichtliche Dauer: Nicht absehbar. Grund: Betriebsstörung im Haltestellenbereich Oberlaa.",2026-03-29 04:30:22,2026-03-29 04:30:22,1,15.0
+U1,Die Linie U1 fährt derzeit zwischen den Stationen Keplerplatz und Südtiroler Platz in beiden Richtungen über Gleis 2. Voraussichtliche Dauer: 08:15 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Südtiroler Platz.,2026-03-26 06:45:10,2026-03-26 07:00:27,2,15.283333333333333
+U1,Die Linie U1 fährt derzeit zwischen den Stationen Praterstern und Vorgartenstraße in beiden Richtungen über Gleis 2. Voraussichtliche Dauer: 10:00 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Vorgartenstraße.,2026-03-24 08:30:23,2026-03-24 08:45:10,2,14.783333333333333
+U1,Die Linie U1 fährt derzeit zwischen den Stationen Praterstern und Vorgartenstraße in beiden Richtungen über Gleis 2. Voraussichtliche Dauer: 11:00 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Vorgartenstraße.,2026-03-24 09:00:27,2026-03-24 09:45:10,4,44.71666666666667
+U1,Linie U1: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 22:50 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Vorgartenstraße.,2026-03-26 21:45:14,2026-03-26 21:45:14,1,15.0
+U1,Linie U1: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 09:30:19,2026-03-29 05:00:24,40,8370.083333333334
+U1,Linie U1: Unregelmäßige Intervalle in Richtung Oberlaa. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Rennbahnweg.,2026-03-24 16:30:18,2026-03-24 16:30:18,1,15.0
+U1,Linie U1: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-03-26 13:00:28,2026-03-27 19:45:10,10,1844.7
+U1,Linie U1: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-23 05:30:15,2026-03-27 05:45:14,29,5774.983333333334
+U2,Die Linie U2 fährt derzeit in der Station Stadlau in beiden Richtungen über Gleis 2. Voraussichtliche Dauer: 07:00 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Stadlau.,2026-03-27 05:30:17,2026-03-27 05:45:14,2,14.95
+U2,Die Linie U2 fährt derzeit zwischen den Stationen Donaustadtbrücke und Donaumarina in beiden Richtungen über Gleis 2. Voraussichtliche Dauer: 11:45 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Donaumarina.,2026-03-26 10:30:16,2026-03-26 10:30:16,1,15.0
+U2,Linie U2: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 10:15:10,2026-03-27 05:45:14,21,4050.0666666666666
+U2,Linie U2: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-03-26 22:15:09,2026-03-26 22:45:08,3,29.983333333333334
+U2,Linie U2: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-25 14:45:09,2026-03-28 05:15:08,7,3749.983333333333
+U3,Die Linie U3 fährt derzeit zwischen den Stationen Zippererstraße und Enkplatz in beiden Richtungen über Gleis 2. Voraussichtliche Dauer: 15:10 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Zippererstraße.,2026-03-26 14:00:28,2026-03-26 14:00:28,1,15.0
+U3,Linie U3: Fahrtbehinderung in Richtung Ottakring. Voraussichtliche Dauer: 10:15 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Enkplatz.,2026-03-27 09:00:26,2026-03-27 09:00:26,1,15.0
+U3,Linie U3: Fahrtbehinderung in Richtung Ottakring. Voraussichtliche Dauer: 18:30 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Stephansplatz.,2026-03-25 17:15:10,2026-03-25 17:15:10,1,15.0
+U3,Linie U3: Fahrtbehinderung in Richtung Simmering. Voraussichtliche Dauer: 15:00 Uhr. Grund: Betriebsstörung im Haltestellenbereich Zippererstraße.,2026-03-26 13:45:10,2026-03-26 13:45:10,1,15.0
+U3,Linie U3: Fahrtbehinderung in Richtung Simmering. Voraussichtliche Dauer: 16:05 Uhr. Grund: Betriebsstörung im Haltestellenbereich Schweglerstraße.,2026-03-25 15:00:28,2026-03-25 15:00:28,1,15.0
+U3,Linie U3: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 17:20 Uhr. Grund: Betriebsstörung im Haltestellenbereich Westbahnhof.,2026-03-24 16:00:26,2026-03-24 16:00:26,1,15.0
+U3,Linie U3: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-24 11:45:10,2026-03-28 06:00:24,61,5415.233333333334
+U3,Linie U3: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-03-25 07:15:09,2026-03-26 10:15:10,21,1620.0166666666667
+U3,Linie U3: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-24 05:00:25,2026-03-26 19:00:29,8,3720.0666666666666
+U3,Linie U3: Unregelmäßige Intervalle in beiden Richtungen. Grund: Stellwerksstörung im Haltestellenbereich Zieglergasse.,2026-03-24 06:45:09,2026-03-24 10:30:17,16,225.13333333333333
+U4,"Derzeit können die Züge der Linie U4 die Station Karlsplatz in beiden Richtungen nicht einhalten. Weichen Sie ersatzweise auf die Linien U1, U2, U3, U6, 57A und 59A aus. Voraussichtliche Dauer: 09:00 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Karlsplatz.",2026-03-26 07:45:09,2026-03-26 07:45:09,1,15.0
+U4,Die Linie U4 fährt derzeit in der Station Friedensbrücke in beiden Richtungen über Gleis 1. Voraussichtliche Dauer: 15:00 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Friedensbrücke.,2026-03-26 13:30:18,2026-03-26 13:30:18,1,15.0
+U4,Die Linie U4 fährt derzeit in der Station Spittelau in beiden Richtungen über Gleis 1. Voraussichtliche Dauer: 05:50 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Spittelau.,2026-03-28 04:45:08,2026-03-28 04:45:08,1,15.0
+U4,Die Linie U4 fährt derzeit nicht zwischen Braunschweiggasse und Hietzing. Voraussichtliche Dauer: 15:35 Uhr. Grund: Betriebsstörung im Haltestellenbereich Hietzing.,2026-03-24 14:15:10,2026-03-24 14:15:10,1,15.0
+U4,"Die Linie U4 fährt derzeit nicht zwischen Landstraße und Pilgramgasse. Weichen Sie ersatzweise auf die Linien U1, U2, U3, U6, 57A und 59A aus. Voraussichtliche Dauer: 09:00 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Karlsplatz.",2026-03-26 06:45:10,2026-03-26 07:30:17,4,45.11666666666667
+U4,Die Linie U4 fährt derzeit nur zwischen Hütteldorf und Schottenring. Weichen Sie ersatzweise auf die Linie D aus. Voraussichtliche Dauer: 15:00 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Friedensbrücke.,2026-03-23 13:15:11,2026-03-23 13:30:19,2,15.133333333333333
+U4,Die Linie U4 fährt derzeit zwischen den Stationen Hietzing und Schönbrunn in beiden Richtungen über Gleis 1. Voraussichtliche Dauer: 21:00 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Hietzing.,2026-03-27 19:30:17,2026-03-27 19:30:17,1,15.0
+U4,Linie U4 Kein Betrieb zwischen Landstraße und Pilgramgasse,2026-03-26 06:45:10,2026-03-26 12:00:27,989,315.28333333333336
+U4,Linie U4: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 09:00 Uhr. Grund: Rettungseinsatz im Haltestellenbereich Karlsplatz.,2026-03-26 06:30:22,2026-03-26 06:30:22,1,15.0
+U4,Linie U4: Fahrtbehinderung in beiden Richtungen. Voraussichtliche Dauer: 23:30 Uhr. Grund: Betriebsstörung im Haltestellenbereich Roßauer Lände.,2026-03-24 22:15:09,2026-03-24 22:15:09,1,15.0
+U4,Linie U4: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 13:45:10,2026-03-28 17:30:16,44,7425.1
+U4,Linie U4: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-03-23 05:30:15,2026-03-25 08:15:09,12,3044.9
+U4,Linie U4: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-26 05:30:16,2026-03-27 05:30:17,9,1440.0166666666667
+U6,Die Linie U6 fährt derzeit in der Station Neue Donau in beiden Richtungen über Gleis 1. Voraussichtliche Dauer: 15:15 Uhr. Grund: Schadhaftes Fahrzeug im Haltestellenbereich Neue Donau.,2026-03-24 14:00:26,2026-03-24 14:15:10,2,14.733333333333333
+U6,Die Linie U6 fährt derzeit in der Station Neue Donau in beiden Richtungen über Gleis 1. Voraussichtliche Dauer: 22:30 Uhr. Grund: Betriebsstörung im Bereich Neue Donau.,2026-03-23 21:00:26,2026-03-23 21:00:26,1,15.0
+U6,Die Linie U6 fährt derzeit zwischen den Stationen Josefstädter Straße und Alser Straße in beiden Richtungen über Gleis 2. Voraussichtliche Dauer: 19:00 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Josefstädter Straße.,2026-03-27 17:45:10,2026-03-27 17:45:10,1,15.0
+U6,Die Linie U6 fährt derzeit zwischen den Stationen Josefstädter Straße und Alser Straße in beiden Richtungen über Gleis 2. Voraussichtliche Dauer: 19:20 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Josefstädter Straße.,2026-03-27 18:00:26,2026-03-27 18:00:26,1,15.0
+U6,Linie U6: Fahrtbehinderung in Richtung Floridsdorf. Voraussichtliche Dauer: 15:10 Uhr. Grund: Polizeieinsatz im Haltestellenbereich Alser Straße.,2026-03-23 14:00:27,2026-03-23 14:00:27,1,15.0
+U6,"Linie U6: Kein Betrieb zwischen Währinger Straße, Volksoper U und Jägerstraße U. Am Südast der U6 fährt tagsüber jeder zweite Zug nur zwischen Siebenhirten und Michelbeuern-AKH. Ersatz: Zwischen Josefstädter Straße U und Jägerstraße U können Sie auf die Linie 12 ausweichen. Die Linie 12 fährt auch am Wochenende während der Betriebszeiten der Nacht-U-Bahn. Weichen Sie auch auf die Linien 37, 38, 40, 41 und 42 aus. Voraussichtliche Dauer: 6. April 2026, Betriebsschluss. Grund: Bauarbeiten.",2026-03-27 21:15:15,2026-03-29 13:15:09,161,2399.9
+U6,Linie U6: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-03-23 08:45:11,2026-03-27 20:15:10,36,6449.983333333334
+U6,Linie U6: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung im Haltestellenbereich Alterlaa.,2026-03-25 15:45:11,2026-03-25 16:15:10,3,29.983333333333334
+U6,Linie U6: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-03-26 15:00:29,2026-03-26 20:00:25,12,299.93333333333334
+U6,Linie U6: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-03-24 13:15:15,2026-03-24 13:45:10,3,29.916666666666668
+U6,Linie U6: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-03-26 05:30:16,2026-03-26 08:00:27,11,150.18333333333334
+U6,"Rettungseinsatz Umleitung zur Dörfelstraße, U6",2026-03-24 06:30:17,2026-03-24 07:15:10,4,44.88333333333333
