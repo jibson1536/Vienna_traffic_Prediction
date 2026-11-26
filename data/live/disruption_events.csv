@@ -1,98 +1,98 @@
 event_id,first_seen_utc,last_seen_utc,times_seen,lines,category_id,title,description,start_reported,end_reported,related_stops
-ftazS_1017625,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,WLB|62|1,1,Kliebergasse,"Bahnsteig Linie 1 Richtung Stefan-Fadinger-Platz, Linie 62 Richtung Lainz, Badner Bahn Richtung Baden - Ausgang Kliebergasse / Gassergasse",2026-12-13T20:45:00.000+0100,2026-12-14T00:45:00.000+0100,831|1715|1715
-ftazS_1017626,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,18,1,Kliebergasse,18 Bahnsteig Richtung Burggasse - Ausgang Kliebergasse,2026-12-14T01:15:00.000+0100,2026-12-14T05:15:00.000+0100,831
+ftazS_1017625,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,WLB|62|1,1,Kliebergasse,"Bahnsteig Linie 1 Richtung Stefan-Fadinger-Platz, Linie 62 Richtung Lainz, Badner Bahn Richtung Baden - Ausgang Kliebergasse / Gassergasse",2026-12-13T20:45:00.000+0100,2026-12-14T00:45:00.000+0100,831|1715|1715
+ftazS_1017626,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,18,1,Kliebergasse,18 Bahnsteig Richtung Burggasse - Ausgang Kliebergasse,2026-12-14T01:15:00.000+0100,2026-12-14T05:15:00.000+0100,831
 ftazS_520,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,U6,1,Handelskai,U6 Bahnsteig Richtung Siebenhirten - Ausgang Engerthstraße,2026-12-14T01:15:00.000+0100,2026-12-14T05:15:00.000+0100,4648
-ftazS_566,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,U4,1,Pilgramgasse,Fahrtrichtung U4 Heiligenstadt. - Ausgang Ramperstorffergasse,,,4417
-ftazS_711,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,U1,1,Keplerplatz,U1 Mittelbahnsteig - Ausgang Keplerplatz,,,4103|4126
-ftazS_627,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,U2,1,Rathaus,U2 Bahnsteig Richtung Seestadt - Ausgang Rathaus,,,4210
+ftazS_566,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,U4,1,Pilgramgasse,Fahrtrichtung U4 Heiligenstadt. - Ausgang Ramperstorffergasse,,,4417
+ftazS_711,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,U1,1,Keplerplatz,U1 Mittelbahnsteig - Ausgang Keplerplatz,,,4103|4126
+ftazS_627,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,U2,1,Rathaus,U2 Bahnsteig Richtung Seestadt - Ausgang Rathaus,,,4210
 ftazS_1303911,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,U2,1,Schottentor,Passage - Ausgang Universitätsring,,,4203|4212
 I20261120-0007,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,1|2|D|71,2,"1, D, 71, 2: Demonstration","Linie 1: Umleitung in Richtung Reumannplatz U Wende über Börse und Umleitung bis Resselgasse über Schwedenplatz U und Schwarzenbergplatz. Einstieg am Karlsplatz U (bei Linie 4A) möglich. Umleitung in Richtung Prater Hauptallee zwischen Karlsplatz U und Julius-Raab-Platz über Schwarzenbergplatz und Stubentor U. Fahrgäste zwischen Börse und Schwedenplatz mit dem Ziel Prater Hauptallee müssen am Julius-Raab-Platz in einen anderen Zug der Linie 1 umsteigen. Linie 2: Umleitung in beiden Richtungen zwischen Parlament, U Volkstheater und Rathaus U über die Reichsratsstraße. Richtung Dornbach: Haltestelle Parlament, U Volkstheater: Die Züge halten in der Haltestelle der Linie 46. Richtung Friedrich-Engels-Platz: Parlament, U Volkstheater: Die Züge halten in der Bedarfshaltestelle am Burgring nach der Bellariastraße. Linie D: Umleitung in beiden Richtungen zwischen Schwarzenbergplatz und Börse über Stubentor U und Schwedenplatz U. Linie 71: Betrieb nur zwischen Kaiserebersdorf und Schwarzenbergplatz. Ersatz: Linien U1, U2 und U3. Voraussichtliche Dauer: Nicht absehbar. Grund: Demonstration im Bereich Universitätsring.",2026-11-20T10:54:00.000+0100,,
 I20261120-0009,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,3A,2,3A: Verkehrsüberlastung,Linie 3A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsüberlastung.,2026-11-20T12:05:00.000+0100,,
-I20261020-0029,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,1,2,1: Gleisbauarbeiten,Linie 1: Betrieb nur zwischen Prater Hauptallee und Knöllgasse. Weiterfahrt zum Reumannplatz U. Ersatz: Linien 7A und 65A. Voraussichtliche Dauer: Mitte Dezember 2026. Grund: Gleisbauarbeiten im Bereich Stefan-Fadinger-Platz.,2026-10-20T11:58:00.000+0200,2026-12-05T01:00:00.000+0100,
+I20261020-0029,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,1,2,1: Gleisbauarbeiten,Linie 1: Betrieb nur zwischen Prater Hauptallee und Knöllgasse. Weiterfahrt zum Reumannplatz U. Ersatz: Linien 7A und 65A. Voraussichtliche Dauer: Mitte Dezember 2026. Grund: Gleisbauarbeiten im Bereich Stefan-Fadinger-Platz.,2026-10-20T11:58:00.000+0200,2026-12-05T01:00:00.000+0100,
 I20261120-0010,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,43A,2,43A: Feuerwehreinsatz,Linie 43A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Feuerwehreinsatz.,2026-11-20T12:36:00.000+0100,,
 I20261120-0011,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,12A,2,12A: Betriebsstörung,Linie 12A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-11-20T12:51:00.000+0100,2026-11-20T14:27:00.000+0100,
-I20260909-0007,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,25|26|27,2,"25, 26, 27: Gleisbauarbeiten","Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Josef-Baumann-Gasse. Weiterfahrt über Linie 27 bis Aspern Nord S U. Linie 26: Betrieb nur zwischen Hausfeldstraße U und Josef-Baumann-Gasse. Weiterfahrt nach Kagran U. Linie 27: Betrieb nur zwischen Strebersdorf, Meriangasse und Floridsdorf S U. Weichen Sie daher nach Möglichkeit großräumig auf die U1 und S-Bahn über Leopoldau S U oder Praterstern S U aus. Zwischen Kagraner Platz U und Floridsdorf S U können Sie auch auf die Linien 31A und anschließend 29A/29B oder 31A und S-Bahn ausweichen. Zwischen Kagran U und Floridsdorf S U können Sie auch auf die Linien 27A und anschließend 29A/29B ausweichen. Zwischen Floridsdorf S U und Josef-Baumann-Gasse fährt der Ersatzbus 26E. Beachten Sie, der 26E hat nicht die gleichen Kapazitäten wie eine Straßenbahn. Voraussichtliche Dauer: Ende 2026. Grund: Gleisbauarbeiten im Bereich Donaufelder Straße.",2026-09-14T04:30:00.000+0200,2026-12-12T02:00:00.000+0100,
-I20260925-0011,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,26E,2,26E: Gleisbauarbeiten,Die Kapazitäten der Ersatzlinie 26E sind nicht mit denen einer Straßenbahn vergleichbar. Weichen Sie daher nach Möglichkeit auf die U1 und die S-Bahn über Leopoldau S U oder Praterstern S U aus. Ab Kagraner Platz U können Sie auf die Linie 31A und ab Leopoldauer Straße auf die Linie 29A umsteigen. Alternativ können Sie auch mit der Linie 31A bis Siemensstraße S fahren und dort in die S-Bahn umsteigen. Außerdem können Sie ab Kagran U auf die Linie 27A und ab Leopoldauer Straße auf die Linie 29A umsteigen.,2026-09-25T08:55:00.000+0200,2026-12-12T23:55:00.000+0100,
-R401-101,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,1,3,"Gleisbauarbeiten
+I20260909-0007,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,25|26|27,2,"25, 26, 27: Gleisbauarbeiten","Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Josef-Baumann-Gasse. Weiterfahrt über Linie 27 bis Aspern Nord S U. Linie 26: Betrieb nur zwischen Hausfeldstraße U und Josef-Baumann-Gasse. Weiterfahrt nach Kagran U. Linie 27: Betrieb nur zwischen Strebersdorf, Meriangasse und Floridsdorf S U. Weichen Sie daher nach Möglichkeit großräumig auf die U1 und S-Bahn über Leopoldau S U oder Praterstern S U aus. Zwischen Kagraner Platz U und Floridsdorf S U können Sie auch auf die Linien 31A und anschließend 29A/29B oder 31A und S-Bahn ausweichen. Zwischen Kagran U und Floridsdorf S U können Sie auch auf die Linien 27A und anschließend 29A/29B ausweichen. Zwischen Floridsdorf S U und Josef-Baumann-Gasse fährt der Ersatzbus 26E. Beachten Sie, der 26E hat nicht die gleichen Kapazitäten wie eine Straßenbahn. Voraussichtliche Dauer: Ende 2026. Grund: Gleisbauarbeiten im Bereich Donaufelder Straße.",2026-09-14T04:30:00.000+0200,2026-12-12T02:00:00.000+0100,
+I20260925-0011,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,26E,2,26E: Gleisbauarbeiten,Die Kapazitäten der Ersatzlinie 26E sind nicht mit denen einer Straßenbahn vergleichbar. Weichen Sie daher nach Möglichkeit auf die U1 und die S-Bahn über Leopoldau S U oder Praterstern S U aus. Ab Kagraner Platz U können Sie auf die Linie 31A und ab Leopoldauer Straße auf die Linie 29A umsteigen. Alternativ können Sie auch mit der Linie 31A bis Siemensstraße S fahren und dort in die S-Bahn umsteigen. Außerdem können Sie ab Kagran U auf die Linie 27A und ab Leopoldauer Straße auf die Linie 29A umsteigen.,2026-09-25T08:55:00.000+0200,2026-12-12T23:55:00.000+0100,
+R401-101,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,1,3,"Gleisbauarbeiten
 Umleitung zum Reumannplatz",Gleisbauarbeiten Umleitung zum Reumannplatz,2026-11-25T00:00:29.000+0100,2026-11-26T23:59:59.000+0100,401
-R1882-101,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,1,3,"Gleisbauarbeiten
+R1882-101,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,1,3,"Gleisbauarbeiten
 Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1882
-R1875-101,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,1,3,"Gleisbauarbeiten
+R1875-101,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,1,3,"Gleisbauarbeiten
 Kein Betrieb",Gleisbauarbeiten Kein Betrieb,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1875
-R1876-101,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,1,3,"Gleisbauarbeiten
+R1876-101,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,1,3,"Gleisbauarbeiten
 Kein Betrieb",Gleisbauarbeiten Kein Betrieb,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1876
-R1880-101,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,1,3,"Gleisbauarbeiten
+R1880-101,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,1,3,"Gleisbauarbeiten
 Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1880
-R1884-101,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,1,3,"Gleisbauarbeiten
+R1884-101,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,1,3,"Gleisbauarbeiten
 Züge halten Quellenstraße 156 (Linie 6)",Gleisbauarbeiten Züge halten Quellenstraße 156 (Linie 6),2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1884
-R1883-101,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,1,3,"Gleisbauarbeiten
+R1883-101,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,1,3,"Gleisbauarbeiten
 Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1883
-R1881-101,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,1,3,"Gleisbauarbeiten
+R1881-101,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,1,3,"Gleisbauarbeiten
 Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1881
-R3886-480,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,80A,3,"Bauarbeiten
+R3886-480,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,80A,3,"Bauarbeiten
 Betrieb ab Vivariumstraße 2",Bauarbeiten Betrieb ab Vivariumstraße 2,2026-11-25T00:00:28.000+0100,2026-11-26T23:59:59.000+0100,3886
-R2373-126,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,26,3,"Züge halten in
+R2373-126,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,26,3,"Züge halten in
 Tokiostraße",Züge halten in Tokiostraße,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2373
-R2379-627,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,26E,3,"Busse halten
+R2379-627,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,26E,3,"Busse halten
 Bessemerstraße 1-3",Busse halten Bessemerstraße 1-3,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2379
-R2373-127,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,27,3,"Linie 25 in
+R2373-127,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,27,3,"Linie 25 in
 Tokiostraße benützen",Linie 25 in Tokiostraße benützen,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2373
-R2373-125,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,25,3,"Züge halten
+R2373-125,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,25,3,"Züge halten
 Donaufelder Straße 175-177",Züge halten Donaufelder Straße 175-177,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2373
-R2372-125,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,25,3,"Linien 25 und 26
+R2372-125,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,25,3,"Linien 25 und 26
 Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2372
-R2371-125,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,25,3,"Linien 25 und 26
+R2371-125,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,25,3,"Linien 25 und 26
 Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2371
-R2370-125,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,25,3,"Linien 25 und 26
+R2370-125,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,25,3,"Linien 25 und 26
 Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2370
-R2359-125,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,25,3,"Ersatzbus 26E
+R2359-125,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,25,3,"Ersatzbus 26E
 hält Karl-Waldbrunner-Platz vor Schloßhofer Straße",Ersatzbus 26E hält Karl-Waldbrunner-Platz vor Schloßhofer Straße,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2359
-R2343-626,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,26E,3,"Ersatzbus
+R2343-626,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,26E,3,"Ersatzbus
 hält Karl-Waldbrunner-Platz vor Schloßhofer Straße",Ersatzbus hält Karl-Waldbrunner-Platz vor Schloßhofer Straße,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2343
-R2343-125,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,25,3,"Linien 25 und 26
+R2343-125,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,25,3,"Linien 25 und 26
 Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2343
-R2378-627,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,26E,3,"Busse halten
+R2378-627,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,26E,3,"Busse halten
 Satzingerweg 41",Busse halten Satzingerweg 41,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2378
-R293-474,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,74A,3,"Bauarbeiten
+R293-474,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,74A,3,"Bauarbeiten
 Einstieg Leberstraße vor S-Bahn-Gebäude",Bauarbeiten Einstieg Leberstraße vor S-Bahn-Gebäude,2026-11-25T00:00:29.000+0100,2026-11-26T23:59:59.000+0100,293
-R318-437,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,37A,3,"Bauarbeiten
+R318-437,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,37A,3,"Bauarbeiten
 Busse halten Pasettistraße vor Hellwagstraße (bei Linie 5A)",Bauarbeiten Busse halten Pasettistraße vor Hellwagstraße (bei Linie 5A),2026-11-25T00:00:29.000+0100,2026-11-26T23:59:59.000+0100,318
-R2345-127,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,27,3,"Züge halten bei
+R2345-127,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,27,3,"Züge halten bei
 Linie 31",Züge halten bei Linie 31,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2345
-R2380-627,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,26E,3,"Busse halten
+R2380-627,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,26E,3,"Busse halten
 Hoßplatz 11",Busse halten Hoßplatz 11,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2380
-R2558-125,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,25,3,"Gleisbauarbeiten
+R2558-125,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,25,3,"Gleisbauarbeiten
 Linie 26E hält Donaufelder Straße 148",Gleisbauarbeiten Linie 26E hält Donaufelder Straße 148,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2558
-R1974-466,2026-11-20T12:02:19Z,2026-11-25T20:40:41Z,14,66A,3,"Bauarbeiten
-Busse halten Salvatorianerplatz",Bauarbeiten Busse halten Salvatorianerplatz,2026-11-25T04:40:15.000+0100,2026-11-26T01:00:00.000+0100,1974
-R1199-205,2026-11-20T12:02:19Z,2026-11-25T20:40:41Z,14,5B,3,"Bauarbeiten
-Busse halten Pappenheimgasse 24-28",Bauarbeiten Busse halten Pappenheimgasse 24-28,2026-11-25T04:45:15.000+0100,2026-11-25T23:59:59.000+0100,1199
-R500-101,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,17,1,3,"Bhf. Hütteldorf
-ÖBB-Ersatzbus für <80",Bhf. Hütteldorf ÖBB-Ersatzbus für <80,2026-11-26T00:30:10.000+0100,2026-11-26T04:59:00.000+0100,500
-R81-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Fahrtbehinderung
-wegen Demonstration",Fahrtbehinderung wegen Demonstration,2026-11-20T10:56:30.000+0100,2026-11-20T18:15:00.000+0100,81
-R13-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Fahrtbehinderung
-wegen Demonstration",Fahrtbehinderung wegen Demonstration,2026-11-20T10:56:30.000+0100,2026-11-20T18:15:00.000+0100,13
-R19-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Fahrtbehinderung
-wegen Demonstration",Fahrtbehinderung wegen Demonstration,2026-11-20T10:56:30.000+0100,2026-11-20T18:15:00.000+0100,19
-R14-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Fahrtbehinderung
-wegen Demonstration",Fahrtbehinderung wegen Demonstration,2026-11-20T10:56:30.000+0100,2026-11-20T18:15:00.000+0100,14
-R15-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Fahrtbehinderung
-wegen Demonstration",Fahrtbehinderung wegen Demonstration,2026-11-20T10:56:30.000+0100,2026-11-20T18:15:00.000+0100,15
-R18-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Fahrtbehinderung
-wegen Demonstration",Fahrtbehinderung wegen Demonstration,2026-11-20T10:56:30.000+0100,2026-11-20T18:15:00.000+0100,18
-R44-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Betriebsstörung
-Betrieb ab Schwarzenbergplatz",Betriebsstörung Betrieb ab Schwarzenbergplatz,2026-11-20T10:57:00.000+0100,2026-11-20T18:00:00.000+0100,44
-R45-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Betriebsstörung
-Betrieb ab Schwarzenbergplatz",Betriebsstörung Betrieb ab Schwarzenbergplatz,2026-11-20T10:57:00.000+0100,2026-11-20T18:00:00.000+0100,45
-R46-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Betriebsstörung
-Betrieb ab Schwarzenbergplatz",Betriebsstörung Betrieb ab Schwarzenbergplatz,2026-11-20T10:57:00.000+0100,2026-11-20T18:00:00.000+0100,46
-R49-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Betriebsstörung
-Betrieb ab Schwarzenbergplatz",Betriebsstörung Betrieb ab Schwarzenbergplatz,2026-11-20T10:57:00.000+0100,2026-11-20T18:00:00.000+0100,49
-R50-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Betriebsstörung
-Betrieb ab Schwarzenbergplatz",Betriebsstörung Betrieb ab Schwarzenbergplatz,2026-11-20T10:57:00.000+0100,2026-11-20T18:00:00.000+0100,50
-R51-171,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,71,3,"Betriebsstörung
-Betrieb ab Schwarzenbergplatz",Betriebsstörung Betrieb ab Schwarzenbergplatz,2026-11-20T10:57:00.000+0100,2026-11-20T18:00:00.000+0100,51
+R1974-466,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,15,66A,3,"Bauarbeiten
+Busse halten Salvatorianerplatz",Bauarbeiten Busse halten Salvatorianerplatz,2026-11-26T04:40:27.000+0100,2026-11-27T01:00:00.000+0100,1974
+R1199-205,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,15,5B,3,"Bauarbeiten
+Busse halten Pappenheimgasse 24-28",Bauarbeiten Busse halten Pappenheimgasse 24-28,2026-11-26T04:45:27.000+0100,2026-11-26T23:59:59.000+0100,1199
+R500-101,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,18,1,3,"Bhf. Hütteldorf
+ÖBB-Ersatzbus für <80",Bhf. Hütteldorf ÖBB-Ersatzbus für <80,2026-11-26T05:00:28.000+0100,2026-11-26T23:00:00.000+0100,500
+R81-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T12:22:13.000+0100,2026-11-26T16:21:00.000+0100,81
+R13-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T12:22:13.000+0100,2026-11-26T16:21:00.000+0100,13
+R19-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T12:22:13.000+0100,2026-11-26T13:46:00.000+0100,19
+R14-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T12:22:13.000+0100,2026-11-26T16:21:00.000+0100,14
+R15-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T12:22:13.000+0100,2026-11-26T16:21:00.000+0100,15
+R18-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T12:22:13.000+0100,2026-11-26T16:21:00.000+0100,18
+R44-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Witterung
+Betrieb ab Börse",Witterung Betrieb ab Börse,2026-11-26T12:21:43.000+0100,2026-11-26T13:46:00.000+0100,44
+R45-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Witterung
+Betrieb ab Schwarzenbergplatz",Witterung Betrieb ab Schwarzenbergplatz,2026-11-26T12:21:43.000+0100,2026-11-26T16:20:00.000+0100,45
+R46-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Witterung
+Betrieb ab Schwarzenbergplatz",Witterung Betrieb ab Schwarzenbergplatz,2026-11-26T12:21:43.000+0100,2026-11-26T16:20:00.000+0100,46
+R49-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Witterung
+Betrieb ab Schwarzenbergplatz",Witterung Betrieb ab Schwarzenbergplatz,2026-11-26T12:21:43.000+0100,2026-11-26T16:20:00.000+0100,49
+R50-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Witterung
+Betrieb ab Schwarzenbergplatz",Witterung Betrieb ab Schwarzenbergplatz,2026-11-26T12:21:43.000+0100,2026-11-26T16:20:00.000+0100,50
+R51-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Witterung
+Betrieb ab Schwarzenbergplatz",Witterung Betrieb ab Schwarzenbergplatz,2026-11-26T12:21:43.000+0100,2026-11-26T16:20:00.000+0100,51
 R51-101,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,1,3,"Demonstration
 Betrieb ab Resselgasse",Demonstration Betrieb ab Resselgasse,2026-11-20T10:58:00.000+0100,2026-11-20T18:30:00.000+0100,51
 R46-101,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,1,3,"Demonstration
@@ -135,13 +135,13 @@ R49-102,2026-11-20T12:02:19Z,2026-11-25T11:44:14Z,2,2,3,"Schadhafter Zug
 Züge halten nach Bellariastraße",Schadhafter Zug Züge halten nach Bellariastraße,2026-11-25T12:13:59.000+0100,2026-11-25T13:12:00.000+0100,49
 R15-102,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,2,3,"Demonstration
 Züge halten bei Linie 49",Demonstration Züge halten bei Linie 49,2026-11-20T11:52:35.000+0100,2026-11-20T18:30:00.000+0100,15
-S16,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,,3,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T13:56:00.000+0200,2026-12-31T13:56:00.000+0100,16
-S48,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,,3,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T13:59:00.000+0200,2026-12-31T13:59:00.000+0100,48
-S2108,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,,3,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T14:07:00.000+0200,2026-12-31T14:07:00.000+0100,2108
-S2131,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,,3,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T14:07:00.000+0200,2026-12-31T14:07:00.000+0100,2131
-S4644,2026-11-20T12:02:19Z,2026-11-26T03:07:33Z,19,,3,Sperre Bahnsteig Richtung Floridsdorf,Sperre Bahnsteig Richtung Floridsdorf,2026-09-14T04:00:00.000+0200,2026-12-31T23:59:00.000+0100,4644
+S16,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,,3,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T13:56:00.000+0200,2026-12-31T13:56:00.000+0100,16
+S48,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,,3,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T13:59:00.000+0200,2026-12-31T13:59:00.000+0100,48
+S2108,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,,3,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T14:07:00.000+0200,2026-12-31T14:07:00.000+0100,2108
+S2131,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,,3,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T14:07:00.000+0200,2026-12-31T14:07:00.000+0100,2131
+S4644,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,20,,3,Sperre Bahnsteig Richtung Floridsdorf,Sperre Bahnsteig Richtung Floridsdorf,2026-09-14T04:00:00.000+0200,2026-12-31T23:59:00.000+0100,4644
 ftazS_18,2026-11-20T19:16:10Z,2026-11-23T02:44:03Z,10,U3,1,Erdberg,U3 Mittelbahnsteig - Ausgang Franzosengraben,2026-12-16T01:15:00.000+0100,2026-12-16T05:15:00.000+0100,4900|4917
-ftazS_736,2026-11-20T19:16:10Z,2026-11-25T11:44:14Z,16,U3,1,Gasometer,U3 Bahnsteig Richtung Ottakring - Ausgang Gasometer/Modecenterstraße,2026-12-21T01:15:00.000+0100,2026-12-21T05:15:00.000+0100,4941
+ftazS_736,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,17,U3,1,Gasometer,U3 Bahnsteig Richtung Ottakring - Ausgang Gasometer/Modecenterstraße,2026-12-21T01:15:00.000+0100,2026-12-21T05:15:00.000+0100,4941
 ftazS_1017627,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,WLB|18|62|1,1,Kliebergasse,"1 Bahnsteig Richtung Prater Hauptallee, 18 Bahnsteig Richtung Schlachthausgasse, 62 und Badner Bahn Bahnsteig Richtung Oper, Karlsplatz - Ausgang Landgutgasse",2026-11-24T20:45:00.000+0100,2026-11-25T00:45:00.000+0100,1715|849|831|831
 I20261120-0043,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,11,2,11: Falschparker,"Linie 11: Fahrtbehinderung in Richtung Kaiserebersdorf, Zinnergasse. Voraussichtliche Dauer: 20:45 Uhr. Grund: Falschparker im Bereich Polkorabplatz.",2026-11-20T20:13:00.000+0100,,
 I20261120-0040-F01,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,25,2,25: Polizeieinsatz,Linie 25: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-20T19:55:00.000+0100,2026-11-20T20:31:00.000+0100,2595
@@ -157,8 +157,8 @@ aufgelassen!
 Stop closed!",Haltestelle aufgelassen!  Stop closed!,2026-11-25T15:00:14.000+0100,2026-11-25T22:30:00.000+0100,17
 R665-413,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,13A,3,"Demonstration
 Betrieb ab Neubaugasse",Demonstration Betrieb ab Neubaugasse,2026-11-20T15:52:30.000+0100,2026-11-20T22:00:00.000+0100,665
-R3528-413,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,13A,3,"Demonstration
-Betrieb ab Burggasse",Demonstration Betrieb ab Burggasse,2026-11-20T15:53:02.000+0100,2026-11-20T21:00:00.000+0100,3528
+R3528-413,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,2,13A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:08:54.000+0100,2026-11-26T15:08:00.000+0100,3528
 R1590-457,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,57A,3,"Fahrtbehinderung
 wegen Demonstration",Fahrtbehinderung wegen Demonstration,2026-11-20T16:28:32.000+0100,2026-11-20T20:45:00.000+0100,1590
 R1570-457,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,57A,3,"Betriebsstörung
@@ -167,38 +167,38 @@ R1012-125,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,25,3,"Fahrtbehinderung
 wegen Polizeieinsatz",Fahrtbehinderung wegen Polizeieinsatz,2026-11-20T19:56:24.000+0100,2026-11-20T20:56:00.000+0100,1012
 R1021-125,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,25,3,"Fahrtbehinderung
 wegen Polizeieinsatz",Fahrtbehinderung wegen Polizeieinsatz,2026-11-20T19:56:24.000+0100,2026-11-20T20:56:00.000+0100,1021
-R192-141,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,41,3,"Fahrtbehinderung
-Falschparker",Fahrtbehinderung Falschparker,2026-11-20T19:57:23.000+0100,2026-11-20T20:57:00.000+0100,192
+R192-141,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,2,41,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:42:42.000+0100,2026-11-26T13:42:00.000+0100,192
 R190-141,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,41,3,"Fahrtbehinderung
 Falschparker",Fahrtbehinderung Falschparker,2026-11-20T19:57:23.000+0100,2026-11-20T20:57:00.000+0100,190
 R177-141,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,41,3,"Fahrtbehinderung
 Falschparker",Fahrtbehinderung Falschparker,2026-11-20T19:57:23.000+0100,2026-11-20T20:57:00.000+0100,177
-R193-141,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,41,3,"Fahrtbehinderung
-Falschparker",Fahrtbehinderung Falschparker,2026-11-20T19:57:23.000+0100,2026-11-20T20:57:00.000+0100,193
+R193-141,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,2,41,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:42:42.000+0100,2026-11-26T13:42:00.000+0100,193
 R190-140,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,40,3,"Fahrtbehinderung
 Falschparker",Fahrtbehinderung Falschparker,2026-11-20T19:57:53.000+0100,2026-11-20T20:57:00.000+0100,190
-R192-140,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,40,3,"Fahrtbehinderung
-Falschparker",Fahrtbehinderung Falschparker,2026-11-20T19:57:53.000+0100,2026-11-20T20:57:00.000+0100,192
+R192-140,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,2,40,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:42:12.000+0100,2026-11-26T13:41:00.000+0100,192
 R177-140,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,40,3,"Fahrtbehinderung
 Falschparker",Fahrtbehinderung Falschparker,2026-11-20T19:57:53.000+0100,2026-11-20T20:57:00.000+0100,177
-R521-140,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,40,3,"Fahrtbehinderung
-Falschparker",Fahrtbehinderung Falschparker,2026-11-20T19:57:54.000+0100,2026-11-20T20:57:00.000+0100,521
+R521-140,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,2,40,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:42:13.000+0100,2026-11-26T13:41:00.000+0100,521
 R966-125,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,25,3,"Fahrtbehinderung
 wegen Polizeieinsatz",Fahrtbehinderung wegen Polizeieinsatz,2026-11-20T20:00:24.000+0100,2026-11-20T20:59:00.000+0100,966
 R1015-125,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,25,3,"Fahrtbehinderung
 wegen Polizeieinsatz",Fahrtbehinderung wegen Polizeieinsatz,2026-11-20T20:00:24.000+0100,2026-11-20T20:59:00.000+0100,1015
-R2023-111,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,11,3,"Fahrtbehinderung
-Falschparker",Fahrtbehinderung Falschparker,2026-11-20T20:13:56.000+0100,2026-11-20T21:13:00.000+0100,2023
-R2024-111,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,11,3,"Fahrtbehinderung
-Falschparker",Fahrtbehinderung Falschparker,2026-11-20T20:13:56.000+0100,2026-11-20T21:13:00.000+0100,2024
-R2025-111,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,11,3,"Fahrtbehinderung
-Falschparker",Fahrtbehinderung Falschparker,2026-11-20T20:13:56.000+0100,2026-11-20T21:13:00.000+0100,2025
+R2023-111,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,2,11,3,"Witterung
+Betrieb ab FIckeysstraße",Witterung Betrieb ab FIckeysstraße,2026-11-26T10:33:02.000+0100,2026-11-26T15:32:00.000+0100,2023
+R2024-111,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,2,11,3,"Witterung
+Betrieb ab FIckeysstraße",Witterung Betrieb ab FIckeysstraße,2026-11-26T10:33:02.000+0100,2026-11-26T15:32:00.000+0100,2024
+R2025-111,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,2,11,3,"Witterung
+Einstieg bei der Polizeistation",Witterung Einstieg bei der Polizeistation,2026-11-26T10:33:32.000+0100,2026-11-26T15:32:00.000+0100,2025
 R2026-111,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,11,3,"Fahrtbehinderung
 Falschparker",Fahrtbehinderung Falschparker,2026-11-20T20:13:56.000+0100,2026-11-20T21:13:00.000+0100,2026
 R2027-111,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,11,3,"Fahrtbehinderung
 Falschparker",Fahrtbehinderung Falschparker,2026-11-20T20:13:56.000+0100,2026-11-20T21:13:00.000+0100,2027
-R2009-111,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,11,3,"Fahrtbehinderung
-Falschparker",Fahrtbehinderung Falschparker,2026-11-20T20:13:56.000+0100,2026-11-20T21:13:00.000+0100,2009
+R2009-111,2026-11-20T19:16:10Z,2026-11-26T12:25:05Z,2,11,3,"Witterung
+Betrieb ab FIckeysstraße",Witterung Betrieb ab FIckeysstraße,2026-11-26T10:33:02.000+0100,2026-11-26T15:32:00.000+0100,2009
 R1338-142,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,42,3,"Fahrtbehinderung
 Falschparker",Fahrtbehinderung Falschparker,2026-11-20T20:15:26.000+0100,2026-11-20T21:15:00.000+0100,1338
 R524-142,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,42,3,"Fahrtbehinderung
@@ -213,10 +213,10 @@ R1620-160,2026-11-21T00:54:09Z,2026-11-21T00:54:09Z,1,60,3,"Fahrtbehinderung
 Gleisschaden",Fahrtbehinderung Gleisschaden,2026-11-21T00:11:16.000+0100,2026-11-21T02:10:00.000+0100,1620
 R1606-160,2026-11-21T00:54:09Z,2026-11-21T00:54:09Z,1,60,3,"Fahrtbehinderung
 Gleisschaden",Fahrtbehinderung Gleisschaden,2026-11-21T00:13:16.000+0100,2026-11-21T02:12:00.000+0100,1606
-R1625-160,2026-11-21T00:54:09Z,2026-11-21T00:54:09Z,1,60,3,"Gleisschaden
-Betrieb ab Hermesstraße",Gleisschaden Betrieb ab Hermesstraße,2026-11-21T00:17:47.000+0100,2026-11-21T02:16:00.000+0100,1625
-R1607-160,2026-11-21T00:54:09Z,2026-11-21T00:54:09Z,1,60,3,"Gleisschaden
-Betrieb ab Hermesstraße",Gleisschaden Betrieb ab Hermesstraße,2026-11-21T00:17:47.000+0100,2026-11-21T02:16:00.000+0100,1607
+R1625-160,2026-11-21T00:54:09Z,2026-11-26T12:25:05Z,2,60,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T13:17:48.000+0100,2026-11-26T14:17:00.000+0100,1625
+R1607-160,2026-11-21T00:54:09Z,2026-11-26T12:25:05Z,2,60,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T13:17:48.000+0100,2026-11-26T14:17:00.000+0100,1607
 R1632-160,2026-11-21T00:54:09Z,2026-11-21T00:54:09Z,1,60,3,"Gleisschaden
 Betrieb ab Hermesstraße",Gleisschaden Betrieb ab Hermesstraße,2026-11-21T00:24:17.000+0100,2026-11-21T02:23:00.000+0100,1632
 R1631-160,2026-11-21T00:54:09Z,2026-11-21T00:54:09Z,1,60,3,"Gleisschaden
@@ -279,7 +279,7 @@ R3375-149,2026-11-22T22:02:02Z,2026-11-22T22:02:02Z,1,49,3,"Fahrtbehinderung
 wegen Rettungseinsatz",Fahrtbehinderung wegen Rettungseinsatz,2026-11-22T22:49:02.000+0100,2026-11-22T23:48:00.000+0100,3375
 R1458-149,2026-11-22T22:02:02Z,2026-11-22T22:02:02Z,1,49,3,"Fahrtbehinderung
 wegen Rettungseinsatz",Fahrtbehinderung wegen Rettungseinsatz,2026-11-22T22:49:03.000+0100,2026-11-22T23:48:00.000+0100,1458
-ftazS_29,2026-11-23T02:44:03Z,2026-11-26T03:07:33Z,2,U3,1,Herrengasse,Zwischengeschoss - Ausgang Minoritenplatz,2026-12-10T01:15:00.000+0100,2026-12-10T05:15:00.000+0100,4907|4910
+ftazS_29,2026-11-23T02:44:03Z,2026-11-26T12:25:05Z,3,U3,1,Herrengasse,Zwischengeschoss - Ausgang Minoritenplatz,2026-12-10T01:15:00.000+0100,2026-12-10T05:15:00.000+0100,4907|4910
 ftazS_445,2026-11-23T02:44:03Z,2026-11-23T02:44:03Z,1,U3,1,Johnstraße,Passage - Zwischengeschoss Zugang Meiselmarkt - Ausgang Hütteldorfer Straße,2026-12-01T01:15:00.000+0100,2026-12-01T05:15:00.000+0100,4925|4926
 ftazS_1016611,2026-11-23T02:44:03Z,2026-11-25T02:40:45Z,2,U1,1,Reumannplatz,U1 Mittelbahnsteig - Ausgang Favoritenstraße,2026-12-15T01:15:00.000+0100,2026-12-15T05:15:00.000+0100,4101|4128
 ftazS_1031932,2026-11-23T02:44:03Z,2026-11-26T03:07:33Z,2,U3,1,Stubentor,U3 Bahnsteig Ri. Ottakring - U3 Bahnsteig Ri. Simmering - Ausgang Parkring (Aufzugsgruppe),,,4912|4905
@@ -328,38 +328,38 @@ R1389-146,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,46,3,"Fahrtbehinderung
 Fremder Verkehrsunfall",Fahrtbehinderung Fremder Verkehrsunfall,2026-11-23T23:05:13.000+0100,2026-11-23T23:59:59.000+0100,1389
 R1392-146,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,46,3,"Fahrtbehinderung
 Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-23T23:05:13.000+0100,2026-11-23T23:59:59.000+0100,1392
-R1393-146,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,46,3,"Fahrtbehinderung
-Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-23T23:05:13.000+0100,2026-11-23T23:59:59.000+0100,1393
+R1393-146,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,46,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:12:53.000+0100,2026-11-26T15:12:00.000+0100,1393
 R1388-146,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,46,3,"Fahrtbehinderung
 Fremder Verkehrsunfall",Fahrtbehinderung Fremder Verkehrsunfall,2026-11-23T23:05:13.000+0100,2026-11-23T23:59:59.000+0100,1388
-R1394-146,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,46,3,"Fahrtbehinderung
-Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-23T23:05:14.000+0100,2026-11-23T23:59:59.000+0100,1394
+R1394-146,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,46,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:12:54.000+0100,2026-11-26T15:12:00.000+0100,1394
 R565-146,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,46,3,"Fahrtbehinderung
 Fremder Verkehrsunfall",Fahrtbehinderung Fremder Verkehrsunfall,2026-11-23T23:06:12.000+0100,2026-11-23T23:59:59.000+0100,565
-R1480-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Fahrtbehinderung
-Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-23T23:30:46.000+0100,2026-11-23T23:59:59.000+0100,1480
-R1478-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Fahrtbehinderung
-Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-23T23:30:46.000+0100,2026-11-23T23:59:59.000+0100,1478
-R1479-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Fahrtbehinderung
-Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-23T23:30:46.000+0100,2026-11-23T23:59:59.000+0100,1479
-R1487-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Fahrtbehinderung
-Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-23T23:30:46.000+0100,2026-11-23T23:59:59.000+0100,1487
-R1444-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Schadhafter Zug
-Betrieb ab Urban-Loritz-Platz",Schadhafter Zug Betrieb ab Urban-Loritz-Platz,2026-11-23T23:31:16.000+0100,2026-11-23T23:59:59.000+0100,1444
-R1441-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Schadhafter Zug
-Betrieb ab Urban-Loritz-Platz",Schadhafter Zug Betrieb ab Urban-Loritz-Platz,2026-11-23T23:31:16.000+0100,2026-11-23T23:59:59.000+0100,1441
-R1375-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Schadhafter Zug
-Betrieb ab Urban-Loritz-Platz",Schadhafter Zug Betrieb ab Urban-Loritz-Platz,2026-11-23T23:31:16.000+0100,2026-11-23T23:59:59.000+0100,1375
-R1486-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Schadhafter Zug
-Betrieb ab Urban-Loritz-Platz",Schadhafter Zug Betrieb ab Urban-Loritz-Platz,2026-11-23T23:31:16.000+0100,2026-11-23T23:59:59.000+0100,1486
-R1443-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Schadhafter Zug
-Betrieb ab Urban-Loritz-Platz",Schadhafter Zug Betrieb ab Urban-Loritz-Platz,2026-11-23T23:31:16.000+0100,2026-11-23T23:59:59.000+0100,1443
-R1442-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Schadhafter Zug
-Betrieb ab Urban-Loritz-Platz",Schadhafter Zug Betrieb ab Urban-Loritz-Platz,2026-11-23T23:31:16.000+0100,2026-11-23T23:59:59.000+0100,1442
+R1480-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:14:24.000+0100,2026-11-26T15:13:00.000+0100,1480
+R1478-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:14:24.000+0100,2026-11-26T15:13:00.000+0100,1478
+R1479-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:14:24.000+0100,2026-11-26T15:13:00.000+0100,1479
+R1487-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:14:24.000+0100,2026-11-26T15:13:00.000+0100,1487
+R1444-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Witterung
+Betrieb ab Urban-Loritz-Platz",Witterung Betrieb ab Urban-Loritz-Platz,2026-11-26T09:13:54.000+0100,2026-11-26T15:13:00.000+0100,1444
+R1441-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Witterung
+Betrieb ab Urban-Loritz-Platz",Witterung Betrieb ab Urban-Loritz-Platz,2026-11-26T09:13:54.000+0100,2026-11-26T15:13:00.000+0100,1441
+R1375-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Witterung
+Betrieb ab Urban-Loritz-Platz",Witterung Betrieb ab Urban-Loritz-Platz,2026-11-26T09:13:53.000+0100,2026-11-26T15:13:00.000+0100,1375
+R1486-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Witterung
+Betrieb ab Urban-Loritz-Platz",Witterung Betrieb ab Urban-Loritz-Platz,2026-11-26T09:13:54.000+0100,2026-11-26T15:13:00.000+0100,1486
+R1443-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Witterung
+Betrieb ab Urban-Loritz-Platz",Witterung Betrieb ab Urban-Loritz-Platz,2026-11-26T09:13:54.000+0100,2026-11-26T15:13:00.000+0100,1443
+R1442-149,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,49,3,"Witterung
+Betrieb ab Urban-Loritz-Platz",Witterung Betrieb ab Urban-Loritz-Platz,2026-11-26T09:13:54.000+0100,2026-11-26T15:13:00.000+0100,1442
 R1477-149,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,49,3,"Fahrtbehinderung
 Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-23T23:31:46.000+0100,2026-11-23T23:59:59.000+0100,1477
-R1375-448,2026-11-23T22:47:44Z,2026-11-23T22:47:44Z,1,48A,3,"Schadhafter Zug
-Betrieb ab Hansenstraße",Schadhafter Zug Betrieb ab Hansenstraße,2026-11-23T23:39:16.000+0100,2026-11-23T23:59:59.000+0100,1375
+R1375-448,2026-11-23T22:47:44Z,2026-11-26T12:25:05Z,2,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:16:54.000+0100,2026-11-26T15:16:00.000+0100,1375
 ftazS_482,2026-11-24T06:40:51Z,2026-11-24T06:40:51Z,1,U6,1,Erlaaer Straße,U6 Bahnsteig Richtung Floridsdorf - Ausgang Erlaaer Straße/Ostrandstraße,,,4637
 I20261124-0004,2026-11-24T06:40:51Z,2026-11-24T06:40:51Z,1,U1,2,U1: Schadhaftes Fahrzeug,Linie U1: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-11-24T06:46:00.000+0100,,
 I20261124-0002-F01,2026-11-24T06:40:51Z,2026-11-24T06:40:51Z,1,49,2,49: Rettungseinsatz,Linie 49: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-24T05:29:00.000+0100,,
@@ -3069,3 +3069,321 @@ ftazS_1016593,2026-11-26T03:07:33Z,2026-11-26T03:07:33Z,1,U3|U2,1,Volkstheater,A
 ftazS_1016925,2026-11-26T03:07:33Z,2026-11-26T03:07:33Z,1,6|62|WLB|18,1,Eichenstraße,"6 Bahnsteig Richtung Geiereckstraße, 18 Bahnsteig Richtung Schlachthausgasse, 62 und Badner Bahn Bahnsteig Richtung Kärnter Ring / Oper - Ausgang Eichenstraße",2026-12-15T20:45:00.000+0100,2026-12-16T00:45:00.000+0100,427|399|427|427
 ftazS_1016926,2026-11-26T03:07:33Z,2026-11-26T03:07:33Z,1,6|62|18|WLB,1,Eichenstraße,"6,18 Bahnsteig Richtung Burggasse, 62 Bahnsteig Richtung Lainz, Badner Bahn Bahnsteig Richtung Baden - Ausgang Eichenstraße",,,399|427|399|399
 ftazS_1354391,2026-11-26T03:07:33Z,2026-11-26T03:07:33Z,1,U4,1,Meidling Hauptstraße,U4 Mittelbahnsteig - Ausgang Ruckergasse,2026-12-18T01:15:00.000+0100,2026-12-18T05:15:00.000+0100,4413|4424
+ftazS_240,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U4|U6,1,Längenfeldgasse,"U4 Bahnsteig Richtung Hütteldorf, U6 Bahnsteig Richtung Siebenhirten - Ausgang Storchensteg/Gierstergasse",2026-12-03T01:15:00.000+0100,2026-12-03T05:15:00.000+0100,4438|4612
+ftazS_354,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U3,1,Neubaugasse,Zwischengeschoss - Ausgang Kirchengasse,2026-12-15T01:15:00.000+0100,2026-12-15T05:15:00.000+0100,4918|4923
+ftazS_599,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U3,1,Kendlerstraße,U3 Mittelbahnsteig - Ausgang Kendlerstraße,2026-12-15T01:15:00.000+0100,2026-12-15T05:15:00.000+0100,4929|4932
+ftazS_1031919,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U6,1,Floridsdorf,U6 Mittelbahnsteig - Passage - ÖBB Bahnsteig (Aufzugsgruppe),,,4645|4646
+I20261126-0042-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,64A,2,64A: Aktuelle Wetterlage,Linie 64A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T10:58:00.000+0100,,2327
+I20261126-0061,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,2,38: Aktuelle Wetterlage,"Linie 38:Betrieb nur zwischen Schottentor und Nußdorfer Straße U.Weiterfahrt über die Linie 37 bis Hohen Warte.Ersatz: Linien U4, U6 und 38A.Voraussichtliche Dauer: 14:00 Uhr.Grund: Aktuelle Wetterlage.",2026-11-26T13:10:00.000+0100,,
+I20261126-0055-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,14A,2,14A: Verkehrsunfall,Linie 14A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T12:23:00.000+0100,,
+I20261126-0006,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,68B|10A|14A|15A|38A|68A,2,"15A, 10A, 38A, 68A, 68B, 14A: Aktuelle Wetterlage",Linie 68B: Unregelmäßige Intervalle in beiden Richtungen. Linie 10A: Unregelmäßige Intervalle in beiden Richtungen. Linie 14A: Unregelmäßige Intervalle in beiden Richtungen. Linie 15A: Unregelmäßige Intervalle in beiden Richtungen. Linie 38A: Unregelmäßige Intervalle in beiden Richtungen. Linie 68A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Aktuelle Wetterlage.,2026-11-26T05:36:00.000+0100,,
+I20261126-0062-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U1,2,U1: Betriebsstörung,Linie U1: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T13:19:00.000+0100,,4115
+I20261126-0038-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,2,48A: Aktuelle Wetterlage,Linie 48A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T10:23:00.000+0100,,1419
+I20261126-0062,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U1,2,U1: Betriebsstörung,Linie U1: Fahrtbehinderung in Richtung Leopoldau S U. Voraussichtliche Dauer: 13:30 Uhr. Grund: Betriebsstörung im Haltestellenbereich Nestroyplatz.,2026-11-26T13:19:00.000+0100,2026-11-26T13:22:00.000+0100,4115
+I20261126-0010,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,35A,2,35A: Aktuelle Wetterlage,"Linie 35A: Betrieb nur zwischen Spittelau S U und Neustift, Agnesgasse. Zwischen Neustift, Agnesgasse und Salmannsdorf wurde ein Shuttlebus eingerichtet. Voraussichtliche Dauer: Nicht absehbar. Grund: Aktuelle Wetterlage im Bereich Rathstraße.",2026-11-26T06:28:00.000+0100,,
+I20261126-0054,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,2,71: Betriebsstörung,Linie 71: Betrieb nur zwischen Kaiserebersdorf und Schwarzenbergplatz. Voraussichtliche Dauer: Nicht absehbar. Grund: Betriebsstörung im Haltestellenbereich Schottenring U.,2026-11-26T12:20:00.000+0100,,79
+I20261126-0019,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,1|2|31|O,2,"O, 2, 1, 31: Aktuelle Wetterlage",Linie 1: Unregelmäßige Intervalle in beiden Richtungen. Linie 2: Unregelmäßige Intervalle in beiden Richtungen. Linie 31: Unregelmäßige Intervalle in beiden Richtungen. Linie O: Unregelmäßige Intervalle in beiden Richtungen. Grund: Aktuelle Wetterlage.,2026-11-26T07:37:00.000+0100,,
+I20261126-0049,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,10|52,2,"52, 10: Betriebsstörung",Linie 10: Kein Betrieb zwischen Hietzing U und Hütteldorfer Straße U. Linie 52: Kein Betrieb zwischen Penzinger Straße und Anschützgasse. Ersatz: Linien U3 und 10A. Voraussichtliche Dauer: 13:20 Uhr. Grund: Betriebsstörung im Bereich Schloßallee # Penzinger Straße.,2026-11-26T11:45:00.000+0100,,
+I20261126-0053-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,2,6: Weichenstörung,Linie 6: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T12:11:00.000+0100,,3441
+I20261126-0053-F02,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,2,11: Weichenstörung,Linie 11: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T12:11:00.000+0100,,3441
+I20261126-0060-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,2,25: Aktuelle Wetterlage,Linie 25: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T13:01:00.000+0100,,885
+I20261126-0040-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,2,25: Fahrzeug im Gleis,Linie 25: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T10:33:00.000+0100,,
+I20261126-0060-F02,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,2,26: Aktuelle Wetterlage,Linie 26: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T13:01:00.000+0100,,885
+I20261126-0020,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,17A|27A|34A|44A|47A|49A,2,"17A, 27A, 34A, 44A, 47A, 49A: Aktuelle Wetterlage",Linie 17A: Unregelmäßige Intervalle in beiden Richtungen. Linie 27A: Unregelmäßige Intervalle in beiden Richtungen. Linie 34A: Unregelmäßige Intervalle in beiden Richtungen. Linie 44A: Unregelmäßige Intervalle in beiden Richtungen. Linie 47A: Unregelmäßige Intervalle in beiden Richtungen. Linie 49A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Aktuelle Wetterlage.,2026-11-26T07:38:00.000+0100,,
+I20261126-0049-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,60,2,60: Betriebsstörung,Linie 60: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T11:45:00.000+0100,,
+I20261126-0056-F01-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,9,2,9: Falschparker,Linie 9: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T12:30:00.000+0100,2026-11-26T13:24:00.000+0100,
+I20261126-0052-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,D,2,D: Verkehrsunfall,Linie D: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T12:08:00.000+0100,,114
+I20261126-0059,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,60A,2,60A: Verkehrsunfall,Linie 60A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsunfall.,2026-11-26T12:54:00.000+0100,,
+I20261126-0031-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,66A,2,66A: Aktuelle Wetterlage,Linie 66A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T09:31:00.000+0100,,
+I20261126-0048,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U3,2,U3: Verspätungen,Linie U3: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-11-26T11:42:00.000+0100,,
+I20261126-0034-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,51A,2,51A: Aktuelle Wetterlage,Linie 51A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T09:55:00.000+0100,,
+I20261126-0034-F02,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,51B,2,51B: Aktuelle Wetterlage,Linie 51B: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T09:55:00.000+0100,,
+I20261126-0057-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,40,2,40: Falschparker,Linie 40: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T12:45:00.000+0100,,
+I20261126-0021,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,4A|7A|59A|65A|92A|94A|97A|98A,2,"98A, 97A, 94A, 92A, 4A, 59A, 65A, 7A: Aktuelle Wetterlage",Linie 4A: Unregelmäßige Intervalle in beiden Richtungen. Linie 7A: Unregelmäßige Intervalle in beiden Richtungen. Linie 59A: Unregelmäßige Intervalle in beiden Richtungen. Derzeit kommt es bei der Linie 65A in beiden Richtungen zu unterschiedlichen Intervallen. Linie 92A: Unregelmäßige Intervalle in beiden Richtungen. Linie 94A: Unregelmäßige Intervalle in beiden Richtungen. Linie 97A: Unregelmäßige Intervalle in beiden Richtungen. Linie 98A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Aktuelle Wetterlage.,2026-11-26T07:41:00.000+0100,,
+I20261126-0057-F02,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,41,2,41: Falschparker,Linie 41: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T12:45:00.000+0100,,
+I20261126-0029-F03,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,49,2,49: Aktuelle Wetterlage,Linie 49: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T09:10:00.000+0100,,1375
+I20261126-0039-F02,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,2,71: Aktuelle Wetterlage,Linie 71: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T10:28:00.000+0100,,2025
+I20261126-0058,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,13A,2,13A: Aktuelle Wetterlage,"Linie 13A: Betrieb nur zwischen Hauptbahnhof S U und Theater in der Josefstadt. Voraussichtliche Dauer: 13:30 Uhr. Grund: Aktuelle Wetterlage im Haltestellenbereich Alser Straße, Skodagasse.",2026-11-26T12:53:00.000+0100,,660
+I20261126-0028-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,13A,2,13A: Aktuelle Wetterlage,Linie 13A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T08:52:00.000+0100,,
+I20261126-0046-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,37,2,37: Falschparker,Linie 37: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T11:30:00.000+0100,,
+I20261126-0047-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,12A,2,12A: Falschparker,Linie 12A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T11:33:00.000+0100,,
+I20261126-0063,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,60,2,60: Aktuelle Wetterlage,Linie 60:Fahrtbehinderung in Richtung Hietzing.Voraussichtliche Dauer: Nicht absehbar.Grund: Aktuelle Wetterlage im Haltestellenbereich Rodaun.,2026-11-26T13:19:00.000+0100,,1624
+I20261126-0023-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,40A,2,40A: Aktuelle Wetterlage,Linie 40A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T08:23:00.000+0100,,
+I20261126-0051,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U4,2,U4: Verspätungen,Linie U4: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-11-26T12:03:00.000+0100,,
+I20261126-0037-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,44,2,44: Verkehrsunfall,Linie 44: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T10:13:00.000+0100,,
+R45-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Witterung
+Züge halten Wipplingerstraße",Witterung Züge halten Wipplingerstraße,2026-11-26T08:02:16.000+0100,2026-11-26T15:01:00.000+0100,45
+R45-101,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,1,3,"Witterung
+Züge halten Wipplingerstraße",Witterung Züge halten Wipplingerstraße,2026-11-26T08:03:16.000+0100,2026-11-26T15:01:00.000+0100,45
+R45-136,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,D,3,"Witterung
+Züge halten Wipplingerstraße",Witterung Züge halten Wipplingerstraße,2026-11-26T08:04:17.000+0100,2026-11-26T15:03:00.000+0100,45
+R2058-469,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,69A,3,"Witterung
+Betrieb ab Rohrhofergasse",Witterung Betrieb ab Rohrhofergasse,2026-11-26T08:35:21.000+0100,2026-11-26T15:34:00.000+0100,2058
+R1660-462,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,62A,3,"Witterung
+Betrieb ab Dr.-Neumann-Gasse",Witterung Betrieb ab Dr.-Neumann-Gasse,2026-11-26T08:39:50.000+0100,2026-11-26T15:38:00.000+0100,1660
+R1818-464,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,64A,3,"Witterung
+Betrieb ab Dr.-Neumann-Gasse",Witterung Betrieb ab Dr.-Neumann-Gasse,2026-11-26T08:42:51.000+0100,2026-11-26T15:42:00.000+0100,1818
+R773-413,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,13A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:08:53.000+0100,2026-11-26T15:08:00.000+0100,773
+R3529-413,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,13A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:08:54.000+0100,2026-11-26T15:08:00.000+0100,3529
+R3527-413,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,13A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:08:54.000+0100,2026-11-26T15:08:00.000+0100,3527
+R1406-448,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:16:54.000+0100,2026-11-26T15:16:00.000+0100,1406
+R1401-448,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:16:54.000+0100,2026-11-26T15:16:00.000+0100,1401
+R1411-448,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:16:54.000+0100,2026-11-26T15:16:00.000+0100,1411
+R1408-448,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:16:54.000+0100,2026-11-26T15:16:00.000+0100,1408
+R1527-448,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:16:55.000+0100,2026-11-26T15:16:00.000+0100,1527
+R2636-448,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:16:55.000+0100,2026-11-26T15:16:00.000+0100,2636
+R2305-466,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,66A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T09:32:56.000+0100,2026-11-26T15:32:00.000+0100,2305
+R2160-131,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,31,3,"Witterung
+Einstieg bei Linie 1",Witterung Einstieg bei Linie 1,2026-11-26T10:18:01.000+0100,2026-11-26T15:17:00.000+0100,2160
+R584-448,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T10:29:01.000+0100,2026-11-26T15:27:00.000+0100,584
+R585-448,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T10:29:01.000+0100,2026-11-26T15:27:00.000+0100,585
+R1528-448,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,48A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T10:29:02.000+0100,2026-11-26T15:27:00.000+0100,1528
+R2033-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Witterung
+Betrieb ab Enkplatz, Grillgasse","Witterung Betrieb ab Enkplatz, Grillgasse",2026-11-26T10:31:32.000+0100,2026-11-26T15:30:00.000+0100,2033
+R2034-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Witterung
+Betrieb ab Enkplatz, Grillgasse","Witterung Betrieb ab Enkplatz, Grillgasse",2026-11-26T10:31:32.000+0100,2026-11-26T15:30:00.000+0100,2034
+R2035-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Witterung
+Betrieb ab Enkplatz, Grillgasse","Witterung Betrieb ab Enkplatz, Grillgasse",2026-11-26T10:31:32.000+0100,2026-11-26T15:30:00.000+0100,2035
+R2036-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Witterung
+Betrieb ab Enkplatz, Grillgasse","Witterung Betrieb ab Enkplatz, Grillgasse",2026-11-26T10:31:32.000+0100,2026-11-26T15:30:00.000+0100,2036
+R2584-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Witterung
+Einstieg in der Grillgasse beim 15A",Witterung Einstieg in der Grillgasse beim 15A,2026-11-26T10:32:02.000+0100,2026-11-26T15:31:00.000+0100,2584
+R2009-171,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,3,"Witterung
+Betrieb ab Fickeysstraße",Witterung Betrieb ab Fickeysstraße,2026-11-26T10:34:32.000+0100,2026-11-26T15:34:00.000+0100,2009
+R2023-171,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,3,"Witterung
+Betrieb ab Fickeysstraße",Witterung Betrieb ab Fickeysstraße,2026-11-26T10:34:32.000+0100,2026-11-26T15:34:00.000+0100,2023
+R2024-171,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,3,"Witterung
+Betrieb ab Fickeysstraße",Witterung Betrieb ab Fickeysstraße,2026-11-26T10:34:32.000+0100,2026-11-26T15:34:00.000+0100,2024
+R2025-171,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,3,"Witterung
+Einstieg bei der Polizeistation",Witterung Einstieg bei der Polizeistation,2026-11-26T10:35:02.000+0100,2026-11-26T15:34:00.000+0100,2025
+R2035-171,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,3,"Witterung
+Betrieb ab Enkplatz, Grillgasse","Witterung Betrieb ab Enkplatz, Grillgasse",2026-11-26T10:36:03.000+0100,2026-11-26T15:35:00.000+0100,2035
+R2033-171,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,3,"Witterung
+Betrieb ab Enkplatz, Grillgasse","Witterung Betrieb ab Enkplatz, Grillgasse",2026-11-26T10:36:03.000+0100,2026-11-26T15:35:00.000+0100,2033
+R2034-171,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,3,"Witterung
+Betrieb ab Enkplatz, Grillgasse","Witterung Betrieb ab Enkplatz, Grillgasse",2026-11-26T10:36:03.000+0100,2026-11-26T15:35:00.000+0100,2034
+R2036-171,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,71,3,"Witterung
+Einstieg in der Grillgasse beim 15A",Witterung Einstieg in der Grillgasse beim 15A,2026-11-26T10:36:33.000+0100,2026-11-26T15:35:00.000+0100,2036
+R2865-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Feuerwehreinsatz
+Betrieb ab Prinzgasse",Feuerwehreinsatz Betrieb ab Prinzgasse,2026-11-26T10:38:34.000+0100,2026-11-26T15:37:00.000+0100,2865
+R2864-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Feuerwehreinsatz
+Betrieb ab Prinzgasse",Feuerwehreinsatz Betrieb ab Prinzgasse,2026-11-26T10:38:34.000+0100,2026-11-26T15:37:00.000+0100,2864
+R2861-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Feuerwehreinsatz
+Betrieb ab Prinzgasse",Feuerwehreinsatz Betrieb ab Prinzgasse,2026-11-26T10:38:34.000+0100,2026-11-26T15:37:00.000+0100,2861
+R2870-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+wegen Feuerwehreinsatz",Fahrtbehinderung wegen Feuerwehreinsatz,2026-11-26T10:38:34.000+0100,2026-11-26T15:38:00.000+0100,2870
+R2867-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+wegen Feuerwehreinsatz",Fahrtbehinderung wegen Feuerwehreinsatz,2026-11-26T10:38:34.000+0100,2026-11-26T15:38:00.000+0100,2867
+R2866-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+wegen Feuerwehreinsatz",Fahrtbehinderung wegen Feuerwehreinsatz,2026-11-26T10:38:34.000+0100,2026-11-26T15:38:00.000+0100,2866
+R577-160,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,60,3,"Betriebsstörung
+Betrieb ab Anschützgasse",Betriebsstörung Betrieb ab Anschützgasse,2026-11-26T11:22:07.000+0100,2026-11-26T15:56:00.000+0100,577
+R574-160,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,60,3,"Betriebsstörung
+Betrieb ab Anschützgasse",Betriebsstörung Betrieb ab Anschützgasse,2026-11-26T11:22:07.000+0100,2026-11-26T15:56:00.000+0100,574
+R2007-466,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,66A,3,"Witterung
+Umleitung über Davidgasse und Laxenburger Straße",Witterung Umleitung über Davidgasse und Laxenburger Straße,2026-11-26T11:30:38.000+0100,2026-11-26T15:29:00.000+0100,2007
+R36-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Betriebsstörung
+Betrieb nur bis Anschützgasse",Betriebsstörung Betrieb nur bis Anschützgasse,2026-11-26T11:49:39.000+0100,2026-11-26T14:45:00.000+0100,36
+R1548-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Betriebsstörung
+Betrieb nur bis Anschützgasse",Betriebsstörung Betrieb nur bis Anschützgasse,2026-11-26T11:49:40.000+0100,2026-11-26T14:45:00.000+0100,1548
+R1532-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Betriebsstörung
+Betrieb nur bis Anschützgasse",Betriebsstörung Betrieb nur bis Anschützgasse,2026-11-26T11:49:40.000+0100,2026-11-26T14:45:00.000+0100,1532
+R1535-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Betriebsstörung
+Betrieb nur bis Anschützgasse",Betriebsstörung Betrieb nur bis Anschützgasse,2026-11-26T11:49:40.000+0100,2026-11-26T14:45:00.000+0100,1535
+R1465-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Betriebsstörung 
+Betrieb nur bis Linzer Straße, Johnstr.","Betriebsstörung  Betrieb nur bis Linzer Straße, Johnstr.",2026-11-26T11:51:38.000+0100,2026-11-26T15:00:00.000+0100,1465
+R1553-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Betriebsstörung 
+Betrieb nur bis Linzer Straße, Johnstr.","Betriebsstörung  Betrieb nur bis Linzer Straße, Johnstr.",2026-11-26T11:51:40.000+0100,2026-11-26T15:00:00.000+0100,1553
+R571-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Betriebsstörung 
+Betrieb nur bis Linzer Straße, Johnstr.","Betriebsstörung  Betrieb nur bis Linzer Straße, Johnstr.",2026-11-26T11:51:40.000+0100,2026-11-26T15:00:00.000+0100,571
+R1558-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Betriebsstörung 
+Betrieb nur bis Linzer Straße, Johnstr.","Betriebsstörung  Betrieb nur bis Linzer Straße, Johnstr.",2026-11-26T11:51:40.000+0100,2026-11-26T15:00:00.000+0100,1558
+R1556-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Betriebsstörung 
+Betrieb nur bis Linzer Straße, Johnstr.","Betriebsstörung  Betrieb nur bis Linzer Straße, Johnstr.",2026-11-26T11:51:40.000+0100,2026-11-26T15:00:00.000+0100,1556
+R1537-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Fahrtbehinderung
+Betriebsstörung",Fahrtbehinderung Betriebsstörung,2026-11-26T11:51:40.000+0100,2026-11-26T16:00:00.000+0100,1537
+R1559-152,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,52,3,"Fahrtbehinderung
+Betriebsstörung",Fahrtbehinderung Betriebsstörung,2026-11-26T11:51:40.000+0100,2026-11-26T16:00:00.000+0100,1559
+R425-106,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T11:53:38.000+0100,2026-11-26T14:53:00.000+0100,425
+R424-106,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T11:53:38.000+0100,2026-11-26T14:53:00.000+0100,424
+R426-106,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T11:53:38.000+0100,2026-11-26T14:53:00.000+0100,426
+R428-106,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T11:53:38.000+0100,2026-11-26T14:53:00.000+0100,428
+R429-106,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T11:53:38.000+0100,2026-11-26T14:53:00.000+0100,429
+R411-106,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T11:53:38.000+0100,2026-11-26T14:53:00.000+0100,411
+R427-106,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T11:53:38.000+0100,2026-11-26T14:53:00.000+0100,427
+R1537-160,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,60,3,"Betriebsstörung
+Betrieb ab Hietzing",Betriebsstörung Betrieb ab Hietzing,2026-11-26T11:56:10.000+0100,2026-11-26T15:55:00.000+0100,1537
+R1535-160,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,60,3,"Betriebsstörung
+Betrieb ab Hietzing",Betriebsstörung Betrieb ab Hietzing,2026-11-26T11:56:10.000+0100,2026-11-26T15:55:00.000+0100,1535
+R577-110,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,10,3,"Betriebsstörung
+Betrieb ab Hütteldorfer Straße",Betriebsstörung Betrieb ab Hütteldorfer Straße,2026-11-26T11:59:41.000+0100,2026-11-26T15:59:00.000+0100,577
+R578-110,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,10,3,"Betriebsstörung
+Betrieb ab Hütteldorfer Straße",Betriebsstörung Betrieb ab Hütteldorfer Straße,2026-11-26T11:59:41.000+0100,2026-11-26T15:59:00.000+0100,578
+R579-110,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,10,3,"Betriebsstörung
+Betrieb ab Hütteldorfer Straße",Betriebsstörung Betrieb ab Hütteldorfer Straße,2026-11-26T11:59:41.000+0100,2026-11-26T15:59:00.000+0100,579
+R570-110,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,10,3,"Betriebsstörung
+Betrieb ab Hietzing",Betriebsstörung Betrieb ab Hietzing,2026-11-26T12:00:11.000+0100,2026-11-26T15:59:00.000+0100,570
+R571-110,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,10,3,"Betriebsstörung
+Betrieb ab Hietzing",Betriebsstörung Betrieb ab Hietzing,2026-11-26T12:00:11.000+0100,2026-11-26T15:59:00.000+0100,571
+R568-110,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,10,3,"Betriebsstörung
+Betrieb ab Hietzing",Betriebsstörung Betrieb ab Hietzing,2026-11-26T12:00:11.000+0100,2026-11-26T15:59:00.000+0100,568
+R418-106,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,3,"Weichenstörung
+Betrieb ab Absberggasse",Weichenstörung Betrieb ab Absberggasse,2026-11-26T12:16:40.000+0100,2026-11-26T16:15:00.000+0100,418
+R3434-106,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,6,3,"Weichenstörung
+EInstieg in der Schleife von Linie D",Weichenstörung EInstieg in der Schleife von Linie D,2026-11-26T12:17:13.000+0100,2026-11-26T16:16:00.000+0100,3434
+R404-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Weichenstörung
+Betrieb ab Enkplatz, Grillgasse","Weichenstörung Betrieb ab Enkplatz, Grillgasse",2026-11-26T12:18:41.000+0100,2026-11-26T16:18:00.000+0100,404
+R409-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Weichenstörung
+Betrieb ab Enkplatz, Grillgasse","Weichenstörung Betrieb ab Enkplatz, Grillgasse",2026-11-26T12:18:41.000+0100,2026-11-26T16:18:00.000+0100,409
+R405-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Weichenstörung
+Betrieb ab Enkplatz, Grillgasse","Weichenstörung Betrieb ab Enkplatz, Grillgasse",2026-11-26T12:18:41.000+0100,2026-11-26T16:18:00.000+0100,405
+R406-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Weichenstörung
+Betrieb ab Enkplatz, Grillgasse","Weichenstörung Betrieb ab Enkplatz, Grillgasse",2026-11-26T12:18:41.000+0100,2026-11-26T16:18:00.000+0100,406
+R408-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Weichenstörung
+Betrieb ab Enkplatz, Grillgasse","Weichenstörung Betrieb ab Enkplatz, Grillgasse",2026-11-26T12:18:41.000+0100,2026-11-26T16:18:00.000+0100,408
+R1933-111,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,11,3,"Weichenstörung
+Umleitung über Hauptbahnhof und St. Marx zum Enkplatz, Grillgasse","Weichenstörung Umleitung über Hauptbahnhof und St. Marx zum Enkplatz, Grillgasse",2026-11-26T12:20:43.000+0100,2026-11-26T16:18:00.000+0100,1933
+R764-414,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,14A,3,"Verkehrsunfall
+Betrieb ab Laxenburger Straße, Gudrunstraße","Verkehrsunfall Betrieb ab Laxenburger Straße, Gudrunstraße",2026-11-26T12:25:41.000+0100,2026-11-26T14:24:00.000+0100,764
+R761-414,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,14A,3,"Fahrtbehinderung
+Verkehrsunfall",Fahrtbehinderung Verkehrsunfall,2026-11-26T12:27:12.000+0100,2026-11-26T16:26:00.000+0100,761
+R223-109,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,9,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:30:41.000+0100,2026-11-26T13:30:00.000+0100,223
+R524-109,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,9,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:30:42.000+0100,2026-11-26T13:30:00.000+0100,524
+R526-109,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,9,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:30:42.000+0100,2026-11-26T13:30:00.000+0100,526
+R530-109,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,9,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:30:42.000+0100,2026-11-26T13:30:00.000+0100,530
+R556-109,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,9,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:30:43.000+0100,2026-11-26T13:30:00.000+0100,556
+R531-109,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,9,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:33:12.000+0100,2026-11-26T13:32:00.000+0100,531
+R532-109,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,9,3,"Fahrtbehinderung
+Falschparker",Fahrtbehinderung Falschparker,2026-11-26T12:33:12.000+0100,2026-11-26T13:32:00.000+0100,532
+R660-413,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,13A,3,"Witterung
+Betrieb ab Strozzigasse",Witterung Betrieb ab Strozzigasse,2026-11-26T12:57:45.000+0100,2026-11-26T16:57:00.000+0100,660
+R661-413,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,13A,3,"Witterung
+Betrieb ab Strozzigasse",Witterung Betrieb ab Strozzigasse,2026-11-26T12:57:45.000+0100,2026-11-26T16:57:00.000+0100,661
+R662-413,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,13A,3,"Witterung
+Betrieb ab Strozzigasse",Witterung Betrieb ab Strozzigasse,2026-11-26T12:57:45.000+0100,2026-11-26T16:57:00.000+0100,662
+R708-413,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,13A,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T12:59:45.000+0100,2026-11-26T16:59:00.000+0100,708
+R885-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:02:46.000+0100,2026-11-26T14:02:00.000+0100,885
+R2376-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:02:47.000+0100,2026-11-26T14:02:00.000+0100,2376
+R2566-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:02:47.000+0100,2026-11-26T14:02:00.000+0100,2566
+R2377-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:02:47.000+0100,2026-11-26T14:02:00.000+0100,2377
+R881-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:16.000+0100,2026-11-26T14:02:00.000+0100,881
+R2558-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:17.000+0100,2026-11-26T14:02:00.000+0100,2558
+R2634-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:17.000+0100,2026-11-26T14:02:00.000+0100,2634
+R5728-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:17.000+0100,2026-11-26T14:02:00.000+0100,5728
+R2374-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:17.000+0100,2026-11-26T14:02:00.000+0100,2374
+R2375-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:17.000+0100,2026-11-26T14:02:00.000+0100,2375
+R2556-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:17.000+0100,2026-11-26T14:02:00.000+0100,2556
+R3005-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:18.000+0100,2026-11-26T14:02:00.000+0100,3005
+R3068-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:18.000+0100,2026-11-26T14:02:00.000+0100,3068
+R3113-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:18.000+0100,2026-11-26T14:02:00.000+0100,3113
+R3191-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:19.000+0100,2026-11-26T14:02:00.000+0100,3191
+R3196-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:19.000+0100,2026-11-26T14:02:00.000+0100,3196
+R3197-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:19.000+0100,2026-11-26T14:02:00.000+0100,3197
+R3192-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:19.000+0100,2026-11-26T14:02:00.000+0100,3192
+R3193-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:03:19.000+0100,2026-11-26T14:02:00.000+0100,3193
+R1007-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:06:46.000+0100,2026-11-26T14:06:00.000+0100,1007
+R1006-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:06:46.000+0100,2026-11-26T14:06:00.000+0100,1006
+R1008-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:06:46.000+0100,2026-11-26T14:06:00.000+0100,1008
+R885-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:06:47.000+0100,2026-11-26T14:06:00.000+0100,885
+R2566-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:06:47.000+0100,2026-11-26T14:06:00.000+0100,2566
+R2377-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:06:47.000+0100,2026-11-26T14:06:00.000+0100,2377
+R2376-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:06:47.000+0100,2026-11-26T14:06:00.000+0100,2376
+R880-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:06:47.000+0100,2026-11-26T14:06:00.000+0100,880
+R3069-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:06:48.000+0100,2026-11-26T14:06:00.000+0100,3069
+R1214-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T13:10:46.000+0100,2026-11-26T16:13:00.000+0100,1214
+R1215-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T13:10:46.000+0100,2026-11-26T16:13:00.000+0100,1215
+R1217-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T13:10:46.000+0100,2026-11-26T16:13:00.000+0100,1217
+R1216-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T13:10:46.000+0100,2026-11-26T16:13:00.000+0100,1216
+R2964-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Fahrtbehinderung
+wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T13:10:49.000+0100,2026-11-26T16:13:00.000+0100,2964
+R1225-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Witterung
+Betrieb ab Nußdorfer Straße",Witterung Betrieb ab Nußdorfer Straße,2026-11-26T13:13:17.000+0100,2026-11-26T16:12:00.000+0100,1225
+R1227-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Witterung
+Betrieb ab Nußdorfer Straße",Witterung Betrieb ab Nußdorfer Straße,2026-11-26T13:13:17.000+0100,2026-11-26T16:12:00.000+0100,1227
+R1224-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Witterung
+Betrieb ab Nußdorfer Straße",Witterung Betrieb ab Nußdorfer Straße,2026-11-26T13:13:17.000+0100,2026-11-26T16:12:00.000+0100,1224
+R1223-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Witterung
+Betrieb ab Nußdorfer Straße",Witterung Betrieb ab Nußdorfer Straße,2026-11-26T13:13:17.000+0100,2026-11-26T16:12:00.000+0100,1223
+R1226-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Witterung
+Betrieb ab Nußdorfer Straße",Witterung Betrieb ab Nußdorfer Straße,2026-11-26T13:13:17.000+0100,2026-11-26T16:12:00.000+0100,1226
+R2985-138,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,38,3,"Witterung
+Betrieb ab Nußdorfer Straße",Witterung Betrieb ab Nußdorfer Straße,2026-11-26T13:13:20.000+0100,2026-11-26T16:12:00.000+0100,2985
+R1011-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:17.000+0100,2026-11-26T14:15:00.000+0100,1011
+R1010-125,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,25,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:17.000+0100,2026-11-26T14:15:00.000+0100,1010
+R3009-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:49.000+0100,2026-11-26T14:16:00.000+0100,3009
+R3115-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:49.000+0100,2026-11-26T14:16:00.000+0100,3115
+R3186-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:50.000+0100,2026-11-26T14:16:00.000+0100,3186
+R2737-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:50.000+0100,2026-11-26T14:16:00.000+0100,2737
+R2736-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:50.000+0100,2026-11-26T14:16:00.000+0100,2736
+R3184-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:50.000+0100,2026-11-26T14:16:00.000+0100,3184
+R3185-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:50.000+0100,2026-11-26T14:16:00.000+0100,3185
+R3183-126,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,26,3,"Fahrtbehinderung
+Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T13:16:50.000+0100,2026-11-26T14:16:00.000+0100,3183
