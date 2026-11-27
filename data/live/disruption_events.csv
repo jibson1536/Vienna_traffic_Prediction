@@ -1,74 +1,74 @@
 event_id,first_seen_utc,last_seen_utc,times_seen,lines,category_id,title,description,start_reported,end_reported,related_stops
-ftazS_1017625,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,WLB|62|1,1,Kliebergasse,"Bahnsteig Linie 1 Richtung Stefan-Fadinger-Platz, Linie 62 Richtung Lainz, Badner Bahn Richtung Baden - Ausgang Kliebergasse / Gassergasse",2026-12-13T20:45:00.000+0100,2026-12-14T00:45:00.000+0100,831|1715|1715
-ftazS_1017626,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,18,1,Kliebergasse,18 Bahnsteig Richtung Burggasse - Ausgang Kliebergasse,2026-12-14T01:15:00.000+0100,2026-12-14T05:15:00.000+0100,831
+ftazS_1017625,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,WLB|62|1,1,Kliebergasse,"Bahnsteig Linie 1 Richtung Stefan-Fadinger-Platz, Linie 62 Richtung Lainz, Badner Bahn Richtung Baden - Ausgang Kliebergasse / Gassergasse",2026-12-13T20:45:00.000+0100,2026-12-14T00:45:00.000+0100,831|1715|1715
+ftazS_1017626,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,18,1,Kliebergasse,18 Bahnsteig Richtung Burggasse - Ausgang Kliebergasse,2026-12-14T01:15:00.000+0100,2026-12-14T05:15:00.000+0100,831
 ftazS_520,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,U6,1,Handelskai,U6 Bahnsteig Richtung Siebenhirten - Ausgang Engerthstraße,2026-12-14T01:15:00.000+0100,2026-12-14T05:15:00.000+0100,4648
-ftazS_566,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,U4,1,Pilgramgasse,Fahrtrichtung U4 Heiligenstadt. - Ausgang Ramperstorffergasse,,,4417
-ftazS_711,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,U1,1,Keplerplatz,U1 Mittelbahnsteig - Ausgang Keplerplatz,,,4103|4126
-ftazS_627,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,U2,1,Rathaus,U2 Bahnsteig Richtung Seestadt - Ausgang Rathaus,,,4210
+ftazS_566,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,U4,1,Pilgramgasse,Fahrtrichtung U4 Heiligenstadt. - Ausgang Ramperstorffergasse,,,4417
+ftazS_711,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,U1,1,Keplerplatz,U1 Mittelbahnsteig - Ausgang Keplerplatz,,,4103|4126
+ftazS_627,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,U2,1,Rathaus,U2 Bahnsteig Richtung Seestadt - Ausgang Rathaus,,,4210
 ftazS_1303911,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,U2,1,Schottentor,Passage - Ausgang Universitätsring,,,4203|4212
 I20261120-0007,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,1|2|D|71,2,"1, D, 71, 2: Demonstration","Linie 1: Umleitung in Richtung Reumannplatz U Wende über Börse und Umleitung bis Resselgasse über Schwedenplatz U und Schwarzenbergplatz. Einstieg am Karlsplatz U (bei Linie 4A) möglich. Umleitung in Richtung Prater Hauptallee zwischen Karlsplatz U und Julius-Raab-Platz über Schwarzenbergplatz und Stubentor U. Fahrgäste zwischen Börse und Schwedenplatz mit dem Ziel Prater Hauptallee müssen am Julius-Raab-Platz in einen anderen Zug der Linie 1 umsteigen. Linie 2: Umleitung in beiden Richtungen zwischen Parlament, U Volkstheater und Rathaus U über die Reichsratsstraße. Richtung Dornbach: Haltestelle Parlament, U Volkstheater: Die Züge halten in der Haltestelle der Linie 46. Richtung Friedrich-Engels-Platz: Parlament, U Volkstheater: Die Züge halten in der Bedarfshaltestelle am Burgring nach der Bellariastraße. Linie D: Umleitung in beiden Richtungen zwischen Schwarzenbergplatz und Börse über Stubentor U und Schwedenplatz U. Linie 71: Betrieb nur zwischen Kaiserebersdorf und Schwarzenbergplatz. Ersatz: Linien U1, U2 und U3. Voraussichtliche Dauer: Nicht absehbar. Grund: Demonstration im Bereich Universitätsring.",2026-11-20T10:54:00.000+0100,,
 I20261120-0009,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,3A,2,3A: Verkehrsüberlastung,Linie 3A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verkehrsüberlastung.,2026-11-20T12:05:00.000+0100,,
-I20261020-0029,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,1,2,1: Gleisbauarbeiten,Linie 1: Betrieb nur zwischen Prater Hauptallee und Knöllgasse. Weiterfahrt zum Reumannplatz U. Ersatz: Linien 7A und 65A. Voraussichtliche Dauer: Mitte Dezember 2026. Grund: Gleisbauarbeiten im Bereich Stefan-Fadinger-Platz.,2026-10-20T11:58:00.000+0200,2026-12-05T01:00:00.000+0100,
+I20261020-0029,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,1,2,1: Gleisbauarbeiten,Linie 1: Betrieb nur zwischen Prater Hauptallee und Knöllgasse. Weiterfahrt zum Reumannplatz U. Ersatz: Linien 7A und 65A. Voraussichtliche Dauer: Mitte Dezember 2026. Grund: Gleisbauarbeiten im Bereich Stefan-Fadinger-Platz.,2026-10-20T11:58:00.000+0200,2026-12-05T01:00:00.000+0100,
 I20261120-0010,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,43A,2,43A: Feuerwehreinsatz,Linie 43A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Feuerwehreinsatz.,2026-11-20T12:36:00.000+0100,,
 I20261120-0011,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,12A,2,12A: Betriebsstörung,Linie 12A: Unregelmäßige Intervalle in beiden Richtungen. Grund: Betriebsstörung.,2026-11-20T12:51:00.000+0100,2026-11-20T14:27:00.000+0100,
-I20260909-0007,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,25|26|27,2,"25, 26, 27: Gleisbauarbeiten","Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Josef-Baumann-Gasse. Weiterfahrt über Linie 27 bis Aspern Nord S U. Linie 26: Betrieb nur zwischen Hausfeldstraße U und Josef-Baumann-Gasse. Weiterfahrt nach Kagran U. Linie 27: Betrieb nur zwischen Strebersdorf, Meriangasse und Floridsdorf S U. Weichen Sie daher nach Möglichkeit großräumig auf die U1 und S-Bahn über Leopoldau S U oder Praterstern S U aus. Zwischen Kagraner Platz U und Floridsdorf S U können Sie auch auf die Linien 31A und anschließend 29A/29B oder 31A und S-Bahn ausweichen. Zwischen Kagran U und Floridsdorf S U können Sie auch auf die Linien 27A und anschließend 29A/29B ausweichen. Zwischen Floridsdorf S U und Josef-Baumann-Gasse fährt der Ersatzbus 26E. Beachten Sie, der 26E hat nicht die gleichen Kapazitäten wie eine Straßenbahn. Voraussichtliche Dauer: Ende 2026. Grund: Gleisbauarbeiten im Bereich Donaufelder Straße.",2026-09-14T04:30:00.000+0200,2026-12-12T02:00:00.000+0100,
-I20260925-0011,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,26E,2,26E: Gleisbauarbeiten,Die Kapazitäten der Ersatzlinie 26E sind nicht mit denen einer Straßenbahn vergleichbar. Weichen Sie daher nach Möglichkeit auf die U1 und die S-Bahn über Leopoldau S U oder Praterstern S U aus. Ab Kagraner Platz U können Sie auf die Linie 31A und ab Leopoldauer Straße auf die Linie 29A umsteigen. Alternativ können Sie auch mit der Linie 31A bis Siemensstraße S fahren und dort in die S-Bahn umsteigen. Außerdem können Sie ab Kagran U auf die Linie 27A und ab Leopoldauer Straße auf die Linie 29A umsteigen.,2026-09-25T08:55:00.000+0200,2026-12-12T23:55:00.000+0100,
-R401-101,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,1,3,"Gleisbauarbeiten
-Umleitung zum Reumannplatz",Gleisbauarbeiten Umleitung zum Reumannplatz,2026-11-25T00:00:29.000+0100,2026-11-26T23:59:59.000+0100,401
-R1882-101,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,1,3,"Gleisbauarbeiten
-Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1882
-R1875-101,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,1,3,"Gleisbauarbeiten
-Kein Betrieb",Gleisbauarbeiten Kein Betrieb,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1875
-R1876-101,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,1,3,"Gleisbauarbeiten
-Kein Betrieb",Gleisbauarbeiten Kein Betrieb,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1876
-R1880-101,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,1,3,"Gleisbauarbeiten
-Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1880
-R1884-101,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,1,3,"Gleisbauarbeiten
-Züge halten Quellenstraße 156 (Linie 6)",Gleisbauarbeiten Züge halten Quellenstraße 156 (Linie 6),2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1884
-R1883-101,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,1,3,"Gleisbauarbeiten
-Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1883
-R1881-101,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,1,3,"Gleisbauarbeiten
-Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-26T23:59:59.000+0100,1881
-R3886-480,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,80A,3,"Bauarbeiten
-Betrieb ab Vivariumstraße 2",Bauarbeiten Betrieb ab Vivariumstraße 2,2026-11-25T00:00:28.000+0100,2026-11-26T23:59:59.000+0100,3886
-R2373-126,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,26,3,"Züge halten in
-Tokiostraße",Züge halten in Tokiostraße,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2373
-R2379-627,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,26E,3,"Busse halten
-Bessemerstraße 1-3",Busse halten Bessemerstraße 1-3,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2379
-R2373-127,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,27,3,"Linie 25 in
-Tokiostraße benützen",Linie 25 in Tokiostraße benützen,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2373
-R2373-125,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,25,3,"Züge halten
-Donaufelder Straße 175-177",Züge halten Donaufelder Straße 175-177,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2373
-R2372-125,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,25,3,"Linien 25 und 26
-Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2372
-R2371-125,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,25,3,"Linien 25 und 26
-Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2371
-R2370-125,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,25,3,"Linien 25 und 26
-Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2370
-R2359-125,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,25,3,"Ersatzbus 26E
-hält Karl-Waldbrunner-Platz vor Schloßhofer Straße",Ersatzbus 26E hält Karl-Waldbrunner-Platz vor Schloßhofer Straße,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2359
-R2343-626,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,26E,3,"Ersatzbus
-hält Karl-Waldbrunner-Platz vor Schloßhofer Straße",Ersatzbus hält Karl-Waldbrunner-Platz vor Schloßhofer Straße,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2343
-R2343-125,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,25,3,"Linien 25 und 26
-Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2343
-R2378-627,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,26E,3,"Busse halten
-Satzingerweg 41",Busse halten Satzingerweg 41,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2378
-R293-474,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,74A,3,"Bauarbeiten
-Einstieg Leberstraße vor S-Bahn-Gebäude",Bauarbeiten Einstieg Leberstraße vor S-Bahn-Gebäude,2026-11-25T00:00:29.000+0100,2026-11-26T23:59:59.000+0100,293
-R318-437,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,37A,3,"Bauarbeiten
-Busse halten Pasettistraße vor Hellwagstraße (bei Linie 5A)",Bauarbeiten Busse halten Pasettistraße vor Hellwagstraße (bei Linie 5A),2026-11-25T00:00:29.000+0100,2026-11-26T23:59:59.000+0100,318
-R2345-127,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,27,3,"Züge halten bei
-Linie 31",Züge halten bei Linie 31,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2345
-R2380-627,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,26E,3,"Busse halten
-Hoßplatz 11",Busse halten Hoßplatz 11,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2380
-R2558-125,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,25,3,"Gleisbauarbeiten
-Linie 26E hält Donaufelder Straße 148",Gleisbauarbeiten Linie 26E hält Donaufelder Straße 148,2026-11-24T00:00:22.000+0100,2026-11-26T23:59:59.000+0100,2558
-R1974-466,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,16,66A,3,"Bauarbeiten
-Busse halten Salvatorianerplatz",Bauarbeiten Busse halten Salvatorianerplatz,2026-11-26T04:40:27.000+0100,2026-11-27T01:00:00.000+0100,1974
-R1199-205,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,16,5B,3,"Bauarbeiten
-Busse halten Pappenheimgasse 24-28",Bauarbeiten Busse halten Pappenheimgasse 24-28,2026-11-26T04:45:27.000+0100,2026-11-26T23:59:59.000+0100,1199
-R500-101,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,19,1,3,"Bhf. Hütteldorf
-ÖBB-Ersatzbus für <80",Bhf. Hütteldorf ÖBB-Ersatzbus für <80,2026-11-26T05:00:28.000+0100,2026-11-26T23:00:00.000+0100,500
+I20260909-0007,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,25|26|27,2,"25, 26, 27: Gleisbauarbeiten","Linie 25: Betrieb nur zwischen Aspern, Oberdorfstraße und Josef-Baumann-Gasse. Weiterfahrt über Linie 27 bis Aspern Nord S U. Linie 26: Betrieb nur zwischen Hausfeldstraße U und Josef-Baumann-Gasse. Weiterfahrt nach Kagran U. Linie 27: Betrieb nur zwischen Strebersdorf, Meriangasse und Floridsdorf S U. Weichen Sie daher nach Möglichkeit großräumig auf die U1 und S-Bahn über Leopoldau S U oder Praterstern S U aus. Zwischen Kagraner Platz U und Floridsdorf S U können Sie auch auf die Linien 31A und anschließend 29A/29B oder 31A und S-Bahn ausweichen. Zwischen Kagran U und Floridsdorf S U können Sie auch auf die Linien 27A und anschließend 29A/29B ausweichen. Zwischen Floridsdorf S U und Josef-Baumann-Gasse fährt der Ersatzbus 26E. Beachten Sie, der 26E hat nicht die gleichen Kapazitäten wie eine Straßenbahn. Voraussichtliche Dauer: Ende 2026. Grund: Gleisbauarbeiten im Bereich Donaufelder Straße.",2026-09-14T04:30:00.000+0200,2026-12-12T02:00:00.000+0100,
+I20260925-0011,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,26E,2,26E: Gleisbauarbeiten,Die Kapazitäten der Ersatzlinie 26E sind nicht mit denen einer Straßenbahn vergleichbar. Weichen Sie daher nach Möglichkeit auf die U1 und die S-Bahn über Leopoldau S U oder Praterstern S U aus. Ab Kagraner Platz U können Sie auf die Linie 31A und ab Leopoldauer Straße auf die Linie 29A umsteigen. Alternativ können Sie auch mit der Linie 31A bis Siemensstraße S fahren und dort in die S-Bahn umsteigen. Außerdem können Sie ab Kagran U auf die Linie 27A und ab Leopoldauer Straße auf die Linie 29A umsteigen.,2026-09-25T08:55:00.000+0200,2026-12-12T23:55:00.000+0100,
+R401-101,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,1,3,"Gleisbauarbeiten
+Umleitung zum Reumannplatz",Gleisbauarbeiten Umleitung zum Reumannplatz,2026-11-25T00:00:29.000+0100,2026-11-27T23:59:59.000+0100,401
+R1882-101,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,1,3,"Gleisbauarbeiten
+Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-27T23:59:59.000+0100,1882
+R1875-101,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,1,3,"Gleisbauarbeiten
+Kein Betrieb",Gleisbauarbeiten Kein Betrieb,2026-11-24T00:00:20.000+0100,2026-11-27T23:59:59.000+0100,1875
+R1876-101,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,1,3,"Gleisbauarbeiten
+Kein Betrieb",Gleisbauarbeiten Kein Betrieb,2026-11-24T00:00:20.000+0100,2026-11-27T23:59:59.000+0100,1876
+R1880-101,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,1,3,"Gleisbauarbeiten
+Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-27T23:59:59.000+0100,1880
+R1884-101,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,1,3,"Gleisbauarbeiten
+Züge halten Quellenstraße 156 (Linie 6)",Gleisbauarbeiten Züge halten Quellenstraße 156 (Linie 6),2026-11-24T00:00:20.000+0100,2026-11-27T23:59:59.000+0100,1884
+R1883-101,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,1,3,"Gleisbauarbeiten
+Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-27T23:59:59.000+0100,1883
+R1881-101,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,1,3,"Gleisbauarbeiten
+Betrieb ab Knöllgasse",Gleisbauarbeiten Betrieb ab Knöllgasse,2026-11-24T00:00:20.000+0100,2026-11-27T23:59:59.000+0100,1881
+R3886-480,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,80A,3,"Bauarbeiten
+Betrieb ab Vivariumstraße 2",Bauarbeiten Betrieb ab Vivariumstraße 2,2026-11-25T00:00:28.000+0100,2026-11-27T23:59:59.000+0100,3886
+R2373-126,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,26,3,"Züge halten in
+Tokiostraße",Züge halten in Tokiostraße,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2373
+R2379-627,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,26E,3,"Busse halten
+Bessemerstraße 1-3",Busse halten Bessemerstraße 1-3,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2379
+R2373-127,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,27,3,"Linie 25 in
+Tokiostraße benützen",Linie 25 in Tokiostraße benützen,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2373
+R2373-125,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,25,3,"Züge halten
+Donaufelder Straße 175-177",Züge halten Donaufelder Straße 175-177,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2373
+R2372-125,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,25,3,"Linien 25 und 26
+Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2372
+R2371-125,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,25,3,"Linien 25 und 26
+Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2371
+R2370-125,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,25,3,"Linien 25 und 26
+Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2370
+R2359-125,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,25,3,"Ersatzbus 26E
+hält Karl-Waldbrunner-Platz vor Schloßhofer Straße",Ersatzbus 26E hält Karl-Waldbrunner-Platz vor Schloßhofer Straße,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2359
+R2343-626,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,26E,3,"Ersatzbus
+hält Karl-Waldbrunner-Platz vor Schloßhofer Straße",Ersatzbus hält Karl-Waldbrunner-Platz vor Schloßhofer Straße,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2343
+R2343-125,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,25,3,"Linien 25 und 26
+Betrieb ab Josef-Baumann-Gasse",Linien 25 und 26 Betrieb ab Josef-Baumann-Gasse,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2343
+R2378-627,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,26E,3,"Busse halten
+Satzingerweg 41",Busse halten Satzingerweg 41,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2378
+R293-474,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,74A,3,"Bauarbeiten
+Einstieg Leberstraße vor S-Bahn-Gebäude",Bauarbeiten Einstieg Leberstraße vor S-Bahn-Gebäude,2026-11-25T00:00:29.000+0100,2026-11-27T23:59:59.000+0100,293
+R318-437,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,37A,3,"Bauarbeiten
+Busse halten Pasettistraße vor Hellwagstraße (bei Linie 5A)",Bauarbeiten Busse halten Pasettistraße vor Hellwagstraße (bei Linie 5A),2026-11-25T00:00:29.000+0100,2026-11-27T23:59:59.000+0100,318
+R2345-127,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,27,3,"Züge halten bei
+Linie 31",Züge halten bei Linie 31,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2345
+R2380-627,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,26E,3,"Busse halten
+Hoßplatz 11",Busse halten Hoßplatz 11,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2380
+R2558-125,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,25,3,"Gleisbauarbeiten
+Linie 26E hält Donaufelder Straße 148",Gleisbauarbeiten Linie 26E hält Donaufelder Straße 148,2026-11-24T00:00:22.000+0100,2026-11-27T23:59:59.000+0100,2558
+R1974-466,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,17,66A,3,"Bauarbeiten
+Busse halten Salvatorianerplatz",Bauarbeiten Busse halten Salvatorianerplatz,2026-11-27T04:40:12.000+0100,2026-11-28T01:00:00.000+0100,1974
+R1199-205,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,17,5B,3,"Bauarbeiten
+Busse halten Pappenheimgasse 24-28",Bauarbeiten Busse halten Pappenheimgasse 24-28,2026-11-27T04:45:12.000+0100,2026-11-27T23:59:59.000+0100,1199
+R500-101,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,20,1,3,"Bhf. Hütteldorf
+ÖBB-Ersatzbus für <80",Bhf. Hütteldorf ÖBB-Ersatzbus für <80,2026-11-27T00:30:28.000+0100,2026-11-27T04:59:00.000+0100,500
 R81-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Fahrtbehinderung
 wegen Witterung",Fahrtbehinderung wegen Witterung,2026-11-26T12:22:13.000+0100,2026-11-26T16:21:00.000+0100,81
 R13-171,2026-11-20T12:02:19Z,2026-11-26T12:25:05Z,2,71,3,"Fahrtbehinderung
@@ -135,13 +135,13 @@ R49-102,2026-11-20T12:02:19Z,2026-11-25T11:44:14Z,2,2,3,"Schadhafter Zug
 Züge halten nach Bellariastraße",Schadhafter Zug Züge halten nach Bellariastraße,2026-11-25T12:13:59.000+0100,2026-11-25T13:12:00.000+0100,49
 R15-102,2026-11-20T12:02:19Z,2026-11-20T12:02:19Z,1,2,3,"Demonstration
 Züge halten bei Linie 49",Demonstration Züge halten bei Linie 49,2026-11-20T11:52:35.000+0100,2026-11-20T18:30:00.000+0100,15
-S16,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,,3,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T13:56:00.000+0200,2026-12-31T13:56:00.000+0100,16
-S48,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,,3,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T13:59:00.000+0200,2026-12-31T13:59:00.000+0100,48
-S2108,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,,3,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T14:07:00.000+0200,2026-12-31T14:07:00.000+0100,2108
-S2131,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,,3,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T14:07:00.000+0200,2026-12-31T14:07:00.000+0100,2131
-S4644,2026-11-20T12:02:19Z,2026-11-26T21:47:41Z,21,,3,Sperre Bahnsteig Richtung Floridsdorf,Sperre Bahnsteig Richtung Floridsdorf,2026-09-14T04:00:00.000+0200,2026-12-31T23:59:00.000+0100,4644
+S16,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,,3,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T13:56:00.000+0200,2026-12-31T13:56:00.000+0100,16
+S48,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,,3,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Parlament zur Beschleunigung der Straßenbahnlinien dauerhaft aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T13:59:00.000+0200,2026-12-31T13:59:00.000+0100,48
+S2108,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,,3,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T14:07:00.000+0200,2026-12-31T14:07:00.000+0100,2108
+S2131,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,,3,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,Haltestelle Stadionbrücke im Rahmen des Straßenbahn-Neubaus der Linie 18 aufgelassen. Bitte auf nahegelegene Haltestellen ausweichen.,2026-07-13T14:07:00.000+0200,2026-12-31T14:07:00.000+0100,2131
+S4644,2026-11-20T12:02:19Z,2026-11-27T03:54:28Z,22,,3,Sperre Bahnsteig Richtung Floridsdorf,Sperre Bahnsteig Richtung Floridsdorf,2026-09-14T04:00:00.000+0200,2026-12-31T23:59:00.000+0100,4644
 ftazS_18,2026-11-20T19:16:10Z,2026-11-23T02:44:03Z,10,U3,1,Erdberg,U3 Mittelbahnsteig - Ausgang Franzosengraben,2026-12-16T01:15:00.000+0100,2026-12-16T05:15:00.000+0100,4900|4917
-ftazS_736,2026-11-20T19:16:10Z,2026-11-26T21:47:41Z,18,U3,1,Gasometer,U3 Bahnsteig Richtung Ottakring - Ausgang Gasometer/Modecenterstraße,2026-12-21T01:15:00.000+0100,2026-12-21T05:15:00.000+0100,4941
+ftazS_736,2026-11-20T19:16:10Z,2026-11-27T03:54:28Z,19,U3,1,Gasometer,U3 Bahnsteig Richtung Ottakring - Ausgang Gasometer/Modecenterstraße,2026-12-21T01:15:00.000+0100,2026-12-21T05:15:00.000+0100,4941
 ftazS_1017627,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,WLB|18|62|1,1,Kliebergasse,"1 Bahnsteig Richtung Prater Hauptallee, 18 Bahnsteig Richtung Schlachthausgasse, 62 und Badner Bahn Bahnsteig Richtung Oper, Karlsplatz - Ausgang Landgutgasse",2026-11-24T20:45:00.000+0100,2026-11-25T00:45:00.000+0100,1715|849|831|831
 I20261120-0043,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,11,2,11: Falschparker,"Linie 11: Fahrtbehinderung in Richtung Kaiserebersdorf, Zinnergasse. Voraussichtliche Dauer: 20:45 Uhr. Grund: Falschparker im Bereich Polkorabplatz.",2026-11-20T20:13:00.000+0100,,
 I20261120-0040-F01,2026-11-20T19:16:10Z,2026-11-20T19:16:10Z,1,25,2,25: Polizeieinsatz,Linie 25: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-20T19:55:00.000+0100,2026-11-20T20:31:00.000+0100,2595
@@ -227,12 +227,12 @@ R1629-160,2026-11-21T00:54:09Z,2026-11-21T00:54:09Z,1,60,3,"Gleisschaden
 Betrieb ab Hermesstraße",Gleisschaden Betrieb ab Hermesstraße,2026-11-21T00:24:17.000+0100,2026-11-21T02:23:00.000+0100,1629
 R1718-508,2026-11-21T00:54:09Z,2026-11-26T03:07:33Z,5,N8,3,"Gleisbauarbeiten
 Busse halten Aßmayergasse 48 bei Linie 59A",Gleisbauarbeiten Busse halten Aßmayergasse 48 bei Linie 59A,2026-11-26T00:45:14.000+0100,2026-11-26T04:45:00.000+0100,1718
-R1749-508,2026-11-21T00:54:09Z,2026-11-26T03:07:33Z,5,N8,3,"Gleisbauarbeiten
-Busse halten Aßmayergasse nach Flurschützstraße bei Linie 59A",Gleisbauarbeiten Busse halten Aßmayergasse nach Flurschützstraße bei Linie 59A,2026-11-26T00:45:14.000+0100,2026-11-26T05:15:00.000+0100,1749
-R407-506,2026-11-21T00:54:09Z,2026-11-26T03:07:33Z,5,N6,3,"Bauarbeiten
-Busse halten Quellenstraße 189",Bauarbeiten Busse halten Quellenstraße 189,2026-11-26T00:54:12.000+0100,2026-11-26T05:04:00.000+0100,407
-R402-506,2026-11-21T00:54:09Z,2026-11-26T03:07:33Z,5,N6,3,"Bauarbeiten 
-Busse halten Neilreichgasse 20-22 ",Bauarbeiten  Busse halten Neilreichgasse 20-22,2026-11-26T00:55:12.000+0100,2026-11-26T05:05:00.000+0100,402
+R1749-508,2026-11-21T00:54:09Z,2026-11-27T03:54:28Z,6,N8,3,"Gleisbauarbeiten
+Busse halten Aßmayergasse nach Flurschützstraße bei Linie 59A",Gleisbauarbeiten Busse halten Aßmayergasse nach Flurschützstraße bei Linie 59A,2026-11-27T00:45:25.000+0100,2026-11-27T05:15:00.000+0100,1749
+R407-506,2026-11-21T00:54:09Z,2026-11-27T03:54:28Z,6,N6,3,"Bauarbeiten
+Busse halten Quellenstraße 189",Bauarbeiten Busse halten Quellenstraße 189,2026-11-27T00:54:01.000+0100,2026-11-27T05:04:00.000+0100,407
+R402-506,2026-11-21T00:54:09Z,2026-11-27T03:54:28Z,6,N6,3,"Bauarbeiten 
+Busse halten Neilreichgasse 20-22 ",Bauarbeiten  Busse halten Neilreichgasse 20-22,2026-11-27T00:55:01.000+0100,2026-11-27T05:05:00.000+0100,402
 R1974-566,2026-11-21T00:54:09Z,2026-11-26T03:07:33Z,5,N66,3,"Bauarbeiten
 Busse halten Salvatorianerplatz",Bauarbeiten Busse halten Salvatorianerplatz,2026-11-26T01:00:18.000+0100,2026-11-26T04:20:00.000+0100,1974
 R2371-520,2026-11-21T00:54:09Z,2026-11-26T03:07:33Z,5,N20,3,"Bauarbeiten
@@ -246,7 +246,7 @@ Busse halten Bessemerstraße 1-3",Gleisbauarbeiten Busse halten Bessemerstraße 
 ftazS_529,2026-11-21T07:55:22Z,2026-11-25T20:40:41Z,3,U6,1,Neue Donau,U6 Bahnsteig Richtung Floridsdorf - Ausgang Neue Donau,2026-11-25T20:45:00.000+0100,2026-11-26T00:45:00.000+0100,4644
 I20261121-0007,2026-11-21T07:55:22Z,2026-11-21T07:55:22Z,1,U6,2,U6: Rettungseinsatz,Linie U6: Unregelmäßige Intervalle in beiden Richtungen. Grund: Rettungseinsatz.,2026-11-21T08:14:00.000+0100,,4645
 I20261121-0008,2026-11-21T07:55:22Z,2026-11-21T07:55:22Z,1,U4,2,U4: Verspätungen,Linie U4: Unregelmäßige Intervalle in beiden Richtungen. Grund: Schadhaftes Fahrzeug.,2026-11-21T08:32:00.000+0100,,
-ftazS_196,2026-11-21T15:51:44Z,2026-11-21T15:51:44Z,1,U4,1,Meidling Hauptstraße,U4 Mittelbahnsteig - Ausgang Meidling Hauptstraße/Lobkowitzbrücke,2026-11-27T01:15:00.000+0100,2026-11-27T05:15:00.000+0100,4413|4424
+ftazS_196,2026-11-21T15:51:44Z,2026-11-27T03:54:28Z,2,U4,1,Meidling Hauptstraße,U4 Mittelbahnsteig - Ausgang Meidling Hauptstraße/Lobkowitzbrücke,2026-12-18T01:15:00.000+0100,2026-12-18T05:15:00.000+0100,4413|4424
 ftazS_628,2026-11-21T15:51:44Z,2026-11-23T22:47:44Z,8,U4,1,Kettenbrückengasse,U4 Bahnsteig Richtung Heiligenstadt - Ausgang Wehrgasse,2026-12-15T20:45:00.000+0100,2026-12-16T00:45:00.000+0100,4419
 ftazS_1016957,2026-11-21T15:51:44Z,2026-11-23T11:18:37Z,8,U1,1,Taubstummengasse,U1 Mittelbahnsteig - Ausgang Tilgnerstraße,2026-12-01T01:15:00.000+0100,2026-12-01T05:15:00.000+0100,4107|4122
 I20261121-0023,2026-11-21T15:51:44Z,2026-11-21T15:51:44Z,1,U6,2,U6: Verunreinigung,Linie U6: Unregelmäßige Intervalle in beiden Richtungen. Grund: Verunreinigung.,2026-11-21T16:31:00.000+0100,,4624
@@ -279,7 +279,7 @@ R3375-149,2026-11-22T22:02:02Z,2026-11-22T22:02:02Z,1,49,3,"Fahrtbehinderung
 wegen Rettungseinsatz",Fahrtbehinderung wegen Rettungseinsatz,2026-11-22T22:49:02.000+0100,2026-11-22T23:48:00.000+0100,3375
 R1458-149,2026-11-22T22:02:02Z,2026-11-22T22:02:02Z,1,49,3,"Fahrtbehinderung
 wegen Rettungseinsatz",Fahrtbehinderung wegen Rettungseinsatz,2026-11-22T22:49:03.000+0100,2026-11-22T23:48:00.000+0100,1458
-ftazS_29,2026-11-23T02:44:03Z,2026-11-26T21:47:41Z,4,U3,1,Herrengasse,Zwischengeschoss - Ausgang Minoritenplatz,2026-12-10T01:15:00.000+0100,2026-12-10T05:15:00.000+0100,4907|4910
+ftazS_29,2026-11-23T02:44:03Z,2026-11-27T03:54:28Z,5,U3,1,Herrengasse,Zwischengeschoss - Ausgang Minoritenplatz,2026-12-10T01:15:00.000+0100,2026-12-10T05:15:00.000+0100,4907|4910
 ftazS_445,2026-11-23T02:44:03Z,2026-11-23T02:44:03Z,1,U3,1,Johnstraße,Passage - Zwischengeschoss Zugang Meiselmarkt - Ausgang Hütteldorfer Straße,2026-12-01T01:15:00.000+0100,2026-12-01T05:15:00.000+0100,4925|4926
 ftazS_1016611,2026-11-23T02:44:03Z,2026-11-25T02:40:45Z,2,U1,1,Reumannplatz,U1 Mittelbahnsteig - Ausgang Favoritenstraße,2026-12-15T01:15:00.000+0100,2026-12-15T05:15:00.000+0100,4101|4128
 ftazS_1031932,2026-11-23T02:44:03Z,2026-11-26T03:07:33Z,2,U3,1,Stubentor,U3 Bahnsteig Ri. Ottakring - U3 Bahnsteig Ri. Simmering - Ausgang Parkring (Aufzugsgruppe),,,4912|4905
@@ -3070,7 +3070,7 @@ ftazS_1016925,2026-11-26T03:07:33Z,2026-11-26T03:07:33Z,1,6|62|WLB|18,1,Eichenst
 ftazS_1016926,2026-11-26T03:07:33Z,2026-11-26T03:07:33Z,1,6|62|18|WLB,1,Eichenstraße,"6,18 Bahnsteig Richtung Burggasse, 62 Bahnsteig Richtung Lainz, Badner Bahn Bahnsteig Richtung Baden - Ausgang Eichenstraße",,,399|427|399|399
 ftazS_1354391,2026-11-26T03:07:33Z,2026-11-26T03:07:33Z,1,U4,1,Meidling Hauptstraße,U4 Mittelbahnsteig - Ausgang Ruckergasse,2026-12-18T01:15:00.000+0100,2026-12-18T05:15:00.000+0100,4413|4424
 ftazS_240,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U4|U6,1,Längenfeldgasse,"U4 Bahnsteig Richtung Hütteldorf, U6 Bahnsteig Richtung Siebenhirten - Ausgang Storchensteg/Gierstergasse",2026-12-03T01:15:00.000+0100,2026-12-03T05:15:00.000+0100,4438|4612
-ftazS_354,2026-11-26T12:25:05Z,2026-11-26T21:47:41Z,2,U3,1,Neubaugasse,Zwischengeschoss - Ausgang Kirchengasse,2026-12-15T01:15:00.000+0100,2026-12-15T05:15:00.000+0100,4918|4923
+ftazS_354,2026-11-26T12:25:05Z,2026-11-27T03:54:28Z,3,U3,1,Neubaugasse,Zwischengeschoss - Ausgang Kirchengasse,2026-12-15T01:15:00.000+0100,2026-12-15T05:15:00.000+0100,4918|4923
 ftazS_599,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U3,1,Kendlerstraße,U3 Mittelbahnsteig - Ausgang Kendlerstraße,2026-12-15T01:15:00.000+0100,2026-12-15T05:15:00.000+0100,4929|4932
 ftazS_1031919,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,U6,1,Floridsdorf,U6 Mittelbahnsteig - Passage - ÖBB Bahnsteig (Aufzugsgruppe),,,4645|4646
 I20261126-0042-F01,2026-11-26T12:25:05Z,2026-11-26T12:25:05Z,1,64A,2,64A: Aktuelle Wetterlage,Linie 64A: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T10:58:00.000+0100,,2327
@@ -3387,14 +3387,14 @@ R3185-126,2026-11-26T12:25:05Z,2026-11-26T21:47:41Z,2,26,3,"Fahrtbehinderung
 Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T21:55:41.000+0100,2026-11-26T22:55:00.000+0100,3185
 R3183-126,2026-11-26T12:25:05Z,2026-11-26T21:47:41Z,2,26,3,"Fahrtbehinderung
 Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T21:55:41.000+0100,2026-11-26T22:55:00.000+0100,3183
-ftazS_37,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,U6,1,Josefstädter Straße,U6 Bahnsteig Richtung Siebenhirten - Ausgang Neulerchenfelder Straße,2026-12-15T20:45:00.000+0100,2026-12-16T00:45:00.000+0100,4607
+ftazS_37,2026-11-26T21:47:41Z,2026-11-27T03:54:28Z,2,U6,1,Josefstädter Straße,U6 Bahnsteig Richtung Siebenhirten - Ausgang Neulerchenfelder Straße,2026-12-15T20:45:00.000+0100,2026-12-16T00:45:00.000+0100,4607
 ftazS_166,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,U3,1,Schlachthausgasse,U3 Mittelbahnsteig - Zwischengeschoss - Ausgang Markhofgasse,2026-12-20T20:45:00.000+0100,2026-12-21T00:45:00.000+0100,4901|4916
-ftazS_485,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,U6,1,Alterlaa,U6 Bahnsteig Richtung Floridsdorf - Ausgang Anton Baumgartner Straße,2026-12-09T20:45:00.000+0100,2026-12-10T00:45:00.000+0100,4638
+ftazS_485,2026-11-26T21:47:41Z,2026-11-27T03:54:28Z,2,U6,1,Alterlaa,U6 Bahnsteig Richtung Floridsdorf - Ausgang Anton Baumgartner Straße,2026-12-09T20:45:00.000+0100,2026-12-10T00:45:00.000+0100,4638
 ftazS_580,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,,1,Karlsplatz,Karlsplatzpassage - U2 Bahnsteig Fahrtrichtung Seestadt,,,
 ftazS_583,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,U4,1,Friedensbrücke,U4 Mittelbahnsteig - Ausgang Gussenbauergasse,,,4404|4433
 ftazS_1016542,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,U4,1,Unter St.Veit,"U4 Bahnsteig Richtung Heiligenstadt - Ausgang Hietzinger Kai, Hadikgasse",,,4405
 ftazS_1017125,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,U1|U2|U4,1,Karlsplatz,Passage - Ausgang Secession,2026-12-16T20:45:00.000+0100,2026-12-17T00:45:00.000+0100,
-ftazS_1352274,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,,1,Oberlaa,Übergang Brücke Zugang zur U-Bahn und Therme - Ausgang Biererlgasse - Ausgang Laaer Berg Straße,,,
+ftazS_1352274,2026-11-26T21:47:41Z,2026-11-27T03:54:28Z,2,,1,Oberlaa,Übergang Brücke Zugang zur U-Bahn und Therme - Ausgang Biererlgasse - Ausgang Laaer Berg Straße,,,
 I20261126-0114-F01,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,2,2,2: Polizeieinsatz,Linie 2: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T22:11:00.000+0100,,
 I20261126-0114-F02,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,D,2,D: Polizeieinsatz,Linie D: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T22:11:00.000+0100,,
 I20261126-0114-F03,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,71,2,71: Polizeieinsatz,Linie 71: Nach einer Fahrtbehinderung kommt es zu unterschiedlichen Intervallen.,2026-11-26T22:11:00.000+0100,,
@@ -3406,3 +3406,12 @@ R3187-126,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,26,3,"Fahrtbehinderung
 Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T21:55:41.000+0100,2026-11-26T22:55:00.000+0100,3187
 R3069-126,2026-11-26T21:47:41Z,2026-11-26T21:47:41Z,1,26,3,"Fahrtbehinderung
 Schadhafter Zug",Fahrtbehinderung Schadhafter Zug,2026-11-26T21:55:42.000+0100,2026-11-26T22:55:00.000+0100,3069
+ftazS_167,2026-11-27T03:54:28Z,2026-11-27T03:54:28Z,1,U3,1,Schlachthausgasse,U3 Mittelbahnsteig - Ausgang Schlachthausgasse - Ausgang Hainburger Weg,2026-12-21T01:15:00.000+0100,2026-12-21T05:15:00.000+0100,4901|4916
+ftazS_735,2026-11-27T03:54:28Z,2026-11-27T03:54:28Z,1,U1,1,Nestroyplatz,U1 Mittelbahnsteig - Ausgang Praterstraße,2026-12-17T01:15:00.000+0100,2026-12-17T05:15:00.000+0100,4114|4115
+ftazS_1016543,2026-11-27T03:54:28Z,2026-11-27T03:54:28Z,1,U4,1,Unter St.Veit,"U4 Bahnsteig Richtung Hütteldorf - Ausgang Hietzinger Kai, Hadikgasse",,,4432
+ftazS_1016924,2026-11-27T03:54:28Z,2026-11-27T03:54:28Z,1,62|1|WLB,1,Laurenzgasse,"1 Bahnsteig Richtung Stefan Fadinger Platz, 62 Bahnsteig Richtung Lainz, Badner Bahn Bahnsteig Richtung Baden - Ausgang Wiedner Hauptstraße",2026-12-17T01:15:00.000+0100,2026-12-17T05:15:00.000+0100,1714|1714|1751
+ftazS_1017717,2026-11-27T03:54:28Z,2026-11-27T03:54:28Z,1,U1|U2|U4,1,Karlsplatz,Passage - Ausgang Künstlerhaus,,,
+R2034-571,2026-11-27T03:54:28Z,2026-11-27T03:54:28Z,1,N71,3,"Gleisbauarbeiten
+Busse halten Simmeringer Hauptstraße 157-161",Gleisbauarbeiten Busse halten Simmeringer Hauptstraße 157-161,2026-11-27T00:30:23.000+0100,2026-11-27T05:00:00.000+0100,2034
+R2024-571,2026-11-27T03:54:28Z,2026-11-27T03:54:28Z,1,N71,3,"Gleisbauarbeiten
+Busse halten Simmeringer Hauptstraße 120",Gleisbauarbeiten Busse halten Simmeringer Hauptstraße 120,2026-11-27T00:30:25.000+0100,2026-11-27T05:00:00.000+0100,2024
